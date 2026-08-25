@@ -1,108 +1,74 @@
-# dogukanyeginopensourcedocuments
+NorthByte & AAP Sweden — Official Open-Source Legal Documents & Institutional Archive
+This repository serves as the verified, immutable public record and legal document repository for Doğukan Yegin, NorthByte Norway Tec Ltd., and AAP Sweden.
 
-# NorthByte & AAP Sweden Doğukan Yegin- Official Open Source Legal Documents
+The primary objective of this public archive is to maintain an open-source, blockchain-verifiable, and legally sound baseline ensuring institutional transparency, protecting intellectual property, and countering bad-faith digital misrepresentation or asymmetric defamation campaigns.
 
-This repository contains the verified, official public legal documents and institutional registrations of Doğukan Yegin. 
+🏛️ Corporate Registration & Statutory Accreditations
+Corporate Status: NorthByte Norway Tec Ltd. is a registered limited company incorporated under the laws of England and Wales (Companies House, Cardiff | Company No: 17140202).
 
-The purpose of this platform is to maintain a blockchain-ready, transparent, and sovereign archive against corporate defamation, disinformation campaigns, and illegal institutional overreach.
+International Procurement & Systems: Registered vendor within the United Nations Global Marketplace (UNGM Member No: 1256817), participant in the UN Global Compact (Participant ID: 211077), and listed within the United Kingdom Crown Commercial Supplier network.
 
-## 🏛️ Strategic Registrations & Compliance
+Institutional Certifications: Certified in "Educational Resource in Protective Security & Total Defense" by the Swedish Defence University (Försvarshögskolan / CRISMART) and "Open-Source Intelligence (OSINT)" by the Basel Institute on Governance.
 
-- **Corporate Status:** NorthByte Norway Tec Ltd. is a registered limited/joint-stock company under the jurisdiction of England and Wales (Companies House, Cardiff | Company No: 17140202).
-- **International Accreditations:** SME Global Hub Member, CVE (Critical Vulnerability & Compliance) registered, United Nations Global Marketplace (UNGM) system vendor, and officially listed within the United Kingdom gov.uk Crown Supplier (Government Commercial Agency) procurement network.
-- **Strategic Competencies:** Certified in "Educational Resource in Protective Security & Total Defense" by the Swedish Defence University (CRISMART) and "Open-Source Intelligence (OSINT)" by the Basel Institute on Governance.
+📋 Registered Operational Scope (UK SIC Codes)
+NorthByte Norway Tec Ltd. operates strictly within the following registered United Kingdom Standard Industrial Classification (SIC) frameworks:
 
-## 🛡️ Strategic Privacy & Data Sovereign Policy (Mahremiyet Bildirgesi)
+SIC 58210: Publishing of computer games (interactive simulation architectures and defensive educational cyber-training environments).
 
-- **Sovereign Non-Disclosure:** This repository strictly hosts documents that are already of public record or legally mandated to be open source. Personal data, family privacy, proprietary source codes of institutional AI models (Ülgen AI / Malafat Insights), and corporate commercial secrets are strictly exempt from public disclosure.
-- **State-Only Interoperability:** Detailed cryptographic logs, operational algorithms, and critical verification data will never be made accessible to public scrutiny or populistic digital echo chambers. Comprehensive data streams are shared exclusively with legitimate sovereign state entities and intelligence apparatuses upon formal, lawful requisition.
-- **The "FactShield" Principle:** Unjustified institutional transparency is a vector for systemic vulnerability and digital noise. Strategic privacy is our primary line of protective defense.
+SIC 62012: Business and domestic software development (commercial digital analysis systems and institutional defense software).
 
-## ⚖️ Intellectual & Legal Notice (Hukuki İhtar)
+SIC 62020: Information technology consultancy activities (strategic risk analysis and technology advisory).
 
-Any automated scrapers, bad-faith bulwark media outlets (e.g., Se og Hør or local fraudulent foundations), or unauthorized third parties attempting to extract, misrepresent, or weaponize the open-source documents hosted herein to infringe upon individual/corporate human rights, neurodiversity autonomy, or commercial integrity will face immediate, aggressive corporate litigation under international common law, Birleşik Krallık corporate defamation statutes, and relevant local criminal codes (including TCK Article 216/2 and Article 122).
-# NorthByte & AAP Sweden — Official Open Source Legal Documents & Operational Doctrine
+SIC 62090: Other information technology and computer service activities (OSINT data verification and digital resilience infrastructure).
 
-This repository contains the verified, official public legal documents, institutional registrations, and the clear operational scope of Doğukan Yegin (NorthByte Norway Tec Ltd. & AAP Sweden). 
+⚙️ Core Research & Verification Capabilities
+NorthByte Norway Tec Ltd. is an independent civilian technology and open-source intelligence research entity operating exclusively through lawful, ethical, and evidence-based methodologies.
 
-The purpose of this platform is to maintain a static, blockchain-ready, and sovereign archive against corporate defamation, disinformation campaigns, and illegal institutional overreach.
+Primary Disciplines
+OSINT & SOCMINT: Open-Source and Social Media Intelligence collection, timeline reconstruction, and network mapping.
 
----
+GEOINT & IMINT: Geospatial intelligence, satellite imagery analysis (Sentinel Hub, NASA Worldview, EO Browser), and EXIF metadata verification.
 
-## ⚙️ Strategic Operational Branches
+WEBINT & Infrastructure Mapping: Passive DNS analysis, WHOIS intelligence, Certificate Transparency logs, and attack surface discovery.
 
-### 1. OSINT & Digital Reputation Assurance (FactShield)
-Using advanced Open-Source Intelligence (OSINT) methodologies, we detect, map, and analyze asymmetric disinformation operations. We ensure verified, empirical data flow for legitimate institutional decision-makers.
+Fact-Checking & Reputation Integrity (FactShield): Empirical data verification and threat actor mapping against disinformation campaigns.
 
-### 2. Strategic Risk Monitoring & Global Development Analysis
-We monitor and analyze macro-level global developments, emerging geopolitical risks, and structural vulnerabilities within high-trust socio-political systems, providing data-driven strategic foresight.
+Coordinated Vulnerability Disclosure (CVD): Defensive security research and responsible vulnerability mitigation within bug bounty scopes.
 
-### 3. Interactive Cyber Training and Simulation (Simulation & Training Branch)
-We design and model defensive cyber scenarios, crisis management protocols, and institutional resilience algorithms through interactive architectural models to elevate tactical defenses to the highest tier.
+Methodological Frameworks
+Intelligence Lifecycle & Structured Analytic Techniques (SATs)
 
----
+Diamond Model of Intrusion Analysis (strictly passive mapping)
 
-## 🏛️ Legal Scope of Operations (UK SIC Codes)
-NorthByte Norway Tec Ltd. operates its commercial and technical excellence strictly within the following legal and registered corporate frameworks:
-- **SIC 58210:** Publishing of computer games (Including interactive simulations and defensive cyber training systems).
-- **SIC 62012:** Development of commercial defense and digital analysis software.
-- **SIC 62020:** Information technology and strategic risk consulting.
-- **SIC 62090:** Other information technology services (OSINT data verification and digital resilience infrastructure).
+Digital Evidence Handling & Verifiable Chain of Custody Protocols
 
----
+⛔ Restricted Operations & Prohibited Activities
+To ensure absolute compliance with international cybersecurity laws and sovereign regulatory standards, NorthByte Norway Tec Ltd. strictly abstains from the following activities:
 
-## ⚖️ Operational Ethics, Discipline & Capabilities (The NorthByte Code)
+No Offensive Cyber Operations: Zero deployment of malware, zero unauthorized network intrusion, and no black-hat exploitation.
 
-- **Disciplined Response Model:** We conduct our computational research with the absolute seriousness of a professional strategic defense contractor, within a tightly structured, lawful operational framework.
-- **Legal & Regulatory Compliance:** All verification activities demonstrate total compliance with international cybersecurity statutes, copyright frameworks, and data protection principles (GDPR/Compliance).
-- **Proactive Defensive Framework:** Our expertise is uniquely anchored in the "proactive defense" and information integrity discipline. **NorthByte does not engage in offensive cyber operations, unauthorized network intrusions, or illegal activities under any circumstances.**
+No Interceptive Signals Intelligence (SIGINT / COMINT): No unauthorized wiretapping, communication interception, or radio frequency monitoring.
 
-NorthByte Norway Tec Ltd. is an independent civilian technology, cybersecurity, and intelligence research entity specializing exclusively in lawful, ethical, and evidence-based investigation. Our findings rely solely on publicly accessible information, open government data, and authorized security research.
+No Electronic Intelligence (ELINT / FISINT): No electromagnetic surveillance or unauthorized technical sensor interception.
 
-### Core Research & Verification Capabilities
-- **OSINT** (Open Source Intelligence) & **SOCMINT** (Social Media Intelligence)
-- **GEOINT** (Geospatial Intelligence) & **IMINT** (Imagery Intelligence)
-- **HUMINT** (Public Human Source Mapping & Corporate Network Resolution)
-- **WEBINT** (Web Infrastructure & Passive DNS Analysis)
-- **Fact Checking**, Information Integrity & Digital Risk Intelligence
-- **Defensive Cybersecurity**, Attack Surface Mapping & Vulnerability Research
-- **Responsible Disclosure** (Coordinated Vulnerability Disclosure - CVD) & Bug Bounty Research
+🛡️ Strategic Privacy & Data Sovereignty Policy
+Public Record Exclusivity: This repository hosts exclusively documents that are lawfully public or designated for open-source verification. Redacted personal records, family privacy, proprietary algorithmic source codes (e.g., Ülgen AI), and commercial trade secrets are strictly exempt from public release.
 
-### Methodologies & Structured Techniques
-- OSINT Intelligence Lifecycle & The Classic Intelligence Cycle
-- Structured Analytic Techniques (SATs) for Geopolitical Risk Analysis
-- Diamond Model of Intrusion Analysis (Passive Mapping)
-- Chain of Custody & Digital Evidence Handling Protocols
+Restricted Interoperability: Comprehensive forensic logs and internal research models will not be subjected to unauthorized scraping. Critical verification streams are shared exclusively with legitimate sovereign authorities, state courts, or lawful regulatory apparatuses upon formal legal requisition.
 
----
+Proactive Legal Protection: Strategic privacy constitutes our foundational line of defense against digital harassment and bad-faith distortion.
 
-## 🛠️ Extended OSINT Discovery & Infrastructure Mapping
-Our data-mining methodology focuses on the lawful collection, verification, cross-source correlation, and timeline reconstruction of publicly available information from legally accessible open data streams:
-- **Search Dynamics:** Google, Bing, DuckDuckGo, Yandex, Brave Search (Advanced Search Operators, PublicWWW, Common Crawl, Wayback Machine).
-- **Network & Infrastructure Intelligence:** Shodan, Censys, Netlas, SecurityTrails, URLScan.io, FOCA, BuiltWith, Wappalyzer, GreyNoise, Passive DNS, WHOIS, Certificate Transparency Logs, ASN and Routing Analysis.
-- **Corporate & Financial Intelligence:** OpenCorporates, Companies House (UK), SEC EDGAR, Open Ownership, Beneficial Ownership Registers, Trademark/Patent Databases, and Public Procurement Portals.
-- **Government, Legal & Judicial Records:** National/State Archives, Official Gazettes, Public Court Judgments, Commercial Court Filings, Bankruptcy/Insolvency Registers, and Freedom of Information (FOIA) resources.
-- **Academic & Media Intelligence:** Google Scholar, JSTOR, arXiv, Semantic Scholar, Internet Archive, Reuters, Associated Press (AP), Agence France-Presse (AFP), BBC, Bloomberg, and Financial Times.
-- **Geospatial Processing (GEOINT):** Google Earth Pro, OpenStreetMap, ArcGIS, QGIS, Sentinel Hub, NASA Worldview, EO Browser, and EXIF Metadata Analysis.
+⚖️ Legal & Intellectual Property Notice (Hukuki İhtar)
+Any unauthorized scraping, context manipulation, or malicious misrepresentation of the open-source records hosted herein by bad-faith third parties, predatory publishers, or unauthorized aggregators will be met with immediate legal recourse.
 
----
+Remedies will be pursued under UK Common Law (Defamation Act 2013), GDPR/Data Protection Act 2018, and relevant international criminal and civil codes (including Turkish Penal Code Art. 122 and Art. 216/2 regarding discrimination and hate speech).
 
-## ⛔ Restricted Operations: Activities We Do Not Perform
-To maintain absolute compliance with international laws, NorthByte Norway Tec Ltd. strictly abstains from, and does not possess the mandate to perform, the following offensive or intrusive activities:
-- **Signals Intelligence (SIGINT):** No unauthorized interception of private communications or radio spectrum signals.
-- **Communications Intelligence (COMINT) & Electronic Intelligence (ELINT):** No interceptive wiretapping or electromagnetic emission surveillance.
-- **Foreign Instrumentation Signals Intelligence (FISINT).**
-- **No Offensive Hacking (Black-Hat Operations), malware deployment, or state-level cyber-espionage.**
+🔒 Final Archive Lock & Immutability Notice
+Archive Status: OFFICIALLY FINALIZED & LOCKED (August 10, 2026)
 
----
+Data Immutability: All foundational corporate charters, official translations (including Swedish Police Clearance documentation), and public petitions have been indexed. No further tactical credentials or legal filings will be appended to this public directory.
 
-## 🔒 FINAL ARCHIVE LOCK, DATA IMMUTABILITY & EXCLUSION NOTICE
-
-- **Nihai Kilit (Nihai Kilitleme):** This repository has been officially vetted, finalized, and structurally locked as of August 10, 2026. All foundational corporate registrations (Companies House No: 17140202), international UNGM (Member No: 1256817) and UN Global Compact (ID: 211077) accreditations, bilateral sovereign petitions (TBMM), and ethnographic research data (AB/APHIA) have been systematically completed and indexed. 
-- **Freeze Policy (Veri Dondurma):** No further legal documents, institutional credentials, or tactical open-source intelligence assets will be appended to this public platform. The public data lifecycle of this specific repository is now entirely static.
-- **⚠️ ABSOLUTE LEGAL EXCLUSION (YASAL GÜVENCE ŞERHİ): This repository strictly hosts independent, open-source civil research, official corporate registrations, and public law petitions. This platform DOES NOT contain, host, or reference any classified state secrets, restricted government data, military operational secrets, or nuclear codes/intelligence of any sovereign nation.**
-- **Sovereign Interoperability Enforcement:** Any subsequent, non-public compliance documentation or algorithmic proprietary files regarding institutional artificial intelligence developments (Ülgen AI) will bypass public networks entirely. Future data transmissions will be executed exclusively through isolated, encrypted server structures interfacing directly with legitimate sovereign state intelligence and defense apparatuses upon official executive requisition.
-- **Operational Conclusion:** Public transparency parameters have reached their optimization threshold. Any unauthorized attempt to inject data, manipulate history branches, or execute adversarial scraping will be classified as a direct cyber-hostile intervention against institutional integrity.
+Absolute Exclusion Clause: This repository contains strictly civilian corporate documentation, academic certifications, and open-source research records. It does not host, reference, or possess classified government intelligence, defense secrets, or restricted state materials of any sovereign nation.
 
 ---
 *Fortitudine et Honore — Final Sovereign Lock Executed on August 10, 2026. Registered under the Commonwealth Heraldic Framework via the Kenya College of Arms (eCitizen Verification Status).*
