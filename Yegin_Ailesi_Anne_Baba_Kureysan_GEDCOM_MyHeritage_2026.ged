@@ -1,0 +1,2906 @@
+﻿0 HEAD
+1 SOUR Vestigee
+2 NAME Vestigee (Yegin Research Extension)
+2 VERS 2.0
+1 DATE 18 OCT 2026
+1 SUBM @SUBM@
+1 FILE Yegin_Ailesi_Anne_Baba_Kureysan_GEDCOM_MyHeritage_2026.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 NOTE Kullanıcının orijinal Vestigee GEDCOM kaydı, e-Devlet soy verileri, anne ve baba ataları, kanıt seviyeli Kureyşan araştırmaları ve tüm raporlarla genişletildi.
+0 @I1@ INDI
+1 NAME BESİME /Yegin/
+2 GIVN BESİME
+2 SURN Yegin
+1 SEX F
+1 BIRT
+2 DATE 3 FEB 1928
+2 PLAC Nazımiye, Tunceli, Türkiye
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, kayıt sıra 20
+1 DEAT
+2 DATE 17 DEC 2008
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, kayıt sıra 20
+1 NOTE Nüfusa kayıtlı yer: İstanbul/Kadıköy/Fikirtepe Mahallesi. Bu kayıt ölüm yeri değildir; ölüm yeri belgede belirtilmiyor.
+1 FAMC @F5@
+1 FAMS @F1@
+1 SOUR @S2@
+0 @I2@ INDI
+1 NAME Şehriban /Kuş/
+2 GIVN Şehriban
+2 SURN Kuş
+1 SEX F
+1 BIRT
+2 DATE 1 JUL 1897
+2 PLAC Nazımiye, Tunceli, Türkiye
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, kayıt sıra 13
+1 DEAT
+2 DATE 5 OCT 1983
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, kayıt sıra 13
+1 NOTE Ek aile bilgisi: Aile anlatısına göre Şehriban Kuş, Temür'ün ölümünün ardından başka bir ağayla evlenmiştir. İkinci eşinin kimliği ve evlilik tarihi henüz belgelenmemiştir.
+1 NOTE Nüfusa kayıtlı yer: Tunceli/Nazımiye/Geriş Köyü. Bu kayıt köyü, doğum köyü olarak kanıtlanmış değildir.
+1 FAMS @F2@
+1 FAMC @F8@
+1 NOTE @N1@
+1 SOUR @S2@
+0 @I3@ INDI
+1 NAME Temür /Yegin/
+2 GIVN Temür
+2 SURN Yegin
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1884
+2 PLAC Nazımiye, Tunceli, Türkiye
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, kayıt sıra 10
+1 DEAT Y
+1 NOTE Arşiv bilgisi: Temür Yegin ve ailesi, 1341 (1925) yılında yangın sonrasında gerçekleştirilen nüfus yazımıyla Çevrecik köyü nüfusuna kaydedilmiştir. 1925, doğum yılı değil, nüfus kaydının yılıdır. kendisi ağadı
+1 NOTE Nüfusa kayıtlı yer: Tunceli/Nazımiye/Çevrecik Köyü. Soyadı hanesi resmî kayıtta boş; Yegin aile adı ilişkiyi göstermek amacıyla
+2 CONT korunmuştur.
+1 NOTE Aile sözlü tarihinde Temür Ağa olarak anılır. Mevcut GEDCOM içindeki 1925 nüfus yazımı ve ağalık anlatıları, bağımsız arşiv
+2 CONT belgesiyle ayrıca denetlenmelidir.
+1 FAMC @F4@
+1 FAMS @F2@
+1 NOTE @N1@
+1 SOUR @S2@
+1 SOUR @S3@
+1 SOUR @S4@
+1 SOUR @S5@
+1 SOUR @S5@
+1 SOUR @S6@
+1 SOUR @S7@
+1 SOUR @S8@
+1 SOUR @S9@
+1 NOTE @N2@
+1 NOTE @N3@
+1 NOTE @N4@
+1 NOTE @N5@
+1 NOTE @N6@
+1 NOTE @N7@
+1 NOTE @N8@
+1 SOUR @S10@
+1 NOTE TAM ARAŞTIRMA EKİ: genelkurmay_sayfa_numarali_taranabilir_metin.txt; SHA-256 e5cdaedf5252d37bc2db6978978e
+2 CONC 14271e63e217ba261b914a70c0419f2b50d1; tam metin/veri, aynı ZIP içindeki dosyada ve TAM_ARSIV GEDCOM dosya
+2 CONC sında bulunuyor.
+1 SOUR @S11@
+1 NOTE TAM ARAŞTIRMA EKİ: varto_sayfa_numarali_taranabilir_metin.txt; SHA-256 b0cfa12d46b052b20ecde7678061cac1ab
+2 CONC d01a315f0d6692f98ea6efdc0b59e0; tam metin/veri, aynı ZIP içindeki dosyada ve TAM_ARSIV GEDCOM dosyasında 
+2 CONC bulunuyor.
+1 SOUR @S12@
+1 NOTE TAM ARAŞTIRMA EKİ: Hedef_Kelime_Sayfa_Eslesmeleri.csv; SHA-256 61c7006a464f2650450abed8bcaa6b29151c3239e6
+2 CONC 9ca8061d54d1d536710797; tam metin/veri, aynı ZIP içindeki dosyada ve TAM_ARSIV GEDCOM dosyasında bulunuyo
+2 CONC r.
+1 SOUR @S13@
+1 NOTE TAM ARAŞTIRMA EKİ: Tam_Tarama_Istatistikleri.json; SHA-256 07e1ce6bcf8dfb2e9bd4fbb045fdebf0a5f7ebec7bdb80
+2 CONC a139288e3578228678; tam metin/veri, aynı ZIP içindeki dosyada ve TAM_ARSIV GEDCOM dosyasında bulunuyor.
+0 @I4@ INDI
+1 NAME Cemal /Yegin/
+2 GIVN Cemal
+2 SURN Yegin
+1 SEX M
+1 BIRT
+2 DATE 14 APR 1969
+2 PLAC Nazımiye, Tunceli
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, kayıt sıra 24
+1 FAMC @F1@
+1 FAMS @F3@
+1 SOUR @S2@
+0 @I5@ INDI
+1 NAME Hasan /Yegin/
+2 GIVN Hasan
+2 SURN Yegin
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1928
+2 PLAC Nazımiye, Tunceli (Dersim)
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, kayıt sıra 21
+1 DEAT
+2 DATE 24 SEP 1996
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, kayıt sıra 21
+1 NOTE Not: Çevrecik (Sayrik) köyü kaydı, Hasan Yegin'in babası Temür Yegin ile ilişkilidir. Hasan'ın doğum köyü ayrıca doğrulanmış değildir.
+1 NOTE Nüfusa kayıtlı yer: İstanbul/Kadıköy/Fikirtepe Mahallesi. Ölüm yeri bu belgede belirtilmemiştir.
+1 FAMC @F2@
+1 FAMS @F1@
+1 NOTE @N1@
+1 SOUR @S2@
+0 @I6@ INDI
+1 NAME Doğukan /Yegin/
+2 GIVN Doğukan
+2 SURN Yegin
+1 SEX M
+1 BIRT
+2 DATE 11 MAY 1994
+2 PLAC Şişli, İstanbul, Türkiye
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, kayıt sıra 26
+1 NOTE Imported from onboarding
+1 FAMC @F3@
+1 NOTE @N1@
+1 SOUR @S2@
+1 SOUR @S3@
+1 SOUR @S4@
+1 SOUR @S5@
+1 SOUR @S6@
+1 SOUR @S7@
+1 SOUR @S8@
+1 SOUR @S9@
+1 NOTE Anne tarafı dahil edildi ve kaynaklandı; Kureyşan araştırması baba hattı için doğrulanmış ve doğrulanmamış tüm notlarla korunmaktadır.
+1 NOTE @N2@
+1 NOTE @N3@
+1 NOTE @N4@
+1 NOTE @N5@
+1 NOTE @N6@
+1 NOTE @N7@
+1 NOTE @N8@
+0 @I7@ INDI
+1 NAME Banu /Alev/
+2 GIVN Banu
+2 SURN Alev
+1 SEX F
+1 BIRT
+2 DATE 1 AUG 1970
+2 PLAC İstanbul, Türkiye
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, kayıt sıra 25
+1 NOTE annem
+1 NOTE Önceki GEDCOMda doğum ilçesi Şişli yazıyordu; e-Devlet soy belgesi yalnızca İstanbul doğum yerini doğruluyor.
+1 FAMS @F3@
+1 FAMC @F26@
+1 SOUR @S2@
+1 NOTE Anne tarafı belgelendi: Hayri Yavuz Alev + Halide Alev çocukları. Anne hatları Gedik, Narşap, Alev ve soyadları kaydedilmemiş daha eski kuşaklara izlenir.
+0 @I8@ INDI
+1 NAME Hüseyin //
+2 GIVN Hüseyin
+1 SEX M
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi, kayıt sıra 10
+1 FAMS @F4@
+1 NOTE Temürün babası. Adı Temürün alt-üst soy satırındaki baba adı alanından doğrulandı. Kendi doğum/ölüm bilgileri ve soyadı belgede
+2 CONT yok.
+1 NOTE Temür Çevrecik Köyüne kayıtlıdır; Hüseyinin doğum veya ölüm yeri Çevrecik olarak varsayılmamıştır.
+1 NOTE @N1@
+1 SOUR @S2@
+1 SOUR @S3@
+1 SOUR @S4@
+1 SOUR @S5@
+1 SOUR @S6@
+1 SOUR @S7@
+1 SOUR @S8@
+1 SOUR @S9@
+0 @I9@ INDI
+1 NAME Sakine //
+2 GIVN Sakine
+1 SEX F
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi, kayıt sıra 10
+1 FAMS @F4@
+1 NOTE Temürün annesi. Adı Temürün alt-üst soy satırındaki ana adı alanından doğrulandı. Kendi doğum/ölüm bilgileri ve soyadı belgede
+2 CONT yok.
+1 NOTE Temür Çevrecik Köyüne kayıtlıdır; Sakinenin doğum veya ölüm yeri Çevrecik olarak varsayılmamıştır.
+1 SOUR @S2@
+0 @I10@ INDI
+1 NAME Ali /Görgü/
+2 GIVN Ali
+2 SURN Görgü
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1909
+2 PLAC Kiğı, Türkiye
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, kayıt sıra 17
+1 DEAT
+2 DATE 16 AUG 1972
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, kayıt sıra 17
+1 FAMS @F5@
+1 NOTE Babası: Kali Görgü (1865-1940); annesi: Zeynep Görgü (1878, ölüm tarihi belirtilmemiş). Besime Yeginin babası.
+1 NOTE Nüfusa kayıtlı yer: Elazığ/Karakoçan/Akarbaşı Köyü. Ölüm yeri belirtilmemiştir. 1 Temmuz doğum tarihi nüfustaki şekliyle
+2 CONT aktarıldı.
+1 FAMC @F6@
+1 NOTE Bağlam: Kişi Ali Görgü; bu kişi aynı adı taşıyan Seyran Görgü babası Ali değildir.
+1 SOUR @S1@
+0 @I11@ INDI
+1 NAME Seyran /Görgü/
+2 GIVN Seyran
+2 SURN Görgü
+1 SEX F
+1 BIRT
+2 DATE 1 JUL 1914
+2 PLAC Kiğı, Türkiye
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, kayıt sıra 19
+1 DEAT
+2 DATE 5 MAR 2001
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, kayıt sıra 19
+1 FAMS @F5@
+1 NOTE Babası: Ali; annesi: Fatma. Babası Ali ile eşi Ali Görgü aynı kişi değildir. Besime Yeginin annesi.
+1 NOTE Nüfusa kayıtlı yer: Elazığ/Karakoçan/Akarbaşı Köyü. Ölüm yeri belirtilmemiştir. 1 Temmuz doğum tarihi nüfustaki şekliyle
+2 CONT aktarıldı.
+1 FAMC @F7@
+1 NOTE Seyran Görgü'nün eşinin Ali Görgü olduğu, kızlarının Besime olduğu kayıtlıdır. Seyran babası Ali ayrı kişidir.
+0 @I12@ INDI
+1 NAME Mehmet Şükrü /Narşap/
+2 GIVN Mehmet Şükrü
+2 SURN Narşap
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1857
+2 PLAC Astane
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 1
+1 DEAT
+2 DATE 5 AUG 1927
+2 SOUR @S1@
+3 PAGE Sıra 1: ölüm tarihi, ölüm yeri belirtilmiyor
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 1. Nüfusa kayıtlı yer: İzmir/Konak/Göztepe Mahallesi. Baba adı: Ahme
+2 CONC t; anne adı: Ayşe. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde aktarılmıştır
+2 CONC .
+1 FAMC @F9@
+1 FAMS @F21@
+0 @I13@ INDI
+1 NAME Ali /Gedik/
+2 GIVN Ali
+2 SURN Gedik
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1863
+2 PLAC Uşak
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 2
+1 DEAT
+2 DATE 7 MAR 1933
+2 SOUR @S1@
+3 PAGE Sıra 2: ölüm tarihi, ölüm yeri belirtilmiyor
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 2. Nüfusa kayıtlı yer: İzmir/Konak/Altınordu Mahallesi. Baba adı: Mu
+2 CONC stafa; anne adı: Ümmügülsüm. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde akt
+2 CONC arılmıştır.
+1 FAMC @F10@
+1 FAMS @F18@
+0 @I14@ INDI
+1 NAME Emine /Gedik/
+2 GIVN Emine
+2 SURN Gedik
+1 SEX F
+1 BIRT
+2 DATE 1 JUL 1864
+2 PLAC Uşak
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 3
+1 DEAT
+2 DATE 29 NOV 1937
+2 SOUR @S1@
+3 PAGE Sıra 3: ölüm tarihi, ölüm yeri belirtilmiyor
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 3. Nüfusa kayıtlı yer: İzmir/Konak/Altınordu Mahallesi. Baba adı: Hü
+2 CONC seyin; anne adı: Ayşe. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde aktarılmı
+2 CONC ştır.
+1 FAMC @F11@
+1 FAMS @F18@
+0 @I15@ INDI
+1 NAME Kali /Görgü/
+2 GIVN Kali
+2 SURN Görgü
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1865
+2 PLAC Kiği
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 4
+1 DEAT
+2 DATE 19 MAR 1940
+2 SOUR @S1@
+3 PAGE Sıra 4: ölüm tarihi, ölüm yeri belirtilmiyor
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 4. Nüfusa kayıtlı yer: Elazığ/Karakoçan/Akarbaşı Köyü. Baba adı: Ali
+2 CONC ; anne adı: Elif. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde aktarılmıştır.
+1 FAMS @F6@
+1 FAMC @F12@
+0 @I16@ INDI
+1 NAME Ali Fuat //
+2 GIVN Ali Fuat
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1867
+2 PLAC İstanbul
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 5
+1 DEAT
+2 DATE 9 FEB 1933
+2 SOUR @S1@
+3 PAGE Sıra 5: ölüm tarihi, ölüm yeri belirtilmiyor
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 5. Nüfusa kayıtlı yer: İstanbul/Üsküdar/Küplüce Mahallesi. Baba adı:
+2 CONC  Arif; anne adı: Fatmatüzzehra. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde 
+2 CONC aktarılmıştır.
+1 FAMC @F13@
+1 FAMS @F20@
+0 @I17@ INDI
+1 NAME Salih //
+2 GIVN Salih
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1868
+2 PLAC Kırkkilise
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 6
+1 DEAT
+2 DATE 18 DEC 1930
+2 SOUR @S1@
+3 PAGE Sıra 6: ölüm tarihi, ölüm yeri belirtilmiyor
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 6. Nüfusa kayıtlı yer: İzmir/Konak/Uğur Mahallesi. Baba adı: Alibaba
+2 CONC ; anne adı: Aliye. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde aktarılmıştır
+2 CONC .
+1 FAMC @F14@
+1 FAMS @F22@
+0 @I18@ INDI
+1 NAME Nazire /Narşap/
+2 GIVN Nazire
+2 SURN Narşap
+1 SEX F
+1 BIRT
+2 DATE 1 JUL 1873
+2 PLAC Astane
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 7
+1 DEAT
+2 DATE 7 MAR 1954
+2 SOUR @S1@
+3 PAGE Sıra 7: ölüm tarihi, ölüm yeri belirtilmiyor
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 7. Nüfusa kayıtlı yer: İzmir/Konak/Göztepe Mahallesi. Baba adı: Hasa
+2 CONC n; anne adı: Fatma. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde aktarılmıştı
+2 CONC r.
+1 FAMC @F15@
+1 FAMS @F21@
+0 @I19@ INDI
+1 NAME Zeynep /Görgü/
+2 GIVN Zeynep
+2 SURN Görgü
+1 SEX F
+1 BIRT
+2 DATE 1 JUL 1878
+2 PLAC Kiğı
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 8
+1 NOTE Ölüm tarihi veya hâlen sağ olduğu soy belgesinden kesinleştirilemez; belgede ölüm tarihi belirtilmemiştir
+2 CONC .
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 8. Nüfusa kayıtlı yer: Elazığ/Karakoçan/Akarbaşı Köyü. Baba adı: Ali
+2 CONC  Kali; anne adı: Fatma. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde aktarılm
+2 CONC ıştır.
+1 FAMS @F6@
+1 FAMC @F16@
+0 @I20@ INDI
+1 NAME Müberra //
+2 GIVN Müberra
+1 SEX F
+1 BIRT
+2 DATE 1 JUL 1880
+2 PLAC Asitane
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 9
+1 NOTE Ölüm tarihi veya hâlen sağ olduğu soy belgesinden kesinleştirilemez; belgede ölüm tarihi belirtilmemiştir
+2 CONC .
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 9. Nüfusa kayıtlı yer: İzmir/Konak/Uğur Mahallesi. Baba adı: Ali; an
+2 CONC ne adı: Fatma. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde aktarılmıştır.
+1 FAMC @F17@
+1 FAMS @F22@
+0 @I21@ INDI
+1 NAME İsmail Hakkı /Gedik/
+2 GIVN İsmail Hakkı
+2 SURN Gedik
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1886
+2 PLAC Uşak
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 11
+1 DEAT
+2 DATE 16 APR 1914
+2 SOUR @S1@
+3 PAGE Sıra 11: ölüm tarihi, ölüm yeri belirtilmiyor
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 11. Nüfusa kayıtlı yer: İzmir/Konak/Altınordu Mahallesi. Baba adı: A
+2 CONC li; anne adı: Emine. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde aktarılmışt
+2 CONC ır.
+1 FAMC @F18@
+1 FAMS @F23@
+0 @I22@ INDI
+1 NAME Zeynep İclal //
+2 GIVN Zeynep İclal
+1 SEX F
+1 BIRT
+2 DATE 1 JUL 1892
+2 PLAC İzmir
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 12
+1 DEAT
+2 DATE 1 NOV 1970
+2 SOUR @S1@
+3 PAGE Sıra 12: ölüm tarihi, ölüm yeri belirtilmiyor
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 12. Nüfusa kayıtlı yer: İzmir/Konak/Pazaryeri Mahallesi. Baba adı: D
+2 CONC avut; anne adı: Şadiye. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde aktarılm
+2 CONC ıştır.
+1 FAMC @F19@
+1 FAMS @F23@
+0 @I23@ INDI
+1 NAME Mehmet Kenan /Alev/
+2 GIVN Mehmet Kenan
+2 SURN Alev
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1904
+2 PLAC İstanbul
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 14
+1 DEAT
+2 DATE 10 JUL 1991
+2 SOUR @S1@
+3 PAGE Sıra 14: ölüm tarihi, ölüm yeri belirtilmiyor
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 14. Nüfusa kayıtlı yer: İstanbul/Üsküdar/Küplüce Mahallesi. Baba adı
+2 CONC : Ali Fuat; anne adı: İnayet. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde ak
+2 CONC tarılmıştır.
+1 FAMC @F20@
+1 FAMS @F24@
+0 @I24@ INDI
+1 NAME Mustafa Şekür /Narşap/
+2 GIVN Mustafa Şekür
+2 SURN Narşap
+1 SEX M
+1 BIRT
+2 DATE 3 MAR 1909
+2 PLAC İzmir
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 15
+1 DEAT
+2 DATE 27 APR 1985
+2 SOUR @S1@
+3 PAGE Sıra 15: ölüm tarihi, ölüm yeri belirtilmiyor
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 15. Nüfusa kayıtlı yer: İzmir/Konak/Göztepe Mahallesi. Baba adı: Meh
+2 CONC met Şükrü; anne adı: Nazire. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde akt
+2 CONC arılmıştır.
+1 FAMC @F21@
+1 FAMS @F25@
+0 @I25@ INDI
+1 NAME Akile /Alev/
+2 GIVN Akile
+2 SURN Alev
+1 SEX F
+1 BIRT
+2 DATE 1 JUL 1909
+2 PLAC Tokat
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 16
+1 DEAT
+2 DATE 8 SEP 1955
+2 SOUR @S1@
+3 PAGE Sıra 16: ölüm tarihi, ölüm yeri belirtilmiyor
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 16. Nüfusa kayıtlı yer: İstanbul/Üsküdar/Küplüce Mahallesi. Baba adı
+2 CONC : Salih; anne adı: Müberra. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde akta
+2 CONC rılmıştır.
+1 FAMC @F22@
+1 FAMS @F24@
+0 @I26@ INDI
+1 NAME Feriha /Narşap/
+2 GIVN Feriha
+2 SURN Narşap
+1 SEX F
+1 BIRT
+2 DATE 5 APR 1912
+2 PLAC İzmir
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 18
+1 DEAT
+2 DATE 28 DEC 1982
+2 SOUR @S1@
+3 PAGE Sıra 18: ölüm tarihi, ölüm yeri belirtilmiyor
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 18. Nüfusa kayıtlı yer: İzmir/Konak/Göztepe Mahallesi. Baba adı: İsm
+2 CONC ail Hakkı; anne adı: Zeynep İclal. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçimin
+2 CONC de aktarılmıştır.
+1 FAMC @F23@
+1 FAMS @F25@
+0 @I27@ INDI
+1 NAME Hayri Yavuz /Alev/
+2 GIVN Hayri Yavuz
+2 SURN Alev
+1 SEX M
+1 BIRT
+2 DATE 11 AUG 1942
+2 PLAC İstanbul
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 22
+1 DEAT
+2 DATE 5 JAN 1986
+2 SOUR @S1@
+3 PAGE Sıra 22: ölüm tarihi, ölüm yeri belirtilmiyor
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 22. Nüfusa kayıtlı yer: İstanbul/Üsküdar/Küplüce Mahallesi. Baba adı
+2 CONC : Mehmet Kenan; anne adı: Akile. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçiminde
+2 CONC  aktarılmıştır.
+1 FAMC @F24@
+1 FAMS @F26@
+0 @I28@ INDI
+1 NAME Halide /Alev/
+2 GIVN Halide
+2 SURN Alev
+1 SEX F
+1 BIRT
+2 DATE 20 SEP 1946
+2 PLAC İstanbul
+2 SOUR @S1@
+3 PAGE Alt-Üst Soy Belgesi, 09 OCT 2026, sıra 23
+1 NOTE Ölüm tarihi veya hâlen sağ olduğu soy belgesinden kesinleştirilemez; belgede ölüm tarihi belirtilmemiştir
+2 CONC .
+1 NOTE 9 Ekim 2026 Alt-Üst Soy Belgesi sıra 23. Nüfusa kayıtlı yer: İstanbul/Üsküdar/Küplüce Mahallesi. Baba adı
+2 CONC : Mustafa Şekür; anne adı: Feriha. Nüfus kayıt yeri doğum veya ölüm yeri değildir. Tarihler belge biçimin
+2 CONC de aktarılmıştır.
+1 FAMC @F25@
+1 FAMS @F26@
+0 @I29@ INDI
+1 NAME Ahmet //
+2 GIVN Ahmet
+1 SEX M
+1 NOTE Yalnızca çocuk 12 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I12
+1 FAMS @F9@
+0 @I30@ INDI
+1 NAME Ayşe //
+2 GIVN Ayşe
+1 SEX F
+1 NOTE Yalnızca çocuk 12 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I12
+1 FAMS @F9@
+0 @I31@ INDI
+1 NAME Mustafa //
+2 GIVN Mustafa
+1 SEX M
+1 NOTE Yalnızca çocuk 13 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I13
+1 FAMS @F10@
+0 @I32@ INDI
+1 NAME Ümmügülsüm //
+2 GIVN Ümmügülsüm
+1 SEX F
+1 NOTE Yalnızca çocuk 13 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I13
+1 FAMS @F10@
+0 @I33@ INDI
+1 NAME Hüseyin //
+2 GIVN Hüseyin
+1 SEX M
+1 NOTE Yalnızca çocuk 14 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I14
+1 FAMS @F11@
+0 @I34@ INDI
+1 NAME Ayşe //
+2 GIVN Ayşe
+1 SEX F
+1 NOTE Yalnızca çocuk 14 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I14
+1 FAMS @F11@
+0 @I35@ INDI
+1 NAME Ali //
+2 GIVN Ali
+1 SEX M
+1 NOTE Yalnızca çocuk 15 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I15
+1 FAMS @F12@
+0 @I36@ INDI
+1 NAME Elif //
+2 GIVN Elif
+1 SEX F
+1 NOTE Yalnızca çocuk 15 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I15
+1 FAMS @F12@
+0 @I37@ INDI
+1 NAME Arif //
+2 GIVN Arif
+1 SEX M
+1 NOTE Yalnızca çocuk 16 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I16
+1 FAMS @F13@
+0 @I38@ INDI
+1 NAME Fatmatüzzehra //
+2 GIVN Fatmatüzzehra
+1 SEX F
+1 NOTE Yalnızca çocuk 16 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I16
+1 FAMS @F13@
+0 @I39@ INDI
+1 NAME Alibaba //
+2 GIVN Alibaba
+1 SEX M
+1 NOTE Yalnızca çocuk 17 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I17
+1 FAMS @F14@
+0 @I40@ INDI
+1 NAME Aliye //
+2 GIVN Aliye
+1 SEX F
+1 NOTE Yalnızca çocuk 17 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I17
+1 FAMS @F14@
+0 @I41@ INDI
+1 NAME Hasan //
+2 GIVN Hasan
+1 SEX M
+1 NOTE Yalnızca çocuk 18 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I18
+1 FAMS @F15@
+0 @I42@ INDI
+1 NAME Fatma //
+2 GIVN Fatma
+1 SEX F
+1 NOTE Yalnızca çocuk 18 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I18
+1 FAMS @F15@
+0 @I43@ INDI
+1 NAME Ali Kali //
+2 GIVN Ali Kali
+1 SEX M
+1 NOTE Yalnızca çocuk 19 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I19
+1 FAMS @F16@
+0 @I44@ INDI
+1 NAME Fatma //
+2 GIVN Fatma
+1 SEX F
+1 NOTE Yalnızca çocuk 19 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I19
+1 FAMS @F16@
+0 @I45@ INDI
+1 NAME Ali //
+2 GIVN Ali
+1 SEX M
+1 NOTE Yalnızca çocuk 20 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I20
+1 FAMS @F17@
+0 @I46@ INDI
+1 NAME Fatma //
+2 GIVN Fatma
+1 SEX F
+1 NOTE Yalnızca çocuk 20 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I20
+1 FAMS @F17@
+0 @I47@ INDI
+1 NAME Davut //
+2 GIVN Davut
+1 SEX M
+1 NOTE Yalnızca çocuk 22 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I22
+1 FAMS @F19@
+0 @I48@ INDI
+1 NAME Şadiye //
+2 GIVN Şadiye
+1 SEX F
+1 NOTE Yalnızca çocuk 22 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I22
+1 FAMS @F19@
+0 @I49@ INDI
+1 NAME İnayet //
+2 GIVN İnayet
+1 SEX F
+1 NOTE Yalnızca çocuk 23 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I23
+1 FAMS @F20@
+0 @I50@ INDI
+1 NAME Kamer //
+2 GIVN Kamer
+1 SEX M
+1 NOTE Yalnızca çocuk 2 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olara
+2 CONC k kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleştir
+2 CONC ilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I2
+1 FAMS @F8@
+0 @I51@ INDI
+1 NAME Hadice //
+2 GIVN Hadice
+1 SEX F
+1 NOTE Yalnızca çocuk 2 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olara
+2 CONC k kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleştir
+2 CONC ilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I2
+1 FAMS @F8@
+0 @I52@ INDI
+1 NAME Ali //
+2 GIVN Ali
+1 SEX M
+1 NOTE Yalnızca çocuk 11 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I11
+1 FAMS @F7@
+0 @I53@ INDI
+1 NAME Fatma //
+2 GIVN Fatma
+1 SEX F
+1 NOTE Yalnızca çocuk 11 numaralı kişinin 9 Ekim 2026 tarihli Alt-Üst Soy Belgesi satırındaki anne/baba adı olar
+2 CONC ak kayıtlıdır. Bu atanın soyadı, doğum ve ölüm bilgileri bilinmiyor. Aynı addaki diğer kişilerle birleşti
+2 CONC rilmemelidir.
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi; çocuk referans kişi I11
+1 FAMS @F7@
+0 @I54@ INDI
+1 NAME Hacı Kureyş //
+2 GIVN Hacı Kureyş
+1 SEX M
+1 NOTE [ARAŞTIRMA ADAYI / TARİHSEL KİŞİ] Soy ağacına bağlı olmayan kaynak kişisi. Kureyşan inanç-ocak şeceresind
+2 CONC e anılan tarihsel/geleneksel şahıs; Yeginlerle kesintisiz soy ilişkisi doğrulanmadı.
+1 NOTE @N1@
+1 SOUR @S2@
+0 @I55@ INDI
+1 NAME Seyyid Mahmud-ı Kebir //
+2 GIVN Seyyid Mahmud-ı Kebir
+1 SEX M
+1 NOTE [ARAŞTIRMA ADAYI / TARİHSEL KİŞİ] Soy ağacına bağlı olmayan kaynak kişisi. Kureyşan Ocağı ve şecere gelen
+2 CONC eğinde adı geçer; Yegin ailesinin resmî ata hattına doğrudan eklenmez.
+1 NOTE @N1@
+1 SOUR @S2@
+0 @I56@ INDI
+1 NAME Ali Çavuş //
+2 GIVN Ali Çavuş
+1 SEX M
+1 NOTE [ARAŞTIRMA ADAYI / TARİHSEL KİŞİ] Soy ağacına bağlı olmayan kaynak kişisi. 1895, 1907 ve 1911 tarihli bel
+2 CONC gelerde farklı kimlikler olasılığı; Kızılkilise idarî kaydı; aynı kişi oldukları doğrulanmadı.
+1 NOTE @N1@
+1 SOUR @S2@
+0 @I57@ INDI
+1 NAME Seyyid Mahmud //
+2 GIVN Seyyid Mahmud
+1 SEX M
+1 NOTE [ARAŞTIRMA ADAYI / TARİHSEL KİŞİ] Soy ağacına bağlı olmayan kaynak kişisi. 1911 arzuhalinde Kureyşan reis
+2 CONC i olarak zikredilir; Seyyid Mahmud-ı Kebir ile kimlik eşitliği varsayılmamıştır.
+1 NOTE @N1@
+1 SOUR @S2@
+0 @I58@ INDI
+1 NAME Derviş Süleyman //
+2 GIVN Derviş Süleyman
+1 SEX M
+1 NOTE [ARAŞTIRMA ADAYI / TARİHSEL KİŞİ] Soy ağacına bağlı olmayan kaynak kişisi. 1880 BOA İ.MMS. 68/3183 Osmanl
+2 CONC ı raporunda Kureyşanlılar bağlamında geçen kişi; Yegin soy bağı belirsiz.
+1 NOTE @N1@
+1 SOUR @S2@
+0 @I59@ INDI
+1 NAME Aliye Gaxi //
+2 GIVN Aliye Gaxi
+1 SEX F
+1 NOTE [ARAŞTIRMA ADAYI / TARİHSEL KİŞİ] Soy ağacına bağlı olmayan kaynak kişisi. Bego, Rose Polat Agum PDF s.23
+2 CONC ; Hüseyin Dede adlı oğluyla ilgili sözlü anlatı; Hüseyin Yegin ile eşitlik kurulmaz.
+1 NOTE @N1@
+1 SOUR @S2@
+0 @I60@ INDI
+1 NAME Hüseyin Dede //
+2 GIVN Hüseyin Dede
+1 SEX M
+1 NOTE [ARAŞTIRMA ADAYI / TARİHSEL KİŞİ] Soy ağacına bağlı olmayan kaynak kişisi. Rose Polat Agum PDF s.23; Aliy
+2 CONC e Gaxi oğlu, nahiye müdürlüğü anlatısı; Temür babası Hüseyin ile eşitliği kanıtlanmadı.
+1 NOTE @N1@
+1 SOUR @S2@
+0 @I61@ INDI
+1 NAME Zeynel Çavuş //
+2 GIVN Zeynel Çavuş
+1 SEX M
+1 NOTE [ARAŞTIRMA ADAYI / TARİHSEL KİŞİ] Soy ağacına bağlı olmayan kaynak kişisi. Bego Dersim 1938 ve Sonrası, P
+2 CONC DF s.23, Kureyşan yerel tarih anlatısı. Yegin soy ilişkisi belirsiz.
+1 NOTE @N1@
+1 SOUR @S2@
+0 @I62@ INDI
+1 NAME Karaballı Timur //
+2 GIVN Karaballı Timur
+1 SEX M
+1 NOTE [ARAŞTIRMA ADAYI / TARİHSEL KİŞİ] Soy ağacına bağlı olmayan kaynak kişisi. 1920 kaynaklı Karaballı Timur 
+2 CONC Ağa kaydında Hasan oğlu anılır; Hasan Yegin 1928 doğumlu olduğundan bu kişi Temür Yegin ile özdeşleştiril
+2 CONC mez.
+1 NOTE @N1@
+1 SOUR @S2@
+0 @I63@ INDI
+1 NAME Sürzade Timur //
+2 GIVN Sürzade Timur
+1 SEX M
+1 NOTE [ARAŞTIRMA ADAYI / TARİHSEL KİŞİ] Soy ağacına bağlı olmayan kaynak kişisi. Başka tarihsel Timur Ağa adayı
+2 CONC ; Temür Yegin ile özdeşliği kanıtlanmadı.
+1 NOTE @N1@
+1 SOUR @S2@
+0 @I64@ INDI
+1 NAME Aydınoğlu Timur //
+2 GIVN Aydınoğlu Timur
+1 SEX M
+1 NOTE [ARAŞTIRMA ADAYI / TARİHSEL KİŞİ] Soy ağacına bağlı olmayan kaynak kişisi. 1908 tarihli başka Timur Ağa a
+2 CONC dayı; Temür Yegin ile özdeşliği kanıtlanmadı.
+1 NOTE @N1@
+1 SOUR @S2@
+0 @I65@ INDI
+1 NAME Şemikanlı Timur //
+2 GIVN Şemikanlı Timur
+1 SEX M
+1 NOTE [ARAŞTIRMA ADAYI / TARİHSEL KİŞİ] Soy ağacına bağlı olmayan kaynak kişisi. Ağrı ayaklanmaları bağlamında 
+2 CONC 1930 civarı kaynakta; Temür Yegin ile kişi eşitliği kanıtlanmadı.
+1 NOTE @N1@
+1 SOUR @S2@
+0 @I66@ INDI
+1 NAME Seyd Xıdıro Khuresıc //
+2 GIVN Seyd Xıdıro Khuresıc
+1 SEX M
+1 NOTE [ARAŞTIRMA ADAYI / TARİHSEL KİŞİ] Soy ağacına bağlı olmayan kaynak kişisi. 1938 tanıklıklarında adı geçen
+2 CONC  anlatıcı; ayrı araştırma kişisi, Yegin baba hattı bağlantısı iddia edilmiyor.
+1 NOTE @N1@
+1 SOUR @S2@
+0 @F1@ FAM
+1 HUSB @I5@
+1 WIFE @I1@
+1 CHIL @I4@
+0 @F2@ FAM
+1 HUSB @I3@
+1 WIFE @I2@
+1 CHIL @I5@
+0 @F3@ FAM
+1 HUSB @I4@
+1 WIFE @I7@
+1 CHIL @I6@
+0 @F4@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I3@
+1 SOUR @S1@
+2 PAGE Temür, kayıt sıra 10 (anne/baba adları)
+0 @F5@ FAM
+1 HUSB @I10@
+1 WIFE @I11@
+1 CHIL @I1@
+1 SOUR @S1@
+2 PAGE Besime, kayıt sıra 20 (anne/baba adları)
+0 @F6@ FAM
+1 HUSB @I15@
+1 WIFE @I19@
+1 CHIL @I10@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 17; baba/anne adı
+0 @F7@ FAM
+1 HUSB @I52@
+1 WIFE @I53@
+1 CHIL @I11@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 19; baba/anne adı
+0 @F8@ FAM
+1 HUSB @I50@
+1 WIFE @I51@
+1 CHIL @I2@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 13; baba/anne adı
+0 @F9@ FAM
+1 HUSB @I29@
+1 WIFE @I30@
+1 CHIL @I12@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 1; baba/anne adı
+0 @F10@ FAM
+1 HUSB @I31@
+1 WIFE @I32@
+1 CHIL @I13@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 2; baba/anne adı
+0 @F11@ FAM
+1 HUSB @I33@
+1 WIFE @I34@
+1 CHIL @I14@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 3; baba/anne adı
+0 @F12@ FAM
+1 HUSB @I35@
+1 WIFE @I36@
+1 CHIL @I15@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 4; baba/anne adı
+0 @F13@ FAM
+1 HUSB @I37@
+1 WIFE @I38@
+1 CHIL @I16@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 5; baba/anne adı
+0 @F14@ FAM
+1 HUSB @I39@
+1 WIFE @I40@
+1 CHIL @I17@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 6; baba/anne adı
+0 @F15@ FAM
+1 HUSB @I41@
+1 WIFE @I42@
+1 CHIL @I18@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 7; baba/anne adı
+0 @F16@ FAM
+1 HUSB @I43@
+1 WIFE @I44@
+1 CHIL @I19@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 8; baba/anne adı
+0 @F17@ FAM
+1 HUSB @I45@
+1 WIFE @I46@
+1 CHIL @I20@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 9; baba/anne adı
+0 @F18@ FAM
+1 HUSB @I13@
+1 WIFE @I14@
+1 CHIL @I21@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 11; baba/anne adı
+0 @F19@ FAM
+1 HUSB @I47@
+1 WIFE @I48@
+1 CHIL @I22@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 12; baba/anne adı
+0 @F20@ FAM
+1 HUSB @I16@
+1 WIFE @I49@
+1 CHIL @I23@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 14; baba/anne adı
+0 @F21@ FAM
+1 HUSB @I12@
+1 WIFE @I18@
+1 CHIL @I24@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 15; baba/anne adı
+0 @F22@ FAM
+1 HUSB @I17@
+1 WIFE @I20@
+1 CHIL @I25@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 16; baba/anne adı
+0 @F23@ FAM
+1 HUSB @I21@
+1 WIFE @I22@
+1 CHIL @I26@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 18; baba/anne adı
+0 @F24@ FAM
+1 HUSB @I23@
+1 WIFE @I25@
+1 CHIL @I27@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 22; baba/anne adı
+0 @F25@ FAM
+1 HUSB @I24@
+1 WIFE @I26@
+1 CHIL @I28@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 23; baba/anne adı
+0 @F26@ FAM
+1 HUSB @I27@
+1 WIFE @I28@
+1 CHIL @I7@
+1 SOUR @S1@
+2 PAGE Alt-Üst Soy Belgesi: Çocuk sıra 25; baba/anne adı
+0 @S1@ SOUR
+1 TITL Alt-Üst Soy Bilgisi Sorgulama
+1 AUTH T.C. İçişleri Bakanlığı, Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü
+1 PUBL e-Devlet üzerinden 09 OCT 2026 tarihinde oluşturulan bilgilendirme belgesi
+1 NOTE Belgede doğum yeri ile nüfus kayıt yeri ayrı sütunlarda yer alır. Ölüm tarihi ölüm yeri değildir.
+0 @S2@ SOUR
+1 TITL House of Yegin Kureyşan ve Soy Araştırması — Kanıt Durumu Özeti
+1 AUTH House of Yegin tarih ve genealoji araştırmaları
+1 PUBL 18 OCT 2026
+1 NOTE HOUSE OF YEGIN — KUREYŞAN/DERSİM TAM ARAŞTIRMA KAPSAMI — 18.10.2026
+2 CONT [RESMÎ KAYIT] Baba hattı Hüseyin + Sakine -> Temür (1884) -> Hasan Yegin (1928) -> Cemal Yegin (1969) -> 
+2 CONC Doğukan Yegin (1994). 9 Ekim 2026 NVİ Alt-Üst Soy Belgesi. Her ek tarih ve akraba için kaynağa bakınız.
+2 CONT [RESMÎ CEVAPTA AKTARILAN] CİMER nüfus yazımı cevabına göre 1341/1925 yangın sonrası yersel nüfus yazımı Ç
+2 CONC evrecik Köyü; Temür ve aile. Tam belge mevcut raporlarda alıntılanmıştır, özgün defter görüntüsü ayrıca a
+2 CONC ranıyor.
+2 CONT [AKADEMİK/YAYIN] Kureyşan aşireti, Kızılkilise/Nazımiye ve Çevrecik/Sayrik bağları raporlarda kaynaklandı
+2 CONC rılmıştır. Şorik/Sabrik/Sayrik/Ger/Geriş ayrı yer ve yazım araştırması konusudur.
+2 CONT [AKADEMİK/YAYIN — TASNİF TARTIŞMALI] Halaçoğlu, Kureyş/Marakak/Melikşah cemaatlerini Beğdili olarak sınıf
+2 CONC landırır (s.1547-1548; TKA TD 146 düzeltmesi). Bu tarihsel tasnif Yegin ailesinin doğrudan 16. yy. ata zi
+2 CONC nciri değildir.
+2 CONT [SÖZLÜ AİLE TARİHİ] Temür Ağa'nın yerel ağalığı, Kureyşan/Kureyşan Ocağı aidiyeti, Dersim 1937-38 ölümü v
+2 CONC e olayları aile anlatısıdır; olumlu veya olumsuz hiçbir kısım çıkarılmamıştır.
+2 CONT [ARAŞTIRMA İDDİASI] Seyyidlik, Kureyşan ocak mensubiyeti ve biyolojik soy zinciri, Hacı Kureyş ve Seyyid 
+2 CONC Mahmud-ı Kebir bağlantıları; özgün şecereyle sınanmalıdır. İddialar yok sayılmıyor; kaynak türü işaretlen
+2 CONC iyor.
+2 CONT [TARİHSEL KİŞİLER — KİMLİK EŞİTLEME YOK] Ali Çavuş, Seyyid Mahmud, Aliye Gaxi, Hüseyin Dede, Zeynel Çavuş
+2 CONC , Derviş Süleyman ve farklı Temür/Timur Ağalar tarihsel aday veya başka kişiler olarak ayrıca notlanmıştı
+2 CONC r. Özdeşlik teyitsizdir.
+2 CONT [ARAŞTIRMA KOLLARI] Şeyhan ve Güdan adları kaynakta geçen farklı Kureyşan kollarıdır; Temür'e kesin kol a
+2 CONC tanmamıştır.
+2 CONT [ÖZGÜN ARŞİV İŞARETLERİ] BOA A.MKT. 52/15; A.MKT. 234/61; İ.MMS. 68/3183; A.MKT.MHM. 657/32; DH.MUİ. 64-2
+2 CONC /20; İ.DH. 1467/1; BOA TD 32; TD 1061; A.DFE 667; TKA TD 149; TKA TD 146 (eski 287). Bunların her biri ka
+2 CONC ynak raporlarında yer ve tarihle açıklanmıştır.
+2 CONT [TAM KAPSAM] Raporların bütün metinleri GEDCOM NOTEs olarak iliştirilmiştir. TAM_ARSIV dosyası OCR sayfa 
+2 CONC dökümlerini, eşleşme CSV indeksini ve tarama istatistiğini de içerir. Özgün PDF dosyaları ZIP ekiyle koru
+2 CONC nur.
+2 CONT
+0 @S3@ SOUR
+1 TITL House_of_Yegin_54_PDF_Kureysan_Soy_Arastirma_Raporu_2026(2).md
+1 AUTH House of Yegin / dosyada yazan eser yazarları
+1 PUBL 15 OCT 2026 ve ekli kaynak dosyasındaki oluşturma tarihi
+1 REPO @R1@
+2 CALN House_of_Yegin_54_PDF_Kureysan_Soy_Arastirma_Raporu_2026(2).md
+1 NOTE Orijinal dosya SHA-256: 718dd86a8a9fd44035fe26de80c8dd16816a78ab5d7bac70cca47feb90c56e73
+1 NOTE Tür: research_report; dosya byte: 13546
+0 @S4@ SOUR
+1 TITL House_of_Yegin_54_PDF_Kureysan_Soy_Arastirma_Raporu_2026.pdf
+1 AUTH House of Yegin / dosyada yazan eser yazarları
+1 PUBL 15 OCT 2026 ve ekli kaynak dosyasındaki oluşturma tarihi
+1 REPO @R1@
+2 CALN House_of_Yegin_54_PDF_Kureysan_Soy_Arastirma_Raporu_2026.pdf
+1 NOTE Orijinal dosya SHA-256: 2c0687eac40a28b6e67cff3486fddc8e56264e6023f3b24605d993046583661d
+1 NOTE Tür: research_report; dosya byte: 60997
+0 @S5@ SOUR
+1 TITL House_of_Yegin_Halacoglu_Kureysan_Tarama_Raporu.md
+1 AUTH House of Yegin / dosyada yazan eser yazarları
+1 PUBL 15 OCT 2026 ve ekli kaynak dosyasındaki oluşturma tarihi
+1 REPO @R1@
+2 CALN House_of_Yegin_Halacoglu_Kureysan_Tarama_Raporu.md
+1 NOTE Orijinal dosya SHA-256: 4224c2f38f3aeb3c51996a06638d205c59ff8e4a8b177221534562a77a30a834
+1 NOTE Tür: research_report; dosya byte: 11146
+0 @S6@ SOUR
+1 TITL House_of_Yegin_Tum_Kitaplar_Ayrintili_Tarama_Raporu.md
+1 AUTH House of Yegin / dosyada yazan eser yazarları
+1 PUBL 15 OCT 2026 ve ekli kaynak dosyasındaki oluşturma tarihi
+1 REPO @R1@
+2 CALN House_of_Yegin_Tum_Kitaplar_Ayrintili_Tarama_Raporu.md
+1 NOTE Orijinal dosya SHA-256: a833dd9a0dab573dfbf8a18493a1274f1fe20b2d0d3a9769604844fd3e9b3245
+1 NOTE Tür: research_report; dosya byte: 16486
+0 @S7@ SOUR
+1 TITL House_of_Yegin_Tum_Kitaplar_Araştırma_Raporu_2026(2).pdf
+1 AUTH House of Yegin / dosyada yazan eser yazarları
+1 PUBL 15 OCT 2026 ve ekli kaynak dosyasındaki oluşturma tarihi
+1 REPO @R1@
+2 CALN House_of_Yegin_Tum_Kitaplar_Araştırma_Raporu_2026(2).pdf
+1 NOTE Orijinal dosya SHA-256: c7db941bcb4667825dbd8aefab964a73ea7fcb8333655806ef41c90aeea84fd7
+1 NOTE Tür: research_report; dosya byte: 54407
+0 @S8@ SOUR
+1 TITL Arastirma_Bulgulari_Raporu_2026(2).pdf
+1 AUTH House of Yegin / dosyada yazan eser yazarları
+1 PUBL 15 OCT 2026 ve ekli kaynak dosyasındaki oluşturma tarihi
+1 REPO @R1@
+2 CALN Arastirma_Bulgulari_Raporu_2026(2).pdf
+1 NOTE Orijinal dosya SHA-256: 91bcda4a8e091f4da8373859d783434a6bf8c5d4233d5853b770e32c0138a11d
+1 NOTE Tür: research_report; dosya byte: 60257
+0 @S9@ SOUR
+1 TITL Yegin_Atalar_Huseyin_Sakine_Ali_Seyran_Belge_Ozeti.md
+1 AUTH House of Yegin / dosyada yazan eser yazarları
+1 PUBL 15 OCT 2026 ve ekli kaynak dosyasındaki oluşturma tarihi
+1 REPO @R1@
+2 CALN Yegin_Atalar_Huseyin_Sakine_Ali_Seyran_Belge_Ozeti.md
+1 NOTE Orijinal dosya SHA-256: bccf56803dc903d25921b84d21563fa9d12efeb1183cd76516562461ec8917e8
+1 NOTE Tür: research_report; dosya byte: 4420
+0 @S10@ SOUR
+1 TITL genelkurmay_sayfa_numarali_taranabilir_metin.txt
+1 AUTH House of Yegin / dosyada yazan eser yazarları
+1 PUBL 15 OCT 2026 ve ekli kaynak dosyasındaki oluşturma tarihi
+1 REPO @R1@
+2 CALN genelkurmay_sayfa_numarali_taranabilir_metin.txt
+1 NOTE Orijinal dosya SHA-256: e5cdaedf5252d37bc2db6978978e14271e63e217ba261b914a70c0419f2b50d1
+1 NOTE Tür: raw_research_index; dosya byte: 577463
+0 @S11@ SOUR
+1 TITL varto_sayfa_numarali_taranabilir_metin.txt
+1 AUTH House of Yegin / dosyada yazan eser yazarları
+1 PUBL 15 OCT 2026 ve ekli kaynak dosyasındaki oluşturma tarihi
+1 REPO @R1@
+2 CALN varto_sayfa_numarali_taranabilir_metin.txt
+1 NOTE Orijinal dosya SHA-256: b0cfa12d46b052b20ecde7678061cac1abd01a315f0d6692f98ea6efdc0b59e0
+1 NOTE Tür: raw_research_index; dosya byte: 520484
+0 @S12@ SOUR
+1 TITL Hedef_Kelime_Sayfa_Eslesmeleri.csv
+1 AUTH House of Yegin / dosyada yazan eser yazarları
+1 PUBL 15 OCT 2026 ve ekli kaynak dosyasındaki oluşturma tarihi
+1 REPO @R1@
+2 CALN Hedef_Kelime_Sayfa_Eslesmeleri.csv
+1 NOTE Orijinal dosya SHA-256: 61c7006a464f2650450abed8bcaa6b29151c3239e69ca8061d54d1d536710797
+1 NOTE Tür: raw_research_index; dosya byte: 433769
+0 @S13@ SOUR
+1 TITL Tam_Tarama_Istatistikleri.json
+1 AUTH House of Yegin / dosyada yazan eser yazarları
+1 PUBL 15 OCT 2026 ve ekli kaynak dosyasındaki oluşturma tarihi
+1 REPO @R1@
+2 CALN Tam_Tarama_Istatistikleri.json
+1 NOTE Orijinal dosya SHA-256: 07e1ce6bcf8dfb2e9bd4fbb045fdebf0a5f7ebec7bdb80a139288e3578228678
+1 NOTE Tür: raw_research_index; dosya byte: 10992
+0 @R1@ REPO
+1 NAME House of Yegin - dijital aile arastirmasi arsivi
+1 NOTE Dosya ekleri aynı ZIP içinde birebir korunmuştur. MyHeritage GEDCOM içe aktarma işlemi ikili PDF eklerini doğrudan tasimayabilir.
+0 @N1@ NOTE HOUSE OF YEGIN — KUREYŞAN/DERSİM TAM ARAŞTIRMA KAPSAMI — 18.10.2026
+1 CONT [RESMÎ KAYIT] Baba hattı Hüseyin + Sakine -> Temür (1884) -> Hasan Yegin (1928) -> Cemal Yegin (1969
+1 CONC ) -> Doğukan Yegin (1994). 9 Ekim 2026 NVİ Alt-Üst Soy Belgesi. Her ek tarih ve akraba için kaynağa 
+1 CONC bakınız.
+1 CONT [RESMÎ CEVAPTA AKTARILAN] CİMER nüfus yazımı cevabına göre 1341/1925 yangın sonrası yersel nüfus yaz
+1 CONC ımı Çevrecik Köyü; Temür ve aile. Tam belge mevcut raporlarda alıntılanmıştır, özgün defter görüntüs
+1 CONC ü ayrıca aranıyor.
+1 CONT [AKADEMİK/YAYIN] Kureyşan aşireti, Kızılkilise/Nazımiye ve Çevrecik/Sayrik bağları raporlarda kaynak
+1 CONC landırılmıştır. Şorik/Sabrik/Sayrik/Ger/Geriş ayrı yer ve yazım araştırması konusudur.
+1 CONT [AKADEMİK/YAYIN — TASNİF TARTIŞMALI] Halaçoğlu, Kureyş/Marakak/Melikşah cemaatlerini Beğdili olarak 
+1 CONC sınıflandırır (s.1547-1548; TKA TD 146 düzeltmesi). Bu tarihsel tasnif Yegin ailesinin doğrudan 16. 
+1 CONC yy. ata zinciri değildir.
+1 CONT [SÖZLÜ AİLE TARİHİ] Temür Ağa'nın yerel ağalığı, Kureyşan/Kureyşan Ocağı aidiyeti, Dersim 1937-38 öl
+1 CONC ümü ve olayları aile anlatısıdır; olumlu veya olumsuz hiçbir kısım çıkarılmamıştır.
+1 CONT [ARAŞTIRMA İDDİASI] Seyyidlik, Kureyşan ocak mensubiyeti ve biyolojik soy zinciri, Hacı Kureyş ve Se
+1 CONC yyid Mahmud-ı Kebir bağlantıları; özgün şecereyle sınanmalıdır. İddialar yok sayılmıyor; kaynak türü
+1 CONC  işaretleniyor.
+1 CONT [TARİHSEL KİŞİLER — KİMLİK EŞİTLEME YOK] Ali Çavuş, Seyyid Mahmud, Aliye Gaxi, Hüseyin Dede, Zeynel 
+1 CONC Çavuş, Derviş Süleyman ve farklı Temür/Timur Ağalar tarihsel aday veya başka kişiler olarak ayrıca n
+1 CONC otlanmıştır. Özdeşlik teyitsizdir.
+1 CONT [ARAŞTIRMA KOLLARI] Şeyhan ve Güdan adları kaynakta geçen farklı Kureyşan kollarıdır; Temür'e kesin 
+1 CONC kol atanmamıştır.
+1 CONT [ÖZGÜN ARŞİV İŞARETLERİ] BOA A.MKT. 52/15; A.MKT. 234/61; İ.MMS. 68/3183; A.MKT.MHM. 657/32; DH.MUİ.
+1 CONC  64-2/20; İ.DH. 1467/1; BOA TD 32; TD 1061; A.DFE 667; TKA TD 149; TKA TD 146 (eski 287). Bunların h
+1 CONC er biri kaynak raporlarında yer ve tarihle açıklanmıştır.
+1 CONT [TAM KAPSAM] Raporların bütün metinleri GEDCOM NOTEs olarak iliştirilmiştir. TAM_ARSIV dosyası OCR s
+1 CONC ayfa dökümlerini, eşleşme CSV indeksini ve tarama istatistiğini de içerir. Özgün PDF dosyaları ZIP e
+1 CONC kiyle korunur.
+1 CONT
+0 @N2@ NOTE [KAYNAK TAM METNİ — House_of_Yegin_54_PDF_Kureysan_Soy_Arastirma_Raporu_2026(2).md]
+1 CONT [KANIT DURUMU] Bu belge hem doğrulanmış olgular hem araştırma hipotezleri ve karşı argümanlar içerir
+1 CONC ; her cümlenin orijinal kaynak düzeyi aşağıdaki metinde korunmuştur.
+1 CONT [FİZİKSEL DOSYA] SHA-256: 718dd86a8a9fd44035fe26de80c8dd16816a78ab5d7bac70cca47feb90c56e73
+1 CONT HOUSE OF YEGIN
+1 CONT
+1 CONT Kureyşan Soy Araştırması
+1 CONT Tüm PDF Arşivi ve Yeni 14 Kaynağın Sayfa Taraması
+1 CONT
+1 CONT Araştırma raporu | 15 Ekim 2026 | Doğukan Yegin için hazırlanmıştır
+1 CONT
+1 CONT Ana soru: Hüseyin ve Sakine’nin oğlu, 1884 Nazımiye/Çevrecik kayıtlı Temür’ün Kureyşan aşiretinin ha
+1 CONC ngi aile koluna mensup olduğu özgün belgelerle gösterilebilir mi?
+1 CONT
+1 CONT | Korpus göstergesi | Sonuç |
+1 CONT | --- | --- |
+1 CONT | Mevcut çalışma klasörü | 54 PDF dosyası; tekrarlarla 20.531 sayfa; birebir aynı dosyalar çıkarıldı
+1 CONC ğında 49 farklı PDF sürümü ve 17.307 sayfa. |
+1 CONT | Son yüklenen dosyalar | 14 PDF; tamamı sayfa düzeyinde işlendi: 2.876 sayfa. |
+1 CONT | Metin çıkarımı ve OCR | Yeni kaynakların 2.658 sayfasında seçilebilir metin; diğer 218 sayfada Tür
+1 CONC kçe OCR (183 + 35). |
+1 CONT | Araştırma sonucu | Kureyşan–Nazımiye–Çevrecik tarihî bağı daha güçlü; Hüseyin → Kureyşan aile kolu
+1 CONC  arasında doğrudan akrabalık belgesi yine bulunamadı. |
+1 CONT
+1 CONT Yöntem notu: Bu çalışma tam sayfa makine destekli metin taramasıdır; bütün satırların elle tashihli 
+1 CONC transkripsiyonu değildir. Kritik eşleşmelerin bir bölümü özgün sayfalardan kontrol edilmiştir. Eski 
+1 CONC dosyalardaki 2.547 sayfalık Halaçoğlu baskısının daha önce oluşturulmuş alfabetik OCR dizini kullanı
+1 CONC lmış; eserin her sütununun tüm sayfalarda elle okunmuş olduğu iddia edilmemektedir.
+1 CONT
+1 CONT ## 1 | Araştırmanın kanıt hiyerarşisi
+1 CONT
+1 CONT - Birincil ve aileye özgü kayıt: e-Devlet alt-üst soy belgesi, 1925 yersel nüfus hanesinin özgün gör
+1 CONC üntüsü, atik kayıt ve tasdikli şecere.
+1 CONT - Dönemin idarî belgesi: Osmanlı ve Cumhuriyet Arşivi kayıtları; tarih, şahıs ve mahallin eşleştiril
+1 CONC mesi gerekir.
+1 CONT - Akademik inceleme: Kaynakların izini sürmek ve bağlam kurmak için uygundur; soy bağı ancak içerdiğ
+1 CONC i doğrudan kayıtla kurulabilir.
+1 CONT - Aile sözlü tarihi: Temür Ağa, Kureyşan/ocak mensubiyeti ve ölümü hakkında arama yönü sağlar, fakat
+1 CONC  tek başına soy zincirini doğrulamaz.
+1 CONT - Roman, yorum ve polemik: Dönem algısını karşılaştırmak için kullanılabilir; kişi kimliği ve biyolo
+1 CONC jik soy için birincil kanıt değildir.
+1 CONT ## 2 | Kaynaklarla doğrulanan bağlantı noktaları
+1 CONT
+1 CONT | Dönem | Belge veya kaynak | Doğrudan katkısı |
+1 CONT | --- | --- | --- |
+1 CONT | 1500–1585 | Yusuf Halaçoğlu, Anadolu’da Aşiretler, Cemaatler, Oymaklar, IV, s. 1547–1548; Kibar Ta
+1 CONC ş 2017, PDF s. 66–68. | Kureyş, Kureyş Marakak ve Kureyş Melikşah adlı, Beğdili şeklinde tasnif edil
+1 CONC en cemaatler. Dersim Kureyşan ile kesintisiz soy bağı kanıtlanmamış. TKA TD 106 künyesinin doğru num
+1 CONC arası Taş’a göre TD 146 (eski 287). |
+1 CONT | 1845–1846 | Kibar Taş 2017, PDF s. 52; BOA A.MKT. 52/15. | Erzincan/Tercan bölgesindeki Kureyşanlı
+1 CONC  aşiretinin tarihî belge referansı. |
+1 CONT | 1851 | İbrahim Yılmazçelik, PDF s. 6. | 14 Ekim 1851 tarihli arzda Kureyşanlı ve Yusufanlu aşiretl
+1 CONC eri açıkça anılır. |
+1 CONT | 1880 | Gündoğdu–Genç, Dersim’de Osmanlı Siyaseti, PDF s. 57–58; BOA İ.MMS. 68/3183. | Kureyşanlıla
+1 CONC rın önde gelenleri ve Derviş Süleyman hakkında Osmanlı raporu. |
+1 CONT | 1895–1911 | BOA A.MKT.MHM. 657/32; BOA DH.MUİ. 64-2/20; Kibar Taş 2017. | Kızılkilise meclis azası
+1 CONC  Ali Çavuş ve Kureyşanlı Seyyid Mahmud çevresinin idarî bağlantıları. Yegin’lerle kan bağı henüz gös
+1 CONC terilemedi. |
+1 CONT | 1907 | İbrahim Yılmazçelik, PDF s. 19. | Nazımiye/Kureyşan’dan Ali Çavuş adının 1907 tarihli asayi
+1 CONC ş raporlarında geçmesi; olay iddiaları yargı hükmü değildir. |
+1 CONT | 1916–1921 | Oktay Bozan, Millî Mücadele Döneminde Tunceli, PDF s. 7–8, 24. | Kureyşanlı reis ve ça
+1 CONC vuşların farklı dönemlerdeki faaliyetleri ve 1921 telgrafındaki şahıs adları. |
+1 CONT | 1925 | CİMER aracılığıyla gelen resmî nüfus arşivi cevabı. | Temür ve ailesinin yangın nedeniyle y
+1 CONC apılan 1341/1925 yersel yazımda Çevrecik’e kayıtlı olduğu bildiriliyor. |
+1 CONT | 1937–1938 | Rose Polat Agum, Bego, PDF s. 23; Cemal Taş, Dağların Kayıp Anahtarı, PDF s. 7 ve ilgi
+1 CONC li tanıklıklar. | Kureyşanlı Hüseyin Dede, Zeynel Çavuş ve sözlü tarih kişileri; Temür’ün ölümünü do
+1 CONC ğrudan doğrulamaz. |
+1 CONT | 1953 | Savaş Sertel, Cumhuriyet Döneminde Tunceli, PDF s. 270; 29.07.1953 Munzur gazetesi. | Nazım
+1 CONC iye’de içme suyu çalışmalarının anıldığı yerler arasında Sayrık yerleşimi bulunur. |
+1 CONT | 1970’ler | Kibar Taş 2017, PDF s. 165; Aşiretler Raporu, s. 297. | Çevrecik’in Kureyşan yerleşim a
+1 CONC lanları içinde sayılması; bireysel soy ilişkisi için yeterli değildir. |
+1 CONT
+1 CONT ## 3 | Yeni kitaplardan soy araştırmasını en fazla ilerleten kayıtlar
+1 CONT
+1 CONT ### 3.1 | Kureyşanlı Hüseyin Dede ve Aliye Gaxi
+1 CONT
+1 CONT Rose Polat Agum’un Bego: Dersim 1938 ve Sonrası eserinin PDF s. 23’ünde Kureşanlıların büyüğü Aliye 
+1 CONC Gaxi’nin oğlu Hüseyin Dede’nin nahiye müdürü olduğu, karakol ve köprü inşasında rol aldığı ve Zeynel
+1 CONC  Çavuş’un kamu hizmetine katıldığı anlatılmaktadır. Bu, arşiv araştırmasında aramaya değer bir baba–
+1 CONC oğul ve görev eşleşmesidir. Anlatı sözlü tarih kaynağıdır; Hüseyin Dede’nin, 1884 doğumlu Temür’ün b
+1 CONC abası Hüseyin’le aynı kişi olduğu belgelenmemiştir.
+1 CONT
+1 CONT ### 3.2 | Kureyşanlılar hakkında farklı dönem kayıtları
+1 CONT
+1 CONT Oktay Bozan’ın TÜBA bölümünde 30 Mart 1916’da çeşitli aşiretlerle birlikte hareket eden Kureyşan adı
+1 CONC  geçtiği gibi, 25 Mayıs 1916’da bazı Kureyşanlıların Rus kuvvetlerine karşı savaştığı da kaydedilir 
+1 CONC (PDF s. 7–8). Aşiret içinde farklı tarihlerde ve kollar arasında değişen siyasi-askerî tutumlar olab
+1 CONC ilir. Bunu tek ve değişmez bir toplu tutum şeklinde yorumlamamak gerekir.
+1 CONT
+1 CONT ### 3.3 | Sayrık adı ve yerleşim devamlılığı
+1 CONT
+1 CONT Savaş Sertel’in doktora tezindeki 1953 gazete haberi, Sayrık yerleşim adının Cumhuriyet döneminde ye
+1 CONC rel idarî ve altyapı haberlerinde kullanıldığını gösterir (PDF s. 270). Eski Sayrik/Sabrik ve güncel
+1 CONC  Çevrecik eşleştirmesi için Veli Saltık ve yer adları kaynaklarıyla karşılaştırma gerekir. Benzer gö
+1 CONC rünen Şorik ve Ger/Gera adları otomatik eşitlenmemelidir.
+1 CONT
+1 CONT ### 3.4 | Ağalık, seyyidlik ve inanç ocağı ayrımı
+1 CONT
+1 CONT Mehmet Yıldırım’ın Dersim’in Cumhuriyet Öncesindeki Sosyo-Ekonomik Yapısı Üzerine Bir İnceleme adlı 
+1 CONC makalesi (PDF s. 1–3) yerel mülkiyet, ağalık ve aşiret otoritesini tartışır. Kureyşan ile ilgili kül
+1 CONC türel ve dinî çalışmalar, ocak mensubiyeti ile doğrudan biyolojik seyyid soyunu birbirinden ayırmak 
+1 CONC için gereklidir. Ailede Temür Ağa’nın köy ağası olarak hatırlanması, onun belirli bir ocakzade şecer
+1 CONC esinde kayıtlı olduğunu göstermez.
+1 CONT
+1 CONT ## 4 | Yeni 14 PDF’nin ayrı ayrı kullanım ve sonuç tablosu
+1 CONT
+1 CONT | Yeni kaynak / PDF sayfa adedi | Soy araştırması açısından değerlendirme |
+1 CONT | --- | --- |
+1 CONT | 1006677.pdf — Sibel Taş, Yurdun Dışında Kalanlar (2026), 386 s. | Kolektif bellek / diaspora yönte
+1 CONC mi; Kureyşan şeceresine doğrudan yeni kişi kaydı yok. |
+1 CONT | Dersim’in Cumhuriyet Öncesindeki Sosyo-Ekonomik Yapısı — Mehmet Yıldırım, 16 s. | Kızılkilise, ağa
+1 CONC lık, mülkiyet, devlet–aşiret ilişkileri; Temür’ün şahsî ağalığına kanıt değil. |
+1 CONT | TÜBA ch06 — Oktay Bozan, Millî Mücadele Döneminde Tunceli, 32 s. | 1916–1921 olayları, Kureyşan re
+1 CONC isleri ve telgraflar; kişi/ad listesi bakımından yararlı. |
+1 CONT | 208190.pdf — Zülfiye Veliyeva, Safevi Devlet Teşkilatı (2007), 445 s. | Türkmen boyları ve Safevi 
+1 CONC idarî düzeni için bağlam; Yegin soyuna doğrudan belge bulunmadı. |
+1 CONT | ejts-10937.pdf — Karolewski, Weineck, Dressler (2026), 29 s. | Alevi ocaklarının tarihî oluşumu ve
+1 CONC  etnotarih yöntemleri; şecereyi eleştirel okumak için. |
+1 CONT | Dağların Kayıp Anahtarı — Cemal Taş, 320 s. | 1938 tanıklıkları; Seyd Xıdıro Khuresıc anlatıcısı v
+1 CONC e çeşitli Kureyşan topluluk adları. |
+1 CONT | Mustafa Kemal’in Kuşları — Bilal Civelek, 376 s. | Yazar önsözünde roman olduğunu belirtir (PDF s.
+1 CONC  6–7); doğrudan aile şeceresi kanıtı değildir. |
+1 CONT
+1 CONT ### 4 | Yeni 14 PDF’nin değerlendirmesi (devam)
+1 CONT
+1 CONT | Yeni kaynak / PDF sayfa adedi | Soy araştırması açısından değerlendirme |
+1 CONT | --- | --- |
+1 CONT | Bego: Dersim 1938 ve Sonrası — Rose Polat Agum, 119 s. | PDF s. 23: Aliye Gaxi oğlu Hüseyin Dede, 
+1 CONC nahiye müdürlüğü; Zeynel Çavuş. Önemli sözlü tarih izi. |
+1 CONT | 621411302-17762.pdf — İbrahim Yılmazçelik, 52 s. | 1851 Kureyşan, 1907 Nazımiye/Kureyşan ve Ali Ça
+1 CONC vuş; belge izleme açısından güçlü. |
+1 CONT | Doğu Anadolu’da Aşiret Düzeni — Ahmet Özer, 191 s. | Aşiret, akrabalık, ağalık kavramları; Brukan 
+1 CONC ağırlıklı, Yegin hattına doğrudan delil yok. |
+1 CONT | Cumhuriyet Döneminde Tunceli — Savaş Sertel, 512 s. | 1940–1970 idarî yapı ve nüfus, PDF s. 270 Sa
+1 CONC yrık yerleşim kaydı. |
+1 CONT | Aşiret Aşiret Dersim — Seyfi Cengiz, 96 s. | Farklı aşiret/göç tezleri ve şahıs adları; kronoloji 
+1 CONC ve isim benzerliği sıkı kontrol edilmeli. |
+1 CONT | 1079014689-211521.pdf — Derya Yaylalı, Ağrı Dağı Ayaklanmaları, 119 s. | Ağrı ve 1937 bağlamı; ad 
+1 CONC benzerliği taşıyan Şemikanlı Timur, Yegin Temür değildir. |
+1 CONT | Tunceli Kanunu (1935) ve Dersim Jenosidi — İsmail Beşikçi, 183 s. | OCR yapılan basılı nüsha; 1935
+1 CONC  kanunu ve ilgili yorumlar için dönem tartışması, Yegin soyu kanıtı değil. |
+1 CONT
+1 CONT ## 5 | 1925 nüfus yazımı: araştırmanın düğüm noktası
+1 CONT
+1 CONT CİMER yanıtındaki tam kayıt: “Temür ve ailesinin Tunceli, Nazımiye, Çevrecik köyü nüfusuna 1341 (192
+1 CONC 5) yılında yangından dolayı yapılan yersel nüfus yazımı ile kaydedildikleri” tespit edilmiştir. Buna
+1 CONC  karşılık yersel yazım öncesi ve atik defterler devir-teslim listesinde görülmediği için önceki kuşa
+1 CONC klar bulunamamıştır. Bu, defterlerin tamamının yangında yok olduğunun kesin kanıtı değildir.
+1 CONT
+1 CONT | Arşivde aranacak kayıt | Beklenen bilgi |
+1 CONT | --- | --- |
+1 CONT | 1925 özgün hane sayfası | Temür, Şehriban, diğer hane mensupları; hane/defter, yaş, baba adı, aile
+1 CONC  lakabı ve önceki kayıt açıklamaları. |
+1 CONT | 1925 öncesi kayıtların akıbeti | Hangi idarenin hangi listesinde yok; varsa ikincil suret, il/ilçe
+1 CONC  nüfus müdürlüğü veya Osmanlı fonu. |
+1 CONT | Kızılkilise meclis ve nahiye sicilleri | Ali Çavuş, Hüseyin Dede, Aliye Gaxi; ayrı şahısların isim
+1 CONC , baba, lakap ve köy üzerinden ayrıştırılması. |
+1 CONT | Kureyşan ocak/kollara ait şecereler | Çevrecik köyü aile grubu, Hüseyin’in babası, pir/dede/talip 
+1 CONC ayrımı ve Hacı Kureyş’e kadar ara kuşaklar. |
+1 CONT | 1937–1938 zayiat, ölüm ve iskân defterleri | Temür Ağa’nın ölüm yeri/yılı ve ölüm koşulları; sözlü
+1 CONC  tarihin doğrulanması. |
+1 CONT
+1 CONT ## 6 | Önceki taramalarla çapraz kaynak denetimi
+1 CONT
+1 CONT - Halaçoğlu tahrir kaydı (basılı s. 1547–1548) ile Kibar Taş 2017 doktora tezi (PDF s. 66–68) karşıl
+1 CONC aştırıldı. TKA TD 106 sayımının numarasına ilişkin tashih: TD 146 (eski 287).
+1 CONT - Kibar Taş 2017, PDF s. 165, Çevrecik’i Kureyşan yerleşimleri arasında gösterir. Veli Saltık 2009, 
+1 CONC PDF s. 18, Sayrik–Çevrecik bağlantısını gösterir.
+1 CONT - “Temür/Timur Ağa” adı farklı aşiret ve dönemlerde görülmektedir. 1908 Aydınoğlu, 1916 Sürzade/Sürg
+1 CONC üzade, 1920 Karaballı ve 1930 Ağrı Şemikanlı Timur ayrı kimlik araştırmaları gerektirir.
+1 CONT - Türkmen kökeni görüşü: Beğdili olarak tasnif edilen Kureyş adlı Osmanlı cemaatleri ile Dersim Kure
+1 CONC yşan ve Yegin ailesi aynı kesintisiz soy zinciri sayılmamalıdır. Yalçın–Yılmaz çalışmasının tasnife 
+1 CONC yönelik eleştirisi dikkate alınmalıdır.
+1 CONT - Cumhuriyet ve Atatürk’e dair herhangi bir olumlu/olumsuz siyasal yargı aile soyu kanıtı yerine geç
+1 CONC mez. Askerî rapor, sözlü tanıklık ve yorum birbirine karıştırılmadan ele alınmıştır.
+1 CONT ## 7 | Sonuç: elde edilen delilin sınırı
+1 CONT
+1 CONT Yegin ailesinin doğrudan baba soyunda Hüseyin → Temür (1884, Çevrecik) → Hasan Yegin (1928) → Cemal 
+1 CONC Yegin (1969) → Doğukan Yegin (1994) hattı bulunmaktadır. CİMER cevabı 1925 yersel nüfus yazımını des
+1 CONC tekler. Akademik ve tarihî kaynaklar Kureyşan aşiretinin Kızılkilise/Nazımiye coğrafyasını ve Çevrec
+1 CONC ik yerleşimini gösterir. Yeni 14 kitabın tam sayfa dijital taramasında Hüseyin’in babası veya doğrud
+1 CONC an belirlenmiş Kureyşan kolu bulunamamıştır. Bu nedenle soy bağlantısı araştırılacak bir iddiadır, t
+1 CONC amamlanmış ispat değildir.
+1 CONT
+1 CONT ## 8 | Taramanın teknik sınırları ve ek dosyalar
+1 CONT
+1 CONT 54 PDF dosyası arasında birebir aynı olan 5 dosya yeniden sayılmıştır; 49 farklı dosya sürümünde top
+1 CONC lam 17.307 sayfa vardır. Birebir farklı sürümler aynı kitabın değişik baskı veya taraması olabilir. 
+1 CONC Her PDF sayfasının metin katmanı denetlenmiştir. Bu rapor için yeni 14 PDF’nin 2.658 metinli sayfası
+1 CONC  çıkarılmış, 218 metinsiz sayfası OCR işlemine alınmıştır. OCR çıktılarında kelime ve özel ad hatala
+1 CONC rı kalabilir. Eski Halaçoğlu dosyasında tam sayfa elle tashih yapılmamış; önceki alfabetik isim sütu
+1 CONC nu taraması ayrı ek olarak kullanılmaya devam edilmiştir.
+1 CONT
+1 CONT Dijital ekler: tum_eski_ve_yeni_pdf_kaynak_enveri.csv; tum_yeni_kaynaklar_sayfa_eslesmeleri.csv; 14_
+1 CONC Besikci_183_sayfa_TAM_OCR.txt; diger_13_pdf_metinsiz_sayfa_OCR.jsonl; yeni 13 PDF’nin sayfa numaralı
+1 CONC  metin dosyaları; önceki iki kitabın OCR dizinleri.
+1 CONT
+1 CONT House of Yegin | Araştırma sürümü: 15.10.2026 | Kişisel/ailevi kayıtlara ilişkin atıflar kullanıcını
+1 CONC n belge ve beyanlarına dayanmaktadır.
+1 CONT
+0 @N3@ NOTE [KAYNAK TAM METNİ — House_of_Yegin_54_PDF_Kureysan_Soy_Arastirma_Raporu_2026.pdf]
+1 CONT [KANIT DURUMU] Bu belge hem doğrulanmış olgular hem araştırma hipotezleri ve karşı argümanlar içerir
+1 CONC ; her cümlenin orijinal kaynak düzeyi aşağıdaki metinde korunmuştur.
+1 CONT [FİZİKSEL DOSYA] SHA-256: 2c0687eac40a28b6e67cff3486fddc8e56264e6023f3b24605d993046583661d
+1 CONT ===== PDF SAYFA 1 =====
+1 CONT HOUSE OF YEGIN  |  KUREYŞAN SOY ARAŞTIRMASI  |  15.10.2026
+1 CONT 1
+1 CONT HOUSE OF YEGIN
+1 CONT Kureyşan Soy Araştırması
+1 CONT Tüm PDF Arşivi ve Yeni 14
+1 CONT Kaynağın Sayfa Taraması
+1 CONT Araştırma raporu | 15 Ekim 2026 | Doğukan Yegin için hazırlanmıştır
+1 CONT Ana soru: Hüseyin ve Sakine’nin oğlu, 1884 Nazımiye/Çevrecik kayıtlı Temür’ün Kureyşan aşiretinin ha
+1 CONC ngi aile
+1 CONT koluna mensup olduğu özgün belgelerle gösterilebilir mi?
+1 CONT Korpus göstergesi
+1 CONT Sonuç
+1 CONT Mevcut çalışma klasörü
+1 CONT 54 PDF dosyası; tekrarlarla 20.531 sayfa; birebir aynı dosyalar çıkarıldığında 49 farklı PDF
+1 CONT sürümü ve 17.307 sayfa.
+1 CONT Son yüklenen dosyalar
+1 CONT 14 PDF; tamamı sayfa düzeyinde işlendi: 2.876 sayfa.
+1 CONT Metin çıkarımı ve OCR
+1 CONT Yeni kaynakların 2.658 sayfasında seçilebilir metin; diğer 218 sayfada Türkçe OCR (183 +
+1 CONT 35).
+1 CONT Araştırma sonucu
+1 CONT Kureyşan–Nazımiye–Çevrecik tarihî bağı daha güçlü; Hüseyin → Kureyşan aile kolu arasında
+1 CONT doğrudan akrabalık belgesi yine bulunamadı.
+1 CONT Yöntem notu: Bu çalışma tam sayfa makine destekli metin taramasıdır; bütün satırların elle tashihli 
+1 CONC transkripsiyonu değildir.
+1 CONT Kritik eşleşmelerin bir bölümü özgün sayfalardan kontrol edilmiştir. Eski dosyalardaki 2.547 sayfalı
+1 CONC k Halaçoğlu baskısının
+1 CONT daha önce oluşturulmuş alfabetik OCR dizini kullanılmış; eserin her sütununun tüm sayfalarda elle ok
+1 CONC unmuş olduğu iddia
+1 CONT edilmemektedir.
+1 CONT 1 | Araştırmanın kanıt hiyerarşisi
+1 CONT • Birincil ve aileye özgü kayıt: e-Devlet alt-üst soy belgesi, 1925 yersel nüfus hanesinin özgün gör
+1 CONC üntüsü, atik
+1 CONT kayıt ve tasdikli şecere.
+1 CONT • Dönemin idarî belgesi: Osmanlı ve Cumhuriyet Arşivi kayıtları; tarih, şahıs ve mahallin eşleştiril
+1 CONC mesi gerekir.
+1 CONT • Akademik inceleme: Kaynakların izini sürmek ve bağlam kurmak için uygundur; soy bağı ancak içerdiğ
+1 CONC i
+1 CONT doğrudan kayıtla kurulabilir.
+1 CONT • Aile sözlü tarihi: Temür Ağa, Kureyşan/ocak mensubiyeti ve ölümü hakkında arama yönü sağlar, fakat
+1 CONC  tek
+1 CONT başına soy zincirini doğrulamaz.
+1 CONT • Roman, yorum ve polemik: Dönem algısını karşılaştırmak için kullanılabilir; kişi kimliği ve biyolo
+1 CONC jik soy için
+1 CONT birincil kanıt değildir.
+1 CONT
+1 CONT ===== PDF SAYFA 2 =====
+1 CONT HOUSE OF YEGIN  |  KUREYŞAN SOY ARAŞTIRMASI  |  15.10.2026
+1 CONT 2
+1 CONT 2 | Kaynaklarla doğrulanan bağlantı noktaları
+1 CONT Dönem
+1 CONT Belge veya kaynak
+1 CONT Doğrudan katkısı
+1 CONT 1500–1585
+1 CONT Yusuf Halaçoğlu, Anadolu’da Aşiretler,
+1 CONT Cemaatler, Oymaklar, IV, s. 1547–1548;
+1 CONT Kibar Taş 2017, PDF s. 66–68.
+1 CONT Kureyş, Kureyş Marakak ve Kureyş Melikşah adlı, Beğdili
+1 CONT şeklinde tasnif edilen cemaatler. Dersim Kureyşan ile kesintisiz
+1 CONT soy bağı kanıtlanmamış. TKA TD 106 künyesinin doğru
+1 CONT numarası Taş’a göre TD 146 (eski 287).
+1 CONT 1845–1846
+1 CONT Kibar Taş 2017, PDF s. 52; BOA A.MKT.
+1 CONT 52/15.
+1 CONT Erzincan/Tercan bölgesindeki Kureyşanlı aşiretinin tarihî belge
+1 CONT referansı.
+1 CONT 1851
+1 CONT İbrahim Yılmazçelik, PDF s. 6.
+1 CONT 14 Ekim 1851 tarihli arzda Kureyşanlı ve Yusufanlu aşiretleri
+1 CONT açıkça anılır.
+1 CONT 1880
+1 CONT Gündoğdu–Genç, Dersim’de Osmanlı
+1 CONT Siyaseti, PDF s. 57–58; BOA İ.MMS. 68/3183.
+1 CONT Kureyşanlıların önde gelenleri ve Derviş Süleyman hakkında
+1 CONT Osmanlı raporu.
+1 CONT 1895–1911
+1 CONT BOA A.MKT.MHM. 657/32; BOA DH.MUİ.
+1 CONT 64-2/20; Kibar Taş 2017.
+1 CONT Kızılkilise meclis azası Ali Çavuş ve Kureyşanlı Seyyid Mahmud
+1 CONT çevresinin idarî bağlantıları. Yegin’lerle kan bağı henüz
+1 CONT gösterilemedi.
+1 CONT 1907
+1 CONT İbrahim Yılmazçelik, PDF s. 19.
+1 CONT Nazımiye/Kureyşan’dan Ali Çavuş adının 1907 tarihli asayiş
+1 CONT raporlarında geçmesi; olay iddiaları yargı hükmü değildir.
+1 CONT 1916–1921
+1 CONT Oktay Bozan, Millî Mücadele Döneminde
+1 CONT Tunceli, PDF s. 7–8, 24.
+1 CONT Kureyşanlı reis ve çavuşların farklı dönemlerdeki faaliyetleri ve
+1 CONT 1921 telgrafındaki şahıs adları.
+1 CONT 1925
+1 CONT CİMER aracılığıyla gelen resmî nüfus arşivi
+1 CONT cevabı.
+1 CONT Temür ve ailesinin yangın nedeniyle yapılan 1341/1925 yersel
+1 CONT yazımda Çevrecik’e kayıtlı olduğu bildiriliyor.
+1 CONT 1937–1938
+1 CONT Rose Polat Agum, Bego, PDF s. 23; Cemal
+1 CONT Taş, Dağların Kayıp Anahtarı, PDF s. 7 ve
+1 CONT ilgili tanıklıklar.
+1 CONT Kureyşanlı Hüseyin Dede, Zeynel Çavuş ve sözlü tarih kişileri;
+1 CONT Temür’ün ölümünü doğrudan doğrulamaz.
+1 CONT 1953
+1 CONT Savaş Sertel, Cumhuriyet Döneminde
+1 CONT Tunceli, PDF s. 270; 29.07.1953 Munzur
+1 CONT gazetesi.
+1 CONT Nazımiye’de içme suyu çalışmalarının anıldığı yerler arasında
+1 CONT Sayrık yerleşimi bulunur.
+1 CONT 1970’ler
+1 CONT Kibar Taş 2017, PDF s. 165; Aşiretler
+1 CONT Raporu, s. 297.
+1 CONT Çevrecik’in Kureyşan yerleşim alanları içinde sayılması; bireysel
+1 CONT soy ilişkisi için yeterli değildir.
+1 CONT 3 | Yeni kitaplardan soy araştırmasını en fazla ilerleten
+1 CONT kayıtlar
+1 CONT 3.1 | Kureyşanlı Hüseyin Dede ve Aliye Gaxi
+1 CONT Rose Polat Agum’un Bego: Dersim 1938 ve Sonrası eserinin PDF s. 23’ünde Kureşanlıların büyüğü Aliye
+1 CONT Gaxi’nin oğlu Hüseyin Dede’nin nahiye müdürü olduğu, karakol ve köprü inşasında rol aldığı ve Zeynel
+1 CONT Çavuş’un kamu hizmetine katıldığı anlatılmaktadır. Bu, arşiv araştırmasında aramaya değer bir baba–o
+1 CONC ğul ve
+1 CONT görev eşleşmesidir. Anlatı sözlü tarih kaynağıdır; Hüseyin Dede’nin, 1884 doğumlu Temür’ün babası Hü
+1 CONC seyin’le
+1 CONT aynı kişi olduğu belgelenmemiştir.
+1 CONT
+1 CONT ===== PDF SAYFA 3 =====
+1 CONT HOUSE OF YEGIN  |  KUREYŞAN SOY ARAŞTIRMASI  |  15.10.2026
+1 CONT 3
+1 CONT 3.2 | Kureyşanlılar hakkında farklı dönem kayıtları
+1 CONT Oktay Bozan’ın TÜBA bölümünde 30 Mart 1916’da çeşitli aşiretlerle birlikte hareket eden Kureyşan adı
+1 CONC  geçtiği
+1 CONT gibi, 25 Mayıs 1916’da bazı Kureyşanlıların Rus kuvvetlerine karşı savaştığı da kaydedilir (PDF s. 7
+1 CONC –8). Aşiret
+1 CONT içinde farklı tarihlerde ve kollar arasında değişen siyasi-askerî tutumlar olabilir. Bunu tek ve değ
+1 CONC işmez bir toplu
+1 CONT tutum şeklinde yorumlamamak gerekir.
+1 CONT 3.3 | Sayrık adı ve yerleşim devamlılığı
+1 CONT Savaş Sertel’in doktora tezindeki 1953 gazete haberi, Sayrık yerleşim adının Cumhuriyet döneminde ye
+1 CONC rel idarî
+1 CONT ve altyapı haberlerinde kullanıldığını gösterir (PDF s. 270). Eski Sayrik/Sabrik ve güncel Çevrecik 
+1 CONC eşleştirmesi
+1 CONT için Veli Saltık ve yer adları kaynaklarıyla karşılaştırma gerekir. Benzer görünen Şorik ve Ger/Gera
+1 CONC  adları
+1 CONT otomatik eşitlenmemelidir.
+1 CONT 3.4 | Ağalık, seyyidlik ve inanç ocağı ayrımı
+1 CONT Mehmet Yıldırım’ın Dersim’in Cumhuriyet Öncesindeki Sosyo-Ekonomik Yapısı Üzerine Bir İnceleme adlı
+1 CONT makalesi (PDF s. 1–3) yerel mülkiyet, ağalık ve aşiret otoritesini tartışır. Kureyşan ile ilgili kül
+1 CONC türel ve dinî
+1 CONT çalışmalar, ocak mensubiyeti ile doğrudan biyolojik seyyid soyunu birbirinden ayırmak için gereklidi
+1 CONC r. Ailede
+1 CONT Temür Ağa’nın köy ağası olarak hatırlanması, onun belirli bir ocakzade şeceresinde kayıtlı olduğunu
+1 CONT göstermez.
+1 CONT 4 | Yeni 14 PDF’nin ayrı ayrı kullanım ve sonuç tablosu
+1 CONT Yeni kaynak / PDF sayfa adedi
+1 CONT Soy araştırması açısından değerlendirme
+1 CONT 1006677.pdf — Sibel Taş, Yurdun Dışında Kalanlar (2026), 386
+1 CONT s.
+1 CONT Kolektif bellek / diaspora yöntemi; Kureyşan şeceresine
+1 CONT doğrudan yeni kişi kaydı yok.
+1 CONT Dersim’in Cumhuriyet Öncesindeki Sosyo-Ekonomik Yapısı —
+1 CONT Mehmet Yıldırım, 16 s.
+1 CONT Kızılkilise, ağalık, mülkiyet, devlet–aşiret ilişkileri; Temür’ün
+1 CONT şahsî ağalığına kanıt değil.
+1 CONT TÜBA ch06 — Oktay Bozan, Millî Mücadele Döneminde Tunceli,
+1 CONT 32 s.
+1 CONT 1916–1921 olayları, Kureyşan reisleri ve telgraflar; kişi/ad
+1 CONT listesi bakımından yararlı.
+1 CONT 208190.pdf — Zülfiye Veliyeva, Safevi Devlet Teşkilatı (2007),
+1 CONT 445 s.
+1 CONT Türkmen boyları ve Safevi idarî düzeni için bağlam; Yegin
+1 CONT soyuna doğrudan belge bulunmadı.
+1 CONT ejts-10937.pdf — Karolewski, Weineck, Dressler (2026), 29 s.
+1 CONT Alevi ocaklarının tarihî oluşumu ve etnotarih yöntemleri;
+1 CONT şecereyi eleştirel okumak için.
+1 CONT Dağların Kayıp Anahtarı — Cemal Taş, 320 s.
+1 CONT 1938 tanıklıkları; Seyd Xıdıro Khuresıc anlatıcısı ve çeşitli
+1 CONT Kureyşan topluluk adları.
+1 CONT Mustafa Kemal’in Kuşları — Bilal Civelek, 376 s.
+1 CONT Yazar önsözünde roman olduğunu belirtir (PDF s. 6–7);
+1 CONT doğrudan aile şeceresi kanıtı değildir.
+1 CONT
+1 CONT ===== PDF SAYFA 4 =====
+1 CONT HOUSE OF YEGIN  |  KUREYŞAN SOY ARAŞTIRMASI  |  15.10.2026
+1 CONT 4
+1 CONT 4 | Yeni 14 PDF’nin değerlendirmesi (devam)
+1 CONT Yeni kaynak / PDF sayfa adedi
+1 CONT Soy araştırması açısından değerlendirme
+1 CONT Bego: Dersim 1938 ve Sonrası — Rose Polat Agum, 119 s.
+1 CONT PDF s. 23: Aliye Gaxi oğlu Hüseyin Dede, nahiye müdürlüğü;
+1 CONT Zeynel Çavuş. Önemli sözlü tarih izi.
+1 CONT 621411302-17762.pdf — İbrahim Yılmazçelik, 52 s.
+1 CONT 1851 Kureyşan, 1907 Nazımiye/Kureyşan ve Ali Çavuş; belge
+1 CONT izleme açısından güçlü.
+1 CONT Doğu Anadolu’da Aşiret Düzeni — Ahmet Özer, 191 s.
+1 CONT Aşiret, akrabalık, ağalık kavramları; Brukan ağırlıklı, Yegin
+1 CONT hattına doğrudan delil yok.
+1 CONT Cumhuriyet Döneminde Tunceli — Savaş Sertel, 512 s.
+1 CONT 1940–1970 idarî yapı ve nüfus, PDF s. 270 Sayrık yerleşim
+1 CONT kaydı.
+1 CONT Aşiret Aşiret Dersim — Seyfi Cengiz, 96 s.
+1 CONT Farklı aşiret/göç tezleri ve şahıs adları; kronoloji ve isim
+1 CONT benzerliği sıkı kontrol edilmeli.
+1 CONT 1079014689-211521.pdf — Derya Yaylalı, Ağrı Dağı
+1 CONT Ayaklanmaları, 119 s.
+1 CONT Ağrı ve 1937 bağlamı; ad benzerliği taşıyan Şemikanlı Timur,
+1 CONT Yegin Temür değildir.
+1 CONT Tunceli Kanunu (1935) ve Dersim Jenosidi — İsmail Beşikçi,
+1 CONT 183 s.
+1 CONT OCR yapılan basılı nüsha; 1935 kanunu ve ilgili yorumlar için
+1 CONT dönem tartışması, Yegin soyu kanıtı değil.
+1 CONT 5 | 1925 nüfus yazımı: araştırmanın düğüm noktası
+1 CONT CİMER yanıtındaki tam kayıt: “Temür ve ailesinin Tunceli, Nazımiye, Çevrecik köyü nüfusuna 1341 (192
+1 CONC 5)
+1 CONT yılında yangından dolayı yapılan yersel nüfus yazımı ile kaydedildikleri” tespit edilmiştir. Buna ka
+1 CONC rşılık yersel
+1 CONT yazım öncesi ve atik defterler devir-teslim listesinde görülmediği için önceki kuşaklar bulunamamışt
+1 CONC ır. Bu,
+1 CONT defterlerin tamamının yangında yok olduğunun kesin kanıtı değildir.
+1 CONT Arşivde aranacak kayıt
+1 CONT Beklenen bilgi
+1 CONT 1925 özgün hane sayfası
+1 CONT Temür, Şehriban, diğer hane mensupları; hane/defter, yaş, baba adı, aile
+1 CONT lakabı ve önceki kayıt açıklamaları.
+1 CONT 1925 öncesi kayıtların akıbeti
+1 CONT Hangi idarenin hangi listesinde yok; varsa ikincil suret, il/ilçe nüfus müdürlüğü
+1 CONT veya Osmanlı fonu.
+1 CONT Kızılkilise meclis ve nahiye sicilleri
+1 CONT Ali Çavuş, Hüseyin Dede, Aliye Gaxi; ayrı şahısların isim, baba, lakap ve köy
+1 CONT üzerinden ayrıştırılması.
+1 CONT Kureyşan ocak/kollara ait şecereler
+1 CONT Çevrecik köyü aile grubu, Hüseyin’in babası, pir/dede/talip ayrımı ve Hacı
+1 CONT Kureyş’e kadar ara kuşaklar.
+1 CONT 1937–1938 zayiat, ölüm ve iskân defterleri
+1 CONT Temür Ağa’nın ölüm yeri/yılı ve ölüm koşulları; sözlü tarihin doğrulanması.
+1 CONT 6 | Önceki taramalarla çapraz kaynak denetimi
+1 CONT • Halaçoğlu tahrir kaydı (basılı s. 1547–1548) ile Kibar Taş 2017 doktora tezi (PDF s. 66–68) karşıl
+1 CONC aştırıldı. TKA
+1 CONT TD 106 sayımının numarasına ilişkin tashih: TD 146 (eski 287).
+1 CONT • Kibar Taş 2017, PDF s. 165, Çevrecik’i Kureyşan yerleşimleri arasında gösterir. Veli Saltık 2009, 
+1 CONC PDF s. 18,
+1 CONT Sayrik–Çevrecik bağlantısını gösterir.
+1 CONT
+1 CONT ===== PDF SAYFA 5 =====
+1 CONT HOUSE OF YEGIN  |  KUREYŞAN SOY ARAŞTIRMASI  |  15.10.2026
+1 CONT 5
+1 CONT • “Temür/Timur Ağa” adı farklı aşiret ve dönemlerde görülmektedir. 1908 Aydınoğlu, 1916 Sürzade/Sürg
+1 CONC üzade,
+1 CONT 1920 Karaballı ve 1930 Ağrı Şemikanlı Timur ayrı kimlik araştırmaları gerektirir.
+1 CONT • Türkmen kökeni görüşü: Beğdili olarak tasnif edilen Kureyş adlı Osmanlı cemaatleri ile Dersim Kure
+1 CONC yşan ve
+1 CONT Yegin ailesi aynı kesintisiz soy zinciri sayılmamalıdır. Yalçın–Yılmaz çalışmasının tasnife yönelik 
+1 CONC eleştirisi
+1 CONT dikkate alınmalıdır.
+1 CONT • Cumhuriyet ve Atatürk’e dair herhangi bir olumlu/olumsuz siyasal yargı aile soyu kanıtı yerine geç
+1 CONC mez. Askerî
+1 CONT rapor, sözlü tanıklık ve yorum birbirine karıştırılmadan ele alınmıştır.
+1 CONT 7 | Sonuç: elde edilen delilin sınırı
+1 CONT Yegin ailesinin doğrudan baba soyunda Hüseyin → Temür (1884, Çevrecik) → Hasan Yegin (1928) → Cemal
+1 CONT Yegin (1969) → Doğukan Yegin (1994) hattı bulunmaktadır. CİMER cevabı 1925 yersel nüfus yazımını
+1 CONT destekler. Akademik ve tarihî kaynaklar Kureyşan aşiretinin Kızılkilise/Nazımiye coğrafyasını ve Çev
+1 CONC recik
+1 CONT yerleşimini gösterir. Yeni 14 kitabın tam sayfa dijital taramasında Hüseyin’in babası veya doğrudan 
+1 CONC belirlenmiş
+1 CONT Kureyşan kolu bulunamamıştır. Bu nedenle soy bağlantısı araştırılacak bir iddiadır, tamamlanmış ispa
+1 CONC t değildir.
+1 CONT 8 | Taramanın teknik sınırları ve ek dosyalar
+1 CONT 54 PDF dosyası arasında birebir aynı olan 5 dosya yeniden sayılmıştır; 49 farklı dosya sürümünde top
+1 CONC lam
+1 CONT 17.307 sayfa vardır. Birebir farklı sürümler aynı kitabın değişik baskı veya taraması olabilir. Her 
+1 CONC PDF sayfasının
+1 CONT metin katmanı denetlenmiştir. Bu rapor için yeni 14 PDF’nin 2.658 metinli sayfası çıkarılmış, 218 me
+1 CONC tinsiz
+1 CONT sayfası OCR işlemine alınmıştır. OCR çıktılarında kelime ve özel ad hataları kalabilir. Eski Halaçoğ
+1 CONC lu dosyasında
+1 CONT tam sayfa elle tashih yapılmamış; önceki alfabetik isim sütunu taraması ayrı ek olarak kullanılmaya 
+1 CONC devam
+1 CONT edilmiştir.
+1 CONT Dijital ekler: tum_eski_ve_yeni_pdf_kaynak_enveri.csv; tum_yeni_kaynaklar_sayfa_eslesmeleri.csv;
+1 CONT 14_Besikci_183_sayfa_TAM_OCR.txt; diger_13_pdf_metinsiz_sayfa_OCR.jsonl; yeni 13 PDF’nin sayfa numar
+1 CONC alı
+1 CONT metin dosyaları; önceki iki kitabın OCR dizinleri.
+1 CONT House of Yegin | Araştırma sürümü: 15.10.2026 | Kişisel/ailevi kayıtlara ilişkin atıflar kullanıcını
+1 CONC n belge ve beyanlarına
+1 CONT dayanmaktadır.
+1 CONT
+0 @N4@ NOTE [KAYNAK TAM METNİ — House_of_Yegin_Halacoglu_Kureysan_Tarama_Raporu.md]
+1 CONT [KANIT DURUMU] Bu belge hem doğrulanmış olgular hem araştırma hipotezleri ve karşı argümanlar içerir
+1 CONC ; her cümlenin orijinal kaynak düzeyi aşağıdaki metinde korunmuştur.
+1 CONT [FİZİKSEL DOSYA] SHA-256: 4224c2f38f3aeb3c51996a06638d205c59ff8e4a8b177221534562a77a30a834
+1 CONT # House of Yegin — Yusuf Halaçoğlu Kaynak Taraması
+1 CONT
+1 CONT **İncelenen eser:** Yusuf Halaçoğlu, *Anadolu'da Aşiretler, Cemaatler, Oymaklar (1453–1650)*, Türk T
+1 CONC arih Kurumu, 2009.  
+1 CONT **PDF kapsamı:** 2.547 görüntü sayfası. Kitabın alfabetik cemaat tabloları PDF 53–2547. sayfalarda d
+1 CONC evam eder ve basılı 2490. sayfada sona erer. Son dizin/bibliyografya ve bazı ekler PDF'de bulunmaz. 
+1 CONC  
+1 CONT **Araştırma amacı:** Yegin ailesinin Nazımiye–Çevrecik hattıyla ilgili Kureyşan/Koreşan araştırmasın
+1 CONC da ad, cemaat, tarih ve arşiv bağlantıları saptamak.
+1 CONT
+1 CONT ## İnceleme yöntemi ve sınırları
+1 CONT
+1 CONT PDF taranmış görüntülerden oluşur; doğrudan metin araması yapılamaz. Bu nedenle alfabetik tabloların
+1 CONC  **Cemaat adı ve Taife** sütunları PDF 53–2547 arasındaki **2.495 sayfanın tamamında** OCR ile taran
+1 CONC mıştır. Kureyş kayıtlarının bulunduğu **PDF 1603–1604 / basılı 1547–1548** sayfaları ayrıca özgün yü
+1 CONC ksek çözünürlüklü görüntülerden okunarak karşılaştırılmıştır. OCR dizinindeki diğer eşleşmelerin özg
+1 CONC ün sayfalara dönülerek doğrulanması gerekir. Yani bütün PDF'nin tüm satırlarında bulunan yerleşim, r
+1 CONC akam ve kaynak sütunları eksiksiz transkripsiyon edilmiş değildir.
+1 CONT
+1 CONT ## Doğrudan belge bulgusu: Kureyş adlı Beğdili cemaatleri
+1 CONT
+1 CONT Halaçoğlu'nun basılı **1547–1548** sayfalarında aşağıdaki **11 tablo satırı** tespit edildi. Tabloda
+1 CONC ki `Boy` sütunu bu satırların hepsini **Beğdili** olarak sınıflandırır. `H.` hane; `M.` mücerred anl
+1 CONC amında kullanılmıştır. Farklı yıllara ait rakamlar toplanarak tek dönem nüfusu hesaplanamaz.
+1 CONT
+1 CONT | Ad | Tarih | Yer / kayıt konusu | H. | M. | Osmanlı / Tapu Kadastro arşiv referansı | PDF sayfası 
+1 CONC |
+1 CONT |---|---|---|---:|---:|---|---:|
+1 CONT | Kureyş Cemaati | 1584 | İshaklu Nahiyesi, Akşehir | 23 | 4 | Halaçoğlu: TKA, TD 106, vr. 80a; **Ki
+1 CONC bar Taş'ın düzeltmesi: TKA TD 146 (eski no. 287), vr. 65 ve 79** | 1603 |
+1 CONT | Kureyş Marakak Cemaati | 1518–1519 | Eski İl Kazası, Karaman; Düden, Çavdar, Alırık mevkii | 165 |
+1 CONC  60 | BOA, A.DFE 667, s. 49–51 | 1603 |
+1 CONT | Kureyş Marakak Cemaati | 1584–1585 | Marakak köyü, Kureyşözü Kazası, Konya | 40 | 11 | TKA, TD 149
+1 CONC , vr. 50a–b | 1603 |
+1 CONT | Kureyş Marakak Cemaati | 1584–1585 | Çukur Viran köyü, Kureyşözü Kazası | 52 | 11 | TKA, TD 149, v
+1 CONC r. 51a | 1603 |
+1 CONT | Kureyş Marakak Cemaati | 1584–1585 | İne Gazi köyü, Kureyşözü Kazası | 16 | 2 | TKA, TD 149, vr. 5
+1 CONC 2a | 1603 |
+1 CONT | Kureyş Marakak Cemaati | 1584–1585 | Kara Kedi köyü, Kureyşözü Kazası | 93 | 15 | TKA, TD 149, vr.
+1 CONC  51a–b | 1603 |
+1 CONT | Kureyş Marakak Cemaati | 1584–1585 | Mandem köyü, Kureyşözü Kazası | 25 | 3 | TKA, TD 149, vr. 51b
+1 CONC –52a | 1603 |
+1 CONT | Kureyş Marakak Cemaati | 1521–1522 | Alırık, Düden, Karaca Viran mezraları, Eski İl Kazası | 194 |
+1 CONC  68 | BOA, TD 1061, s. 70–72 | 1603 |
+1 CONT | Kureyş Melikşah Cemaati | 1518–1519 | Pınar ve Tavas mezraları, Eski İl, Karaman | 156 | 22 | BOA,
+1 CONC  A.DFE 667, s. 46–48 | 1603 |
+1 CONT | Kureyş Melikşah Cemaati | 1500–1501 | Devran köyü, Eski İl, Karaman | 17 | 0 | BOA, TD 32, s. 15 |
+1 CONC  1604 |
+1 CONT | Kureyş Melikşah Cemaati | 1521–1522 | Tavas, Katladı(r)ıç ve Ekinlik çevresi, Eski İl | 149 | 21 |
+1 CONC  BOA, TD 1061, s. 69–70 | 1604 |
+1 CONT
+1 CONT **Sayısal tutarlılık uyarısı:** Kureyş Melikşah için 1518–1519 satırında Halaçoğlu 156 hane + 22 müc
+1 CONC erred (178 birim) gösterirken Kibar Taş aynı arşiv referansı için 163 vergi veren nefer aktarmaktadı
+1 CONC r. 1521–1522 satırında da Halaçoğlu 149 + 21 (170), Kibar Taş 190 nefer kaydetmiştir. Sayılar birebi
+1 CONC r örtüşmediğinden asıl BOA kayıtları açılıp sayım kategorileri ve olası yayın hataları karşılaştırıl
+1 CONC madan kesin nüfus rakamı verilmemelidir.
+1 CONT
+1 CONT **Yazım uyarısı:** İne Gazi, Marakak, Katladır(i)ç ve bazı küçük mevki adları, eski tahrirlerin mode
+1 CONC rn basımdaki aktarımına göredir. Özgün defterlerde teyit edilmesi gerekir. Aynı adın birden çok satı
+1 CONC rı ayrı soy kollarını kanıtlamaz.
+1 CONT
+1 CONT ## Alfabenin başka harflerinde bulunan Kureyş mahalleleri
+1 CONT
+1 CONT 2547 sayfalık PDF'de alfabetik 'Cemaat adı' sütunlarının tamamı tarandığında yalnızca 'Kureyş' başlı
+1 CONC ğı değil, Kureyş Cemaati'ne bağlı **beş mahalle** de tespit edilmiştir. Aşağıdaki beş kayıt yüksek ç
+1 CONC özünürlüklü özgün sayfalarla ayrıca doğrulanmıştır. Bunların her birinde **Taife: Kureyş Cemaati**, 
+1 CONC **Boy: Beğdili**, **Akşehir Sancağı / İshaklu Nahiyesi**, **1584** bilgisi bulunur. Böylece doğrudan
+1 CONC  ilişkili **toplam 16 ayrı tablo satırı** belirlenmiştir; bu rakam 16 ayrı soy kolu demek değildir.
+1 CONT
+1 CONT | Cemaat adı / mahalle | H. | M. | Basılı sayfa | PDF sayfası | Basılı eserdeki arşiv kaydı |
+1 CONT |---|---:|---:|---:|---:|---|
+1 CONT | Baş Kuyu Mahallesi | 13 | 20 | 247 | 299 | TKA TD 106, vr. 79a–b |
+1 CONT | Gök Ahur Mahallesi | 29 | 43 | 898 | 952 | TKA TD 106, vr. 79a |
+1 CONT | Kaş Kuyusu Mahallesi | 42 | 29 | 1343 | 1398 | TKA TD 106, vr. 79b |
+1 CONT | Kızıl Kuyu Mahallesi | 9 | 14 | 1461 | 1517 | TKA TD 106, vr. 79b |
+1 CONT | Yağdazanlı Mahallesi | 17 | 18 | 2293 | 2350 | TKA TD 106, vr. 78b–79b |
+1 CONT
+1 CONT **ÖNEMLİ:** Beş satırda da Halaçoğlu'nun basılı *TD 106* numarası görülmektedir. Kibar Taş'ın düzelt
+1 CONC tiği **TKA TD 146 (eski no. 287)** ve ilgili varaklar, orijinal defterden karşılaştırılmadan yukarıd
+1 CONC aki beş satıra otomatik olarak yayılmamalıdır; arşiv kurumundan doğru defter ve varak eşleştirmesi y
+1 CONC azılı olarak teyit ettirilmelidir.
+1 CONT
+1 CONT **Sayısal karşılaştırma:** Halaçoğlu'nun bu beş satırındaki H.+M. değerleri sırasıyla **33, 72, 71, 
+1 CONC 23, 35**; Kibar Taş'ın mahalle başına verdiği nefer değerleri sırasıyla **36, 72, 61, 23, 35**'tir. 
+1 CONC Özellikle Baş Kuyu ve Kaş Kuyusu rakamlarında kaynaklar arasında fark vardır. Yalnızca bu toplamları
+1 CONC n birbirine eşit olmadığını saptayabiliriz; sebebi için orijinal TKA tahriri gereklidir.
+1 CONT
+1 CONT **Yakın yazımların ayıklanması:** Basılı s. 1512'deki *Köreslü Cemaati* (Urfa/Bozili; BOA TD 965) ve
+1 CONC  basılı s. 1587'deki *Küreyni Cemaati* (Halep çevresi) sırf fonetik benzerlik nedeniyle Kureyşan kay
+1 CONC dı sayılmamıştır. 625. PDF sayfasında OCR'de geçen *Kızıl Kilise* de Aydın civarında bir köy adıdır;
+1 CONC  Nazımiye/Kızılkilise ile aynı yer olduğu düşünülemez.
+1 CONT
+1 CONT ## Akademik karşılaştırma: Kibar Taş, 2017
+1 CONT
+1 CONT Kibar Taş, *Dünü ve Bugünü ile Kureyşan Aşiretleri*, doktora tezi, 2017, PDF s. 66–69, Halaçoğlu'nda
+1 CONC ki Kureyş Melikşah, Kureyş Marakak ve Akşehir Kureyş Cemaati kayıtlarını inceler. En eski örneğin 15
+1 CONC 00–1501 tarihli **BOA TD 32, s. 15** olduğunu belirtir; 1530 muhasebe defterinde de Melikşah ve Mara
+1 CONC kak cemaatlerinin kayıtlı olduğunu aktarır.
+1 CONT
+1 CONT **Önemli düzeltme:** Halaçoğlu'nun Akşehir Kureyş Cemaati için verdiği **TKA TD 106** kayıt numarası
+1 CONC , Kibar Taş tarafından **TKA TD 146 (eski no. 287), vr. 65 ve 79** şeklinde düzeltilmiştir. Tahrir a
+1 CONC slı talep edilirken düzeltilmiş künyeyle işlem yapılmalı, Halaçoğlu'ndaki baskı bilgisi de karşılaşt
+1 CONC ırma amacıyla saklanmalıdır.
+1 CONT
+1 CONT Ek kayıtlar:
+1 CONT
+1 CONT - **937/1530:** *387 Numaralı Muhâsebe-i Vilâyet-i Karaman ve Rûm Defteri*, I, s. 233 ve 235; Kureyş
+1 CONC  Marakak ve Kureyş Melikşah.
+1 CONT - **942/1535:** Akşehir çevresi Kureyş Cemaati'nin mera/yaylak tasarrufu hakkında kayıt; Kibar Taş, 
+1 CONC TKA TD 146, vr. 65 ve 79.
+1 CONT - **1145/1732–1733:** Akşehir çevresindeki eski Kureyş tasarruf kayıtlarını anan daha geç bir kayıt;
+1 CONC  yine Kibar Taş'ın aynı defter incelemesinde tartışılır. Geç tarihli kopyanın, eski nüfus bilgilerin
+1 CONC i aynen tekrarlayabileceği belirtilmiştir.
+1 CONT - **1262/1845–1846:** Erzincan/Tercan yöresinde Kureyşanlı Aşireti kaydı; **BOA A.MKT. 52/15** (Kiba
+1 CONC r Taş).
+1 CONT - **20. yüzyıl raporu:** Kibar Taş'ın aktardığı *Aşiretler Raporu*, Nazımiye'nin Çevrecik köyünü Kur
+1 CONC eyşan yerleşimleri arasında sayar.
+1 CONT
+1 CONT ## İsim sütunlarının tam tarama sonucu
+1 CONT
+1 CONT - OCR + özgün sayfa karşılaştırmasında, Kureyş Cemaati ile açıkça bağlantılı **16** satır doğrulanmı
+1 CONC ştır.
+1 CONT - Başlık veya taife sütununda **Yegin/Yeğin**, **Çevrecik**, **Sayrik/Sabrik** ya da **Nazımiye** ol
+1 CONC arak tanınmış bir eşleşme bulunmamıştır. Bu, söz konusu kelimelerin kitabın başka sütunlarında veya 
+1 CONC OCR'nin okuyamadığı yerlerde bulunmadığını kanıtlamaz; ayrıca 1453–1650 tarihli tahrirlerden günümüz
+1 CONC  soyadlarını beklemek anakroniktir.
+1 CONT - `Temür/Timur` ad öğesi çok sayıda tarihî cemaat/taife adında görülmüştür (örneğin *Kuştemür*, *Bal
+1 CONC temür*, *Beğtimurlu*). Bunların hiçbiri 1884 doğumlu Hüseyin oğlu Temür ile kimlik özdeşliği kurmaz.
+1 CONT - Tam ad sütunu OCR metni ayrıca aktarılmıştır. OCR yazım hataları içerir ve sonuçlar için orijinal 
+1 CONC taranmış görüntüler esastır.
+1 CONT
+1 CONT ## Soy araştırması bakımından kanıt düzeyi
+1 CONT
+1 CONT **Belgeyle desteklenen:** 16. yüzyılda Karaman, Konya ve Akşehir'de Kureyş adını taşıyan ve Halaçoğl
+1 CONC u tarafından Beğdili olarak sınıflandırılan toplulukların tahrirlerde bulunması; daha geç tarihlerde
+1 CONC  Kureyşanlıların Doğu Anadolu'da belgelenmesi; Nazımiye/Çevrecik'in Kureyşan yerleşimleri arasında k
+1 CONC aynaklarda yer alması.
+1 CONT
+1 CONT **Henüz belgelenmeyen:** Bu ayrı dönem ve bölgelerdeki Kureyş/Kureyşan topluluklarının kesintisiz bi
+1 CONC yolojik soy ağacı; 1884 doğumlu Hüseyin oğlu Temür'ün hangi Kureyşan kolundan geldiği; Temür'ün baba
+1 CONC sı Hüseyin'in doğrudan bir ocak şeceresi üzerindeki yeri; 16. yüzyıl Beğdili kayıtlarından Yegin ail
+1 CONC esine doğrudan kan bağı; ehl-i beyt/seyyid silsilesinin aileye özgü ispatı.
+1 CONT
+1 CONT Halaçoğlu'nun boy/etnik sınıflandırmasını, kaynağın yaptığı tarihî tasnif olarak aktarıyoruz; bunu b
+1 CONC ütün Tuncelililerin veya bugünkü bütün Kureyşan ailelerinin zorunlu etnik kökeni olarak sunmuyoruz. 
+1 CONC Böylece Türkmen kökeni görüşü kaynaklar arasında araştırılırken kanıt ile yorum ayrılmış olur.
+1 CONT
+1 CONT ## Öncelikli belge temin listesi
+1 CONT
+1 CONT 1. **BOA TD 32, s. 15 ve 18**: Kureyş Melikşah ve `Cemaat-i Kureyş maa Deveklik` için 1500–1501 asıl
+1 CONC ları.
+1 CONT 2. **BOA A.DFE 667, s. 46–51**: Melikşah ve Marakak kayıtlarını karşılaştırma.
+1 CONT 3. **BOA TD 1061, s. 69–72**: 1521–1522 izleme kayıtları.
+1 CONT 4. **TKA TD 149, s. 46–57**: 1584–1585 Kureyşözü/Marakak yerleşim ve aile dökümleri.
+1 CONT 5. **TKA TD 146 (eski 287), vr. 65 ve 79**: Akşehir/İshaklu Kureyş Cemaati ve müteakip şerhler.
+1 CONT 6. **BOA A.MKT. 52/15**: 1845–1846 Erzincan/Tercan Kureyşanlı Aşireti.
+1 CONT 7. **Nazımiye–Çevrecik 1925 nüfus hane yazımı ve daha eski şer'iyye/nüfus/emlak kayıtları**: Hüseyin
+1 CONC  → Temür bağlantısını bir veya iki kuşak geriye taşımak.
+1 CONT
+1 CONT **Sonuç:** Halaçoğlu'nun 1547–1548. sayfaları Kureyş adının Osmanlı tahrir kayıtlarındaki Beğdili ba
+1 CONC ğlantısını gösteren değerli kanıtlardır. Ancak Yegin ailesine uzanan kesintisiz soy zincirini kurmak
+1 CONC  için Çevrecik'teki Hüseyin ailesinin özgün hane kayıtlarına ve Kureyşan ocak şecereleriyle doğrulan
+1 CONC abilecek ara kuşaklara hâlâ ihtiyaç vardır.
+1 CONT
+0 @N5@ NOTE [KAYNAK TAM METNİ — House_of_Yegin_Tum_Kitaplar_Ayrintili_Tarama_Raporu.md]
+1 CONT [KANIT DURUMU] Bu belge hem doğrulanmış olgular hem araştırma hipotezleri ve karşı argümanlar içerir
+1 CONC ; her cümlenin orijinal kaynak düzeyi aşağıdaki metinde korunmuştur.
+1 CONT [FİZİKSEL DOSYA] SHA-256: a833dd9a0dab573dfbf8a18493a1274f1fe20b2d0d3a9769604844fd3e9b3245
+1 CONT # HOUSE OF YEGIN
+1 CONT ## Dersim–Kureyşan–Yegin Soy Araştırması: Bütün Kaynakların Sayfa Bazlı Tarama Raporu
+1 CONT **Araştırma tarihi:** 15 Ekim 2026  
+1 CONT **Kapsam:** Önceki konuşmalarda yüklenen ve çalışma ortamında erişilebilen PDF ve EPUB eserleri  
+1 CONT **Araştırma hedefi:** Hüseyin → Temür → Hasan Yegin baba soyunu belirli Kureyşan koluna bağlayabilec
+1 CONC ek belgelerin tespiti.
+1 CONT
+1 CONT ## 1. Çalışmanın kapsamı ve dürüstlük beyanı
+1 CONT
+1 CONT - Yerel arşivde **42 PDF/EPUB kopyası** bulundu. Birebir aynı dört dosya ayrıldıktan sonra **38 ayrı
+1 CONC  dijital dosya** işlendi. Halaçoğlu'nun 2.547 sayfalık eserinin iki farklı dijital sürümü, teknik ol
+1 CONC arak farklı dosya oldukları için iki satırda görünür; ancak **aynı eserdir**.
+1 CONT - Toplam **14.706 PDF sayfası veya EPUB içerik bölümü** tarama envanterine girdi; **9.097** birimde 
+1 CONC makinece okunabilen metin vardı. EPUB “bölüm” sayısı basılı sayfa sayısı değildir.
+1 CONT - Metin çıkarılabilen **bütün sayfalarda** Osmanlı adları, Kureyşan yazımları, köy adları, Temür/Tim
+1 CONC ur, Ali Çavuş, seyyid şeceresi ve aile soyuyla ilgili terimler arandı. **1.664 kaynak–sayfa–konu eşl
+1 CONC eşmesi** indekslendi; bu sayı 1.664 farklı tarihsel kanıt olduğu anlamına gelmez.
+1 CONT - Osmanlıca/Türkçe farklı latinleştirmelerde görülen **Qureyşan** gibi adlar için Mehmet Bayrak ve i
+1 CONC lgili dört eserde ayrıca varyant taraması yapıldı; **46 ham eşleşme** `Qureysan_Yazim_Varyantlari_Ek
+1 CONC .tsv` dosyasında listelendi. Bu eşleşmeler de mükerrer veya bağlam dışı olabilir.
+1 CONT - **Halaçoğlu'nun 2.547 sayfalık eseri görsel taramadır**: önceki kapsamlı çalışmadan kalan **alfabe
+1 CONC tik cemaat adı sütununa ait OCR dizini** kullanıldı ve ilgili 16 Kureyş satırı özgün sayfa görüntüle
+1 CONC rinden doğrulandı. Bu yöntem her tablonun tüm sütunlarının veya bütün 2.547 sayfanın eksiksiz transk
+1 CONC ripsiyonu değildir.
+1 CONT - **Doğu İlleri ve Varto Tarihi (182 s.)** ve **Genelkurmay Belgelerinde Kürt İsyanları II (161 s.)*
+1 CONC * görüntü tabanlı olup aranabilir metin içermez. Bu eserlerin her sayfasının güvenilir metin düzeyin
+1 CONC de okunması **henüz tamamlanmadı**. Diğer kaynaklarda da fotoğraf, imza ve yazma belge görüntülerini
+1 CONC n ayrı paleografik incelemeye ihtiyacı olabilir.
+1 CONT - Tarama otomatik sayfa indekslemesi + önemli pasajların özgün sayfa kontrolü şeklindedir; **9 bin s
+1 CONC ayfanın her birinin insan gibi tek tek eleştirel yorumlandığı iddia edilmemektedir**. Başlıktaki “bü
+1 CONC tün kaynaklar” çalışma ortamında bulunan eserleri ifade eder.
+1 CONT
+1 CONT ## 2. En yüksek öncelikli somut bulgular
+1 CONT
+1 CONT ### 2.1. Kureyş–Beğdili kayıtları: 1500–1585
+1 CONT **Yusuf Halaçoğlu, *Anadolu’da Aşiretler, Cemaatler, Oymaklar*, IV. cilt, basılı s. 1547–1548** (PDF
+1 CONC  yaklaşık 1603–1604): *Kureyş*, *Kureyş Marakak* ve *Kureyş Melikşah* cemaatleri **Beğdili** başlığı
+1 CONC yla sınıflandırılır. Aynı kitabın başka alfabetik maddelerinde Baş Kuyu, Gök Ahur, Kaş Kuyusu, Kızıl
+1 CONC  Kuyu ve Yağdazanlı adlarıyla ilişkili Kureyş Cemaati kayıtları da saptandı (basılı s. 247, 898, 134
+1 CONC 3, 1461, 2293). Önceki incelemede toplam **16 satır** özgün sayfadan kontrol edilmişti.
+1 CONT
+1 CONT **Kibar Taş, 2017 tezi, PDF s. 66–68** bu kayıtları BOA tahrirleriyle karşılaştırır: BOA TD 32; A.DF
+1 CONC E 667 (s. 46–51); BOA TD 1061; TKA TD 149; **TKA TD 146 (eski nr. 287), vr. 65, 79**. Taş, Halaçoğlu
+1 CONC 'nun Akşehir için verdiği **TKA TD 106** numarasının **yanlış** olduğunu ve doğrusunun **146** olduğ
+1 CONC unu belirtir.
+1 CONT
+1 CONT **Eleştirel karşılaştırma:** Alemdar Yalçın ve Hacı Yılmaz'ın *Anadolu'da Bir Oymağın Kültürel Kodla
+1 CONC rı* (PDF s. 99) çalışması, Halaçoğlu'nun Beğdili sınıflandırmasının hangi tahrir bilgisine dayandığı
+1 CONC nın açıklanmadığını, kendilerinin gördüğü tahrir sayfalarında üst boy bilgisinin yer almadığını yaza
+1 CONC r. Dolayısıyla **“Beğdili sınıflandırması vardır” belgeli bir bibliyografik tespittir; “Yegin ailesi
+1 CONC  kesin Beğdilidir” ise henüz kanıtlanmamıştır.**
+1 CONT
+1 CONT ### 2.2. 1845–1846 Kureyşanlı kaydı
+1 CONT **Kibar Taş, 2017 tezi, PDF s. 52; Elif Kömürcü, 2026 araştırması, Ek 1, PDF s. 23**: **BOA A.MKT. 5
+1 CONC 2/15** numaralı Osmanlı belgesinin Kureyşanlıların Erzincan–Tercan çevresindeki varlığı bakımından ö
+1 CONC nemini doğrular. **Kömürcü'nün 2026 makalesinin Ek 2'sinde (PDF s. 24) BOA A.MKT. 234/61** belge gör
+1 CONC üntüsü de yer almaktadır. Bu ikinci kaydın Yegin ailesiyle ilgisi henüz araştırılmalıdır.
+1 CONT
+1 CONT ### 2.3. 1880 Kureyşan ve Kızılkilise
+1 CONT **Gündoğdu–Genç, *Dersim'de Osmanlı Siyaseti*, PDF s. 57–58:** Ferik Fazıl Paşa'nın **BOA İ.MMS. 68/
+1 CONC 3183, 23 Kasım 1880** tarihli raporu; Kureyşanlıları etkili aşiret topluluklarından sayar, **Derviş 
+1 CONC Süleyman** adını anar; Kızılkilise'nin idarî-askerî durumunu betimler. Osmanlı raporunda dinî ve top
+1 CONC lumsal bakımdan ağır yargı içeren dil kullanıldığı için bu kısımlar **raporu kaleme alan devlet göre
+1 CONC vlisinin söylemi** olarak aktarılmalıdır.
+1 CONT
+1 CONT ### 2.4. Ali Çavuş ve yerel idare
+1 CONT **Gündoğdu–Genç PDF s. 175** Kureyşanlılar arasında **Ali Çavuş** adlı ağayı zikreder (raporun başlı
+1 CONC ğı ve arşiv künyesi PDF s. 171'de). **Kibar Taş 2017 PDF s. 159–161** üzerinden **BOA DH.MUİ. 64-2/2
+1 CONC 0** referansı, **Kureyşan reisi Seyyid Mahmud'un kardeşi Ali Çavuş'un nahiye müdürü** olduğunu ileri
+1 CONC  süren 1911 tarihli arzuhali tartışır. **BOA A.MKT.MHM. 657/32** ise 1895'te **Kızılkilise İdare Mec
+1 CONC lisi azası Ali Çavuş** adına atıfta bulunur. Bunların tamamının aynı kişi olduğu veya Yeginlerin ata
+1 CONC sı bulunduğu kesinleştirilmemiştir.
+1 CONT
+1 CONT ### 2.5. Çevrecik–Sayrik ve Kureyşan yerleşimi
+1 CONT **Veli Saltık, *Tunceli'de Alevî Ocakları*, PDF s. 18**: köy listesinde **“40 Sayrik — Çevrecik — Na
+1 CONC zımiye”** kaydı. **Kibar Taş, 2017 tezi, PDF s. 165**: 1970'li yıllara ait *Aşiretler Raporu* özetin
+1 CONC de **Çevrecik**, Nazımiye'deki Kureyşan yerleşimleri arasındadır. **Mehmet Bayrak, *Dersim–Koçgiri*,
+1 CONC  PDF s. 683**: *Sabrik (Sayrik)* ve *Ker (Ger)* farklı yerleşim satırlarıdır. Eski köy adları **karı
+1 CONC ştırılmamalı**.
+1 CONT
+1 CONT ### 2.6. 1925 Çevrecik yersel nüfus yazımı
+1 CONT Kullanıcının aktardığı **CİMER üzerinden iletilen resmî cevap**, Hüseyin oğlu **Temür ve ailesinin 1
+1 CONC 341/1925 yılında yangın nedeniyle yapılan yersel yazımla Çevrecik nüfusuna kaydedildiğini** bildirir
+1 CONC . Aynı cevap, yazım öncesi ve atik kayıtların ilgili arşivin devir-teslim listesinde bulunmadığını s
+1 CONC öyler. Bu, **kayıtların mutlaka yangında yok olduğu** anlamına gelmez. Buradaki en güçlü takip hedef
+1 CONC i **1925 özgün hane sayfasının arşiv künye numarası ve suretidir**.
+1 CONT
+1 CONT ### 2.7. 1937 Kureyşan aile kollarının farklı konumları
+1 CONT **Serap Yeşiltuna, *Devletin Dersim Arşivi*, PDF s. 525–527:** 2 Ağustos 1937 tarihli belgede **Kure
+1 CONC yşan Şeyhan grubu** ile **Güdan grubu**, devlet yazışmasının farklı kategorilerinde ele alınmıştır. 
+1 CONC Bir aşiretin tüm kollarını aynı siyasî/askerî konuma yerleştirmek yanlıştır. Bu belge **Temür'ün han
+1 CONC gi kolda olduğunu söylemez**.
+1 CONT
+1 CONT ### 2.8. Birden çok Timur Ağa: kimlik tuzağı
+1 CONT **Faik Bulut, *Dersim Raporları*, PDF s. 232–239** ve **Erhan Taş, 2021 tezi, PDF s. 160–164, 217** 
+1 CONC kayıtlarında çeşitli **Timur/Temür Ağa** adları geçer. Bunlar arasında Sürzade/Sürgüzade, Karaballı,
+1 CONC  Aydınoğlu vb. tanımlamalar vardır. 1920 tarihli Karaballı Timur'un oğlu Hasan, **1928 doğumlu Hasan
+1 CONC  Yegin olamaz**. Hiçbir tarihî Timur kaydı, baba adı Hüseyin ve eş adı Şehriban gibi eşleştirici bil
+1 CONC giler olmadan aile atasına bağlanmamalıdır.
+1 CONT
+1 CONT ## 3. Türkmen kökeni tezi: destek ve sınır
+1 CONT
+1 CONT Kureyş adlı Osmanlı cemaatlerinin Halaçoğlu'nda **Beğdili** olarak sınıflandırılması, Türkmen kökeni
+1 CONC ne ilişkin **ciddi bir araştırma ipucudur**. Ancak yukarıdaki Yalçın–Yılmaz itirazı, boy sütununun ö
+1 CONC zgün tahrir dayanağını denetlememiz gerektiğini gösterir. Kibar Taş'ın 2017 tezi (PDF s. 66–68, 91–9
+1 CONC 2) ve Ali Tayyar Önder'in *Türkiye'nin Etnik Yapısı* çalışması, Türkmen/Orta Anadolu ve Kirmanşah ba
+1 CONC ğlantısı hakkında farklı yorumlar içerir. İlgili Osmanlı raporları ise farklı dönemlerde Kızılkilise
+1 CONC  halkının konuştuğu diller ve etnik adlandırmalar konusunda her zaman aynı değerlendirmeyi yapmaz.
+1 CONT
+1 CONT **Bu inceleme Cumhuriyet'e veya Atatürk'e karşı siyasal bir tez değildir.** Osmanlı ve Cumhuriyet ar
+1 CONC şivleri, farklı dönemlerdeki devlet kurumlarının tarihî tanıklıkları olarak kullanılmıştır. Ailenin 
+1 CONC Türkmen kökeni görüşü, Yegin soy zincirinin kanıt düzeyinden ayrı bir başlıkta ele alınmalıdır.
+1 CONT
+1 CONT ## 4. Kanıt düzeylerinin ayrılması
+1 CONT
+1 CONT | İfade | Sonuç |
+1 CONT |---|---|
+1 CONT | Hüseyin + Sakine → Temür → Hasan → Cemal → Doğukan | **Resmî nüfus kaydıyla izlenen doğrudan soy**
+1 CONC  |
+1 CONT | Temür ailesinin Çevrecik'te 1925 yersel yazımı | **CİMER cevabında resmî tespit olarak bildiriliyo
+1 CONC r** |
+1 CONT | Çevrecik/Sayrik'in Kureyşan yerleşim coğrafyası | **Bağımsız akademik/yayın kaynaklarıyla destekli
+1 CONC ** |
+1 CONT | Kureyş/Marakak/Melikşah cemaatlerinin Beğdili tasnifi | **Kaynakta mevcut; özgün boy tasnifi dayan
+1 CONC ağı tartışmalı** |
+1 CONT | Kureyşan Ocağı'nın Seyyid Mahmud-ı Kebir geleneği | **Ocak şeceresi, sözlü tarih ve akademik incel
+1 CONC eme konusu** |
+1 CONT | Temür'ün köy ağalığı ve Dersim olaylarında ölümü | **Aile sözlü tarihi; doğrudan ölüm/idarî kayıt 
+1 CONC henüz bulunmadı** |
+1 CONT | Yegin'in belirli Kureyşan kolundan olması | **Henüz doğrudan kanıt yok** |
+1 CONT | Yegin ile Ali Çavuş veya Hacı Kureyş arasında kesintisiz soy | **Henüz doğrudan kanıt yok** |
+1 CONT
+1 CONT ## 5. En öncelikli belge talepleri (sonraki somut işlem)
+1 CONT
+1 CONT 1. **NVİ / CİMER:** 1925 Çevrecik **yersel nüfus yazımının özgün defter künyesi**, Temür–Şehriban ha
+1 CONC nesinin kayıt sureti; Hüseyin ve Sakine'ye ait satırlar, varsa eski lakaplar ve defterin açıklama sü
+1 CONC tunları.
+1 CONT 2. **Osmanlı Arşivi:** **BOA A.MKT. 52/15** (1845–46 Kureyşanlı); **A.MKT. 234/61** (2026 makale eki
+1 CONC ndeki belge) — özgün metin ve katalog ayrıntısı.
+1 CONT 3. **Osmanlı Arşivi:** **İ.MMS. 68/3183** (1880), **İ.DH. 1467/1** (1908), **A.MKT.MHM. 657/32** (18
+1 CONC 95), **DH.MUİ. 64-2/20** (1911) — aşiret reisliği, Kızılkilise meclisi ve nahiye müdürlüğüyle ilgili
+1 CONC  şahısları karşılaştırma.
+1 CONT 4. **Tapu ve Kadastro Arşivi:** **TKA TD 146 (eski 287), vr. 65 ve 79**, **TD 149 s. 46–57**; **BOA 
+1 CONC TD 32, TD 1061 ve A.DFE 667** — Orta Anadolu Kureyş cemaatlerinin ayrıntılı tahriri ve Halaçoğlu tas
+1 CONC nifinin doğrulanması.
+1 CONT 5. **Yerel aile/ocak belgeleri:** Çevrecik'te Temür Ağa'nın aile lakabı, Hüseyin'in babası, Kureyşan
+1 CONC  alt kolu, dede–talip ilişkisi; tarihli görüşme tutanakları ve varsa yerel şecereler.
+1 CONT
+1 CONT ## 6. Dosya bazında kapsama envanteri
+1 CONT
+1 CONT Aşağıdaki liste yalnızca dosya içindeki **aranabilir metin oranını** gösterir. **%100 ifadesi tam ka
+1 CONC ynak eleştirisi veya tam paleografik okuma yapıldığı anlamına gelmez.**
+1 CONT
+1 CONT | Kaynak | PDF s. / EPUB bölüm | Metinli birim | Not |
+1 CONT |---|---:|---:|---|
+1 CONT | Mehmet Bayrak — Dersim–Koçgiri | 709 | 683 | Metin tarandı |
+1 CONT | Kibar Taş (2012) — Tunceli (Dersim) Çevresindeki Aşiretler | 205 | 205 | Metin tarandı |
+1 CONT | Murat Zeytinli (2012) — Zorunlu Göçler ve Dersim 1938 | 500 | 451 | Kısmi metin |
+1 CONT | Tuğba Doğan (2012) — 1937–1938 Dersim İsyanı | 13 | 13 | Metin tarandı |
+1 CONT | Kibar Taş (2019) — Seyyid Mahmud-ı Kebir, Hayrani ve Derviş Beyaz | 13 | 13 | Metin tarandı |
+1 CONT | Ali Rıza Özdemir — Kayıp Türkler | 307 | 302 | Metin tarandı |
+1 CONT | Doğu İlleri ve Varto Tarihi (görsel tarama) | 182 | 0 | Görsel tabanlı |
+1 CONT | Kibar Taş (2017) — Dünü ve Bugünü ile Kureyşan Aşiretleri | 310 | 310 | Metin tarandı |
+1 CONT | Arzu Öğ (2019) — Dersim Hâdisesi | 136 | 136 | Metin tarandı |
+1 CONT | Alemdar Yalçın ve Hacı Yılmaz — Anadolu’da Bir Oymağın Kültürel Kodları | 194 | 194 | Metin tarand
+1 CONC ı |
+1 CONT | Erhan Taş (2021) — Dersim’de Asayiş (1914–1923) | 342 | 342 | Metin tarandı |
+1 CONT | Sultan Paçacı Vurgun — Safevilerin Anadolu Faaliyetleri | 128 | 128 | Metin tarandı |
+1 CONT | Hasan Hakan Ulutin (2016) — II. Meşrutiyet ve Cumhuriyet Döneminde Dersim | 507 | 506 | Metin tara
+1 CONC ndı |
+1 CONT | Ahmet Özer — Doğu Anadolu’da Aşiret Düzeni | 191 | 191 | Metin tarandı |
+1 CONT | Özlem Akgün — Alikan, Duderan ve Soran aşiretleri | 510 | 509 | Metin tarandı |
+1 CONT | Ozan Can Akpınar — II. Abdülhamid Döneminde Vilâyât-ı Sitte | 541 | 541 | Metin tarandı |
+1 CONT | Hayri Başbuğ — Doğu Anadolu’da Ermeni Terörü ve Hamidiye Aşiret Alayları | 232 | 229 | Metin taran
+1 CONC dı |
+1 CONT | Nihal Esen — Doğu, Güneydoğu ve Musul Denkleminde Aşiretler | 177 | 177 | Metin tarandı |
+1 CONT | Dilek Akgümüş — Osmanlı’dan Cumhuriyet’e Doğu Anadolu | 392 | 392 | Metin tarandı |
+1 CONT | Doğukan Demir (2024) — Dersim’de Toplumsal Mühendislik | 172 | 172 | Metin tarandı |
+1 CONT | Ayfer Karakaya-Stump — Osmanlı Anadolusu’nda Kızılbaş Aleviler | 370 | 361 | Metin tarandı |
+1 CONT | Yusuf Halaçoğlu — Anadolu’da Aşiretler, Cemaatler, Oymaklar (versiyon A) | 2,547 | 0 | Görsel taba
+1 CONC nlı |
+1 CONT | Cihangir Gündoğdu ve Vural Genç — Dersim’de Osmanlı Siyaseti | 200 | 182 | Kısmi metin |
+1 CONT | Bülent Bilmez, Gülay Kayacan ve Şükrü Aslan — Dersim 38’i Hatırlamak | 73 | 73 | Metin tarandı |
+1 CONT | Serap Yeşiltuna — Devletin Dersim Arşivi | 1,124 | 1,116 | Metin tarandı |
+1 CONT | Genelkurmay Belgelerinde Kürt İsyanları II (görsel tarama) | 161 | 0 | Görsel tabanlı |
+1 CONT | Hüseyin Aygün — Dersim 1938 ve Zorunlu İskân | 271 | 252 | Kısmi metin |
+1 CONT | Elif Kömürcü (2026) — Kureyşan Ocağı: Erzincan Örneği | 24 | 24 | Metin tarandı |
+1 CONT | Ziya Gökalp — Kürt Aşiretleri Hakkında Sosyolojik Tetkikler | 11 | 11 | Metin tarandı |
+1 CONT | NVİ — Yegin Ailesi Alt-Üst Soy Belgesi (ÖZEL) | 4 | 4 | Metin tarandı |
+1 CONT | Yusuf Halaçoğlu — Türkiye’nin Derin Kökleri | 142 | 140 | Metin tarandı |
+1 CONT | Ali Tayyar Önder — Türkiye’nin Etnik Yapısı | 420 | 411 | Metin tarandı |
+1 CONT | Yusuf Halaçoğlu — Osmanlılarda Devlet Teşkilatı ve Sosyal Yapı | 118 | 118 | Metin tarandı |
+1 CONT | Yusuf Halaçoğlu — Anadolu’da Aşiretler, Cemaatler, Oymaklar (versiyon B) | 2,547 | 0 | Görsel taba
+1 CONC nlı |
+1 CONT | Faik Bulut — Dersim Raporları | 427 | 413 | Metin tarandı |
+1 CONT | Peter J. Bumke / Pera-Blätter — Dersim/Mankerek Araştırması | 101 | 98 | Metin tarandı |
+1 CONT | Veli Saltık (2009) — Tunceli’de Alevî Ocakları | 33 | 33 | Metin tarandı |
+1 CONT | Bilâl N. Şimşir — İngiliz Belgeleriyle Türkiye’de Kürt Sorunu | 372 | 367 | Metin tarandı |
+1 CONT
+1 CONT **Ek açıklamalar:** Aynı dosyanın birebir eş kopyaları olan `476501.pdf`, `874507.pdf`, `Nüfus … (2)
+1 CONC .pdf` ve Halaçoğlu'nun bir kopyası ikinci defa işlenmedi. Halaçoğlu'nun farklı dijital kodlamalı iki
+1 CONC nci nüshası içerik tekrarını temsil eder. **Aşiretler Raporu** bağımsız tam PDF olarak değil, Taş ve
+1 CONC  Kömürcü gibi çalışmaların atıfları üzerinden kullanılmıştır. **Açık uçlu soy araştırmasında**, kayn
+1 CONC akta bir kişi adının bulunmaması o kişinin tarihsel olarak var olmadığını kanıtlamaz.
+1 CONT
+1 CONT ## 7. Araştırma verilerinin kullanımı
+1 CONT
+1 CONT - `Sayfa_Bazli_Arama_Sonuclari.tsv`: belgelere göre **sayfa, kategori, eşleşme adedi ve kısa bağlam*
+1 CONC *.
+1 CONT - `Korpus_Envanteri.csv`: dosya sayıları, metinli sayfa kapsamı ve eksik kalan taranmış kitaplar.
+1 CONT - `Qureysan_Yazim_Varyantlari_Ek.tsv`: özellikle Bayrak’ın eserindeki Q harfli adlandırmalar için ta
+1 CONC mamlayıcı ham eşleşme listesi.
+1 CONT - `Korpus_Envanteri.json`, `Tam_Tarama_Ozeti.json`: daha ileri bilgisayarlı işlemler için kaynak den
+1 CONC etim verisi.
+1 CONT - Önceki kapsamlı taramada üretilen `Halacoglu_2547_sayfa_Cemaat_Adi_OCR_Dizini.txt`: görüntü tabanl
+1 CONC ı Halaçoğlu eserinin **yalnızca alfabetik cemaat adı sütunu** için yardımcı dizin. OCR hataları olab
+1 CONC ileceğinden eşleşmeler özgün görüntüyle kontrol edilmelidir.
+1 CONT
+1 CONT **Nihai tarihsel durum:** Yegin ailesinin doğrudan nüfus soy zinciri ile Kureyşan'ın Çevrecik/Sayrik
+1 CONC  yerleşim bağlantısı ayrı ayrı güçlü şekilde belgelidir. Eksik kritik belge, **Hüseyin veya Temür'ün
+1 CONC  hangi Kureyşan koluna mensup olduğunu doğrudan gösteren aile/ocak/nüfus kayıt eşleştirmesidir**. Bu
+1 CONC  rapor bağlantıyı varmış gibi kurmaz.
+1 CONT
+0 @N6@ NOTE [KAYNAK TAM METNİ — House_of_Yegin_Tum_Kitaplar_Araştırma_Raporu_2026(2).pdf]
+1 CONT [KANIT DURUMU] Bu belge hem doğrulanmış olgular hem araştırma hipotezleri ve karşı argümanlar içerir
+1 CONC ; her cümlenin orijinal kaynak düzeyi aşağıdaki metinde korunmuştur.
+1 CONT [FİZİKSEL DOSYA] SHA-256: c7db941bcb4667825dbd8aefab964a73ea7fcb8333655806ef41c90aeea84fd7
+1 CONT ===== PDF SAYFA 1 =====
+1 CONT HOUSE OF YEGIN
+1 CONT Dersim–Kureyşan–Yegin Soy Araştırması: Bütün
+1 CONT Kaynakların Sayfa Bazlı Tarama Raporu
+1 CONT Araştırma tarihi: 15 Ekim 2026
+1 CONT Kapsam: Önceki konuşmalarda yüklenen ve çalışma ortamında erişilebilen PDF ve EPUB eserleri
+1 CONT Araştırma hedefi: Hüseyin → Temür → Hasan Yegin baba soyunu belirli Kureyşan koluna bağlayabilecek
+1 CONT belgelerin tespiti.
+1 CONT 1. Çalışmanın kapsamı ve dürüstlük beyanı
+1 CONT Yerel arşivde 42 PDF/EPUB kopyası bulundu. Birebir aynı dört dosya ayrıldıktan sonra 38 ayrı
+1 CONT dijital dosya işlendi. Halaçoğlu'nun 2.547 sayfalık eserinin iki farklı dijital sürümü, teknik olara
+1 CONC k farklı
+1 CONT dosya oldukları için iki satırda görünür; ancak aynı eserdir.
+1 CONT Toplam 14.706 PDF sayfası veya EPUB içerik bölümü tarama envanterine girdi; 9.097 birimde
+1 CONT makinece okunabilen metin vardı. EPUB “bölüm” sayısı basılı sayfa sayısı değildir.
+1 CONT Metin çıkarılabilen bütün sayfalarda Osmanlı adları, Kureyşan yazımları, köy adları, Temür/Timur, Al
+1 CONC i
+1 CONT Çavuş, seyyid şeceresi ve aile soyuyla ilgili terimler arandı. 1.664 kaynak–sayfa–konu eşleşmesi
+1 CONT indekslendi; bu sayı 1.664 farklı tarihsel kanıt olduğu anlamına gelmez.
+1 CONT Osmanlıca/Türkçe farklı latinleştirmelerde görülen Qureyşan gibi adlar için Mehmet Bayrak ve ilgili
+1 CONT dört eserde ayrıca varyant taraması yapıldı; 46 ham eşleşme Qureysan_Yazim_Varyantlari_Ek.tsv
+1 CONT dosyasında listelendi. Bu eşleşmeler de mükerrer veya bağlam dışı olabilir.
+1 CONT Halaçoğlu'nun 2.547 sayfalık eseri görsel taramadır: önceki kapsamlı çalışmadan kalan 
+1 CONT alfabetik cemaat adı sütununa ait OCR dizini kullanıldı ve ilgili 16 Kureyş satırı özgün sayfa
+1 CONT görüntülerinden doğrulandı. Bu yöntem her tablonun tüm sütunlarının veya bütün 2.547 sayfanın
+1 CONT eksiksiz transkripsiyonu değildir.
+1 CONT Doğu İlleri ve Varto Tarihi (182 s.) ve Genelkurmay Belgelerinde Kürt İsyanları II (161 s.)
+1 CONT görüntü tabanlı olup aranabilir metin içermez. Bu eserlerin her sayfasının güvenilir metin düzeyinde
+1 CONT okunması henüz tamamlanmadı. Diğer kaynaklarda da fotoğraf, imza ve yazma belge
+1 CONT görüntülerinin ayrı paleografik incelemeye ihtiyacı olabilir.
+1 CONT Tarama otomatik sayfa indekslemesi + önemli pasajların özgün sayfa kontrolü şeklindedir; 9 bin
+1 CONT sayfanın her birinin insan gibi tek tek eleştirel yorumlandığı iddia edilmemektedir.
+1 CONT Başlıktaki “bütün kaynaklar” çalışma ortamında bulunan eserleri ifade eder.
+1 CONT 2. En yüksek öncelikli somut bulgular
+1 CONT 2.1. Kureyş–Beğdili kayıtları: 1500–1585
+1 CONT Yusuf Halaçoğlu, Anadolu’da Aşiretler, Cemaatler, Oymaklar, IV. cilt, basılı s. 1547–1548 (PDF
+1 CONT yaklaşık 1603–1604): Kureyş, Kureyş Marakak ve Kureyş Melikşah cemaatleri Beğdili başlığıyla
+1 CONT sınıflandırılır. Aynı kitabın başka alfabetik maddelerinde Baş Kuyu, Gök Ahur, Kaş Kuyusu, Kızıl Kuy
+1 CONC u ve
+1 CONT Yağdazanlı adlarıyla ilişkili Kureyş Cemaati kayıtları da saptandı (basılı s. 247, 898, 1343, 1461, 
+1 CONC 2293).
+1 CONT Önceki incelemede toplam 16 satır özgün sayfadan kontrol edilmişti.
+1 CONT • 
+1 CONT • 
+1 CONT • 
+1 CONT • 
+1 CONT • 
+1 CONT • 
+1 CONT • 
+1 CONT HOUSE OF YEGIN | 2026
+1 CONT Sayfa 1 / 6
+1 CONT
+1 CONT ===== PDF SAYFA 2 =====
+1 CONT Kibar Taş, 2017 tezi, PDF s. 66–68 bu kayıtları BOA tahrirleriyle karşılaştırır: BOA TD 32; A.DFE 66
+1 CONC 7 (s.
+1 CONT 46–51); BOA TD 1061; TKA TD 149; TKA TD 146 (eski nr. 287), vr. 65, 79. Taş, Halaçoğlu'nun Akşehir
+1 CONT için verdiği TKA TD 106 numarasının yanlış olduğunu ve doğrusunun 146 olduğunu belirtir.
+1 CONT Eleştirel karşılaştırma: Alemdar Yalçın ve Hacı Yılmaz'ın Anadolu'da Bir Oymağın Kültürel Kodları (P
+1 CONC DF
+1 CONT s. 99) çalışması, Halaçoğlu'nun Beğdili sınıflandırmasının hangi tahrir bilgisine dayandığının
+1 CONT açıklanmadığını, kendilerinin gördüğü tahrir sayfalarında üst boy bilgisinin yer almadığını yazar.
+1 CONT Dolayısıyla “Beğdili sınıflandırması vardır” belgeli bir bibliyografik tespittir; “Yegin ailesi kesi
+1 CONC n
+1 CONT Beğdilidir” ise henüz kanıtlanmamıştır.
+1 CONT 2.2. 1845–1846 Kureyşanlı kaydı
+1 CONT Kibar Taş, 2017 tezi, PDF s. 52; Elif Kömürcü, 2026 araştırması, Ek 1, PDF s. 23: BOA A.MKT.
+1 CONT 52/15 numaralı Osmanlı belgesinin Kureyşanlıların Erzincan–Tercan çevresindeki varlığı bakımından
+1 CONT önemini doğrular. Kömürcü'nün 2026 makalesinin Ek 2'sinde (PDF s. 24) BOA A.MKT. 234/61
+1 CONT belge görüntüsü de yer almaktadır. Bu ikinci kaydın Yegin ailesiyle ilgisi henüz araştırılmalıdır.
+1 CONT 2.3. 1880 Kureyşan ve Kızılkilise
+1 CONT Gündoğdu–Genç, Dersim'de Osmanlı Siyaseti, PDF s. 57–58: Ferik Fazıl Paşa'nın BOA İ.MMS.
+1 CONT 68/3183, 23 Kasım 1880 tarihli raporu; Kureyşanlıları etkili aşiret topluluklarından sayar, Derviş
+1 CONT Süleyman adını anar; Kızılkilise'nin idarî-askerî durumunu betimler. Osmanlı raporunda dinî ve toplu
+1 CONC msal
+1 CONT bakımdan ağır yargı içeren dil kullanıldığı için bu kısımlar raporu kaleme alan devlet görevlisinin
+1 CONT söylemi olarak aktarılmalıdır.
+1 CONT 2.4. Ali Çavuş ve yerel idare
+1 CONT Gündoğdu–Genç PDF s. 175 Kureyşanlılar arasında Ali Çavuş adlı ağayı zikreder (raporun başlığı ve
+1 CONT arşiv künyesi PDF s. 171'de). Kibar Taş 2017 PDF s. 159–161 üzerinden BOA DH.MUİ. 64-2/20
+1 CONT referansı, Kureyşan reisi Seyyid Mahmud'un kardeşi Ali Çavuş'un nahiye müdürü olduğunu ileri
+1 CONT süren 1911 tarihli arzuhali tartışır. BOA A.MKT.MHM. 657/32 ise 1895'te Kızılkilise İdare Meclisi
+1 CONT azası Ali Çavuş adına atıfta bulunur. Bunların tamamının aynı kişi olduğu veya Yeginlerin atası
+1 CONT bulunduğu kesinleştirilmemiştir.
+1 CONT 2.5. Çevrecik–Sayrik ve Kureyşan yerleşimi
+1 CONT Veli Saltık, Tunceli'de Alevî Ocakları, PDF s. 18: köy listesinde “40 Sayrik — Çevrecik —
+1 CONT Nazımiye” kaydı. Kibar Taş, 2017 tezi, PDF s. 165: 1970'li yıllara ait Aşiretler Raporu özetinde 
+1 CONT Çevrecik, Nazımiye'deki Kureyşan yerleşimleri arasındadır. Mehmet Bayrak, Dersim–Koçgiri, PDF s.
+1 CONT 683: Sabrik (Sayrik) ve Ker (Ger) farklı yerleşim satırlarıdır. Eski köy adları karıştırılmamalı.
+1 CONT 2.6. 1925 Çevrecik yersel nüfus yazımı
+1 CONT Kullanıcının aktardığı CİMER üzerinden iletilen resmî cevap, Hüseyin oğlu Temür ve ailesinin
+1 CONT 1341/1925 yılında yangın nedeniyle yapılan yersel yazımla Çevrecik nüfusuna kaydedildiğini
+1 CONT bildirir. Aynı cevap, yazım öncesi ve atik kayıtların ilgili arşivin devir-teslim listesinde bulunma
+1 CONC dığını
+1 CONT söyler. Bu, kayıtların mutlaka yangında yok olduğu anlamına gelmez. Buradaki en güçlü takip hedefi
+1 CONT 1925 özgün hane sayfasının arşiv künye numarası ve suretidir.
+1 CONT 2.7. 1937 Kureyşan aile kollarının farklı konumları
+1 CONT Serap Yeşiltuna, Devletin Dersim Arşivi, PDF s. 525–527: 2 Ağustos 1937 tarihli belgede 
+1 CONT Kureyşan Şeyhan grubu ile Güdan grubu, devlet yazışmasının farklı kategorilerinde ele alınmıştır. Bi
+1 CONC r
+1 CONT aşiretin tüm kollarını aynı siyasî/askerî konuma yerleştirmek yanlıştır. Bu belge Temür'ün hangi kol
+1 CONC da
+1 CONT olduğunu söylemez.
+1 CONT HOUSE OF YEGIN | 2026
+1 CONT Sayfa 2 / 6
+1 CONT
+1 CONT ===== PDF SAYFA 3 =====
+1 CONT 2.8. Birden çok Timur Ağa: kimlik tuzağı
+1 CONT Faik Bulut, Dersim Raporları, PDF s. 232–239 ve Erhan Taş, 2021 tezi, PDF s. 160–164, 217
+1 CONT kayıtlarında çeşitli Timur/Temür Ağa adları geçer. Bunlar arasında Sürzade/Sürgüzade, Karaballı,
+1 CONT Aydınoğlu vb. tanımlamalar vardır. 1920 tarihli Karaballı Timur'un oğlu Hasan, 1928 doğumlu Hasan
+1 CONT Yegin olamaz. Hiçbir tarihî Timur kaydı, baba adı Hüseyin ve eş adı Şehriban gibi eşleştirici bilgil
+1 CONC er
+1 CONT olmadan aile atasına bağlanmamalıdır.
+1 CONT 3. Türkmen kökeni tezi: destek ve sınır
+1 CONT Kureyş adlı Osmanlı cemaatlerinin Halaçoğlu'nda Beğdili olarak sınıflandırılması, Türkmen kökenine
+1 CONT ilişkin ciddi bir araştırma ipucudur. Ancak yukarıdaki Yalçın–Yılmaz itirazı, boy sütununun özgün ta
+1 CONC hrir
+1 CONT dayanağını denetlememiz gerektiğini gösterir. Kibar Taş'ın 2017 tezi (PDF s. 66–68, 91–92) ve Ali Ta
+1 CONC yyar
+1 CONT Önder'in Türkiye'nin Etnik Yapısı çalışması, Türkmen/Orta Anadolu ve Kirmanşah bağlantısı hakkında f
+1 CONC arklı
+1 CONT yorumlar içerir. İlgili Osmanlı raporları ise farklı dönemlerde Kızılkilise halkının konuştuğu dille
+1 CONC r ve etnik
+1 CONT adlandırmalar konusunda her zaman aynı değerlendirmeyi yapmaz.
+1 CONT Bu inceleme Cumhuriyet'e veya Atatürk'e karşı siyasal bir tez değildir. Osmanlı ve Cumhuriyet
+1 CONT arşivleri, farklı dönemlerdeki devlet kurumlarının tarihî tanıklıkları olarak kullanılmıştır. Aileni
+1 CONC n Türkmen
+1 CONT kökeni görüşü, Yegin soy zincirinin kanıt düzeyinden ayrı bir başlıkta ele alınmalıdır.
+1 CONT 4. Kanıt düzeylerinin ayrılması
+1 CONT İfade
+1 CONT Sonuç
+1 CONT Hüseyin + Sakine → Temür → Hasan → Cemal → Doğukan
+1 CONT Resmî nüfus kaydıyla izlenen doğrudan soy
+1 CONT Temür ailesinin Çevrecik'te 1925 yersel yazımı
+1 CONT CİMER cevabında resmî tespit olarak bildiriliyor
+1 CONT Çevrecik/Sayrik'in Kureyşan yerleşim coğrafyası
+1 CONT Bağımsız akademik/yayın kaynaklarıyla destekli
+1 CONT Kureyş/Marakak/Melikşah cemaatlerinin Beğdili tasnifi
+1 CONT Kaynakta mevcut; özgün boy tasnifi dayanağı
+1 CONT tartışmalı
+1 CONT Kureyşan Ocağı'nın Seyyid Mahmud-ı Kebir geleneği
+1 CONT Ocak şeceresi, sözlü tarih ve akademik inceleme
+1 CONT konusu
+1 CONT Temür'ün köy ağalığı ve Dersim olaylarında ölümü
+1 CONT Aile sözlü tarihi; doğrudan ölüm/idarî kayıt henüz
+1 CONT bulunmadı
+1 CONT Yegin'in belirli Kureyşan kolundan olması
+1 CONT Henüz doğrudan kanıt yok
+1 CONT Yegin ile Ali Çavuş veya Hacı Kureyş arasında kesintisiz soy
+1 CONT Henüz doğrudan kanıt yok
+1 CONT 5. En öncelikli belge talepleri (sonraki somut işlem)
+1 CONT NVİ / CİMER: 1925 Çevrecik yersel nüfus yazımının özgün defter künyesi, Temür–Şehriban
+1 CONT hanesinin kayıt sureti; Hüseyin ve Sakine'ye ait satırlar, varsa eski lakaplar ve defterin açıklama
+1 CONT sütunları.
+1 CONT Osmanlı Arşivi: BOA A.MKT. 52/15 (1845–46 Kureyşanlı); A.MKT. 234/61 (2026 makale ekindeki
+1 CONT belge) — özgün metin ve katalog ayrıntısı.
+1 CONT Osmanlı Arşivi: İ.MMS. 68/3183 (1880), İ.DH. 1467/1 (1908), A.MKT.MHM. 657/32 (1895), 
+1 CONT DH.MUİ. 64-2/20 (1911) — aşiret reisliği, Kızılkilise meclisi ve nahiye müdürlüğüyle ilgili şahıslar
+1 CONC ı
+1 CONT karşılaştırma.
+1 CONT 1. 
+1 CONT 2. 
+1 CONT 3. 
+1 CONT HOUSE OF YEGIN | 2026
+1 CONT Sayfa 3 / 6
+1 CONT
+1 CONT ===== PDF SAYFA 4 =====
+1 CONT Tapu ve Kadastro Arşivi: TKA TD 146 (eski 287), vr. 65 ve 79, TD 149 s. 46–57; BOA TD 32,
+1 CONT TD 1061 ve A.DFE 667 — Orta Anadolu Kureyş cemaatlerinin ayrıntılı tahriri ve Halaçoğlu tasnifinin
+1 CONT doğrulanması.
+1 CONT Yerel aile/ocak belgeleri: Çevrecik'te Temür Ağa'nın aile lakabı, Hüseyin'in babası, Kureyşan alt
+1 CONT kolu, dede–talip ilişkisi; tarihli görüşme tutanakları ve varsa yerel şecereler.
+1 CONT 6. Dosya bazında kapsama envanteri
+1 CONT Aşağıdaki liste yalnızca dosya içindeki aranabilir metin oranını gösterir. %100 ifadesi tam kaynak
+1 CONT eleştirisi veya tam paleografik okuma yapıldığı anlamına gelmez.
+1 CONT Kaynak
+1 CONT PDF s. / EPUB bölüm
+1 CONT Metinli birim
+1 CONT Not
+1 CONT Mehmet Bayrak — Dersim–
+1 CONT Koçgiri
+1 CONT 709
+1 CONT 683
+1 CONT Metin tarandı
+1 CONT Kibar Taş (2012) — Tunceli
+1 CONT (Dersim) Çevresindeki
+1 CONT Aşiretler
+1 CONT 205
+1 CONT 205
+1 CONT Metin tarandı
+1 CONT Murat Zeytinli (2012) —
+1 CONT Zorunlu Göçler ve Dersim
+1 CONT 1938
+1 CONT 500
+1 CONT 451
+1 CONT Kısmi metin
+1 CONT Tuğba Doğan (2012) — 1937–
+1 CONT 1938 Dersim İsyanı
+1 CONT 13
+1 CONT 13
+1 CONT Metin tarandı
+1 CONT Kibar Taş (2019) — Seyyid
+1 CONT Mahmud-ı Kebir, Hayrani ve
+1 CONT Derviş Beyaz
+1 CONT 13
+1 CONT 13
+1 CONT Metin tarandı
+1 CONT Ali Rıza Özdemir — Kayıp
+1 CONT Türkler
+1 CONT 307
+1 CONT 302
+1 CONT Metin tarandı
+1 CONT Doğu İlleri ve Varto Tarihi
+1 CONT (görsel tarama)
+1 CONT 182
+1 CONT 0
+1 CONT Görsel tabanlı
+1 CONT Kibar Taş (2017) — Dünü ve
+1 CONT Bugünü ile Kureyşan
+1 CONT Aşiretleri
+1 CONT 310
+1 CONT 310
+1 CONT Metin tarandı
+1 CONT Arzu Öğ (2019) — Dersim
+1 CONT Hâdisesi
+1 CONT 136
+1 CONT 136
+1 CONT Metin tarandı
+1 CONT Alemdar Yalçın ve Hacı
+1 CONT Yılmaz — Anadolu’da Bir
+1 CONT Oymağın Kültürel Kodları
+1 CONT 194
+1 CONT 194
+1 CONT Metin tarandı
+1 CONT Erhan Taş (2021) —
+1 CONT Dersim’de Asayiş (1914–
+1 CONT 1923)
+1 CONT 342
+1 CONT 342
+1 CONT Metin tarandı
+1 CONT Sultan Paçacı Vurgun —
+1 CONT Safevilerin Anadolu
+1 CONT Faaliyetleri
+1 CONT 128
+1 CONT 128
+1 CONT Metin tarandı
+1 CONT Hasan Hakan Ulutin (2016) —
+1 CONT II. Meşrutiyet ve Cumhuriyet
+1 CONT Döneminde Dersim
+1 CONT 507
+1 CONT 506
+1 CONT Metin tarandı
+1 CONT Ahmet Özer — Doğu
+1 CONT Anadolu’da Aşiret Düzeni
+1 CONT 191
+1 CONT 191
+1 CONT Metin tarandı
+1 CONT 4. 
+1 CONT 5. 
+1 CONT HOUSE OF YEGIN | 2026
+1 CONT Sayfa 4 / 6
+1 CONT
+1 CONT ===== PDF SAYFA 5 =====
+1 CONT Kaynak
+1 CONT PDF s. / EPUB bölüm
+1 CONT Metinli birim
+1 CONT Not
+1 CONT Özlem Akgün — Alikan,
+1 CONT Duderan ve Soran aşiretleri
+1 CONT 510
+1 CONT 509
+1 CONT Metin tarandı
+1 CONT Ozan Can Akpınar — II.
+1 CONT Abdülhamid Döneminde
+1 CONT Vilâyât-ı Sitte
+1 CONT 541
+1 CONT 541
+1 CONT Metin tarandı
+1 CONT Hayri Başbuğ — Doğu
+1 CONT Anadolu’da Ermeni Terörü ve
+1 CONT Hamidiye Aşiret Alayları
+1 CONT 232
+1 CONT 229
+1 CONT Metin tarandı
+1 CONT Nihal Esen — Doğu,
+1 CONT Güneydoğu ve Musul
+1 CONT Denkleminde Aşiretler
+1 CONT 177
+1 CONT 177
+1 CONT Metin tarandı
+1 CONT Dilek Akgümüş —
+1 CONT Osmanlı’dan Cumhuriyet’e
+1 CONT Doğu Anadolu
+1 CONT 392
+1 CONT 392
+1 CONT Metin tarandı
+1 CONT Doğukan Demir (2024) —
+1 CONT Dersim’de Toplumsal
+1 CONT Mühendislik
+1 CONT 172
+1 CONT 172
+1 CONT Metin tarandı
+1 CONT Ayfer Karakaya-Stump —
+1 CONT Osmanlı Anadolusu’nda
+1 CONT Kızılbaş Aleviler
+1 CONT 370
+1 CONT 361
+1 CONT Metin tarandı
+1 CONT Yusuf Halaçoğlu —
+1 CONT Anadolu’da Aşiretler,
+1 CONT Cemaatler, Oymaklar
+1 CONT (versiyon A)
+1 CONT 2,547
+1 CONT 0
+1 CONT Görsel tabanlı
+1 CONT Cihangir Gündoğdu ve Vural
+1 CONT Genç — Dersim’de Osmanlı
+1 CONT Siyaseti
+1 CONT 200
+1 CONT 182
+1 CONT Kısmi metin
+1 CONT Bülent Bilmez, Gülay
+1 CONT Kayacan ve Şükrü Aslan —
+1 CONT Dersim 38’i Hatırlamak
+1 CONT 73
+1 CONT 73
+1 CONT Metin tarandı
+1 CONT Serap Yeşiltuna — Devletin
+1 CONT Dersim Arşivi
+1 CONT 1,124
+1 CONT 1,116
+1 CONT Metin tarandı
+1 CONT Genelkurmay Belgelerinde
+1 CONT Kürt İsyanları II (görsel
+1 CONT tarama)
+1 CONT 161
+1 CONT 0
+1 CONT Görsel tabanlı
+1 CONT Hüseyin Aygün — Dersim
+1 CONT 1938 ve Zorunlu İskân
+1 CONT 271
+1 CONT 252
+1 CONT Kısmi metin
+1 CONT Elif Kömürcü (2026) —
+1 CONT Kureyşan Ocağı: Erzincan
+1 CONT Örneği
+1 CONT 24
+1 CONT 24
+1 CONT Metin tarandı
+1 CONT Ziya Gökalp — Kürt Aşiretleri
+1 CONT Hakkında Sosyolojik Tetkikler
+1 CONT 11
+1 CONT 11
+1 CONT Metin tarandı
+1 CONT NVİ — Yegin Ailesi Alt-Üst Soy
+1 CONT Belgesi (ÖZEL)
+1 CONT 4
+1 CONT 4
+1 CONT Metin tarandı
+1 CONT Yusuf Halaçoğlu —
+1 CONT Türkiye’nin Derin Kökleri
+1 CONT 142
+1 CONT 140
+1 CONT Metin tarandı
+1 CONT Ali Tayyar Önder —
+1 CONT Türkiye’nin Etnik Yapısı
+1 CONT 420
+1 CONT 411
+1 CONT Metin tarandı
+1 CONT HOUSE OF YEGIN | 2026
+1 CONT Sayfa 5 / 6
+1 CONT
+1 CONT ===== PDF SAYFA 6 =====
+1 CONT Kaynak
+1 CONT PDF s. / EPUB bölüm
+1 CONT Metinli birim
+1 CONT Not
+1 CONT Yusuf Halaçoğlu —
+1 CONT Osmanlılarda Devlet Teşkilatı
+1 CONT ve Sosyal Yapı
+1 CONT 118
+1 CONT 118
+1 CONT Metin tarandı
+1 CONT Yusuf Halaçoğlu —
+1 CONT Anadolu’da Aşiretler,
+1 CONT Cemaatler, Oymaklar
+1 CONT (versiyon B)
+1 CONT 2,547
+1 CONT 0
+1 CONT Görsel tabanlı
+1 CONT Faik Bulut — Dersim
+1 CONT Raporları
+1 CONT 427
+1 CONT 413
+1 CONT Metin tarandı
+1 CONT Peter J. Bumke / Pera-Blätter
+1 CONT — Dersim/Mankerek
+1 CONT Araştırması
+1 CONT 101
+1 CONT 98
+1 CONT Metin tarandı
+1 CONT Veli Saltık (2009) —
+1 CONT Tunceli’de Alevî Ocakları
+1 CONT 33
+1 CONT 33
+1 CONT Metin tarandı
+1 CONT Bilâl N. Şimşir — İngiliz
+1 CONT Belgeleriyle Türkiye’de Kürt
+1 CONT Sorunu
+1 CONT 372
+1 CONT 367
+1 CONT Metin tarandı
+1 CONT Ek açıklamalar: Aynı dosyanın birebir eş kopyaları olan 476501.pdf , 874507.pdf , Nüfus … (2).pdf  v
+1 CONC e
+1 CONT Halaçoğlu'nun bir kopyası ikinci defa işlenmedi. Halaçoğlu'nun farklı dijital kodlamalı ikinci nüsha
+1 CONC sı içerik
+1 CONT tekrarını temsil eder. Aşiretler Raporu bağımsız tam PDF olarak değil, Taş ve Kömürcü gibi çalışmala
+1 CONC rın
+1 CONT atıfları üzerinden kullanılmıştır. Açık uçlu soy araştırmasında, kaynakta bir kişi adının bulunmamas
+1 CONC ı o
+1 CONT kişinin tarihsel olarak var olmadığını kanıtlamaz.
+1 CONT 7. Araştırma verilerinin kullanımı
+1 CONT Sayfa_Bazli_Arama_Sonuclari.tsv : belgelere göre sayfa, kategori, eşleşme adedi ve kısa
+1 CONT bağlam.
+1 CONT Korpus_Envanteri.csv : dosya sayıları, metinli sayfa kapsamı ve eksik kalan taranmış kitaplar.
+1 CONT Qureysan_Yazim_Varyantlari_Ek.tsv : özellikle Bayrak’ın eserindeki Q harfli adlandırmalar için
+1 CONT tamamlayıcı ham eşleşme listesi.
+1 CONT Korpus_Envanteri.json , Tam_Tarama_Ozeti.json : daha ileri bilgisayarlı işlemler için kaynak denetim
+1 CONT verisi.
+1 CONT Önceki kapsamlı taramada üretilen Halacoglu_2547_sayfa_Cemaat_Adi_OCR_Dizini.txt : görüntü tabanlı
+1 CONT Halaçoğlu eserinin yalnızca alfabetik cemaat adı sütunu için yardımcı dizin. OCR hataları
+1 CONT olabileceğinden eşleşmeler özgün görüntüyle kontrol edilmelidir.
+1 CONT Nihai tarihsel durum: Yegin ailesinin doğrudan nüfus soy zinciri ile Kureyşan'ın Çevrecik/Sayrik
+1 CONT yerleşim bağlantısı ayrı ayrı güçlü şekilde belgelidir. Eksik kritik belge, Hüseyin veya Temür'ün ha
+1 CONC ngi
+1 CONT Kureyşan koluna mensup olduğunu doğrudan gösteren aile/ocak/nüfus kayıt eşleştirmesidir.
+1 CONT Bu rapor bağlantıyı varmış gibi kurmaz.
+1 CONT • 
+1 CONT • 
+1 CONT • 
+1 CONT • 
+1 CONT • 
+1 CONT HOUSE OF YEGIN | 2026
+1 CONT Sayfa 6 / 6
+1 CONT
+0 @N7@ NOTE [KAYNAK TAM METNİ — Arastirma_Bulgulari_Raporu_2026(2).pdf]
+1 CONT [KANIT DURUMU] Bu belge hem doğrulanmış olgular hem araştırma hipotezleri ve karşı argümanlar içerir
+1 CONC ; her cümlenin orijinal kaynak düzeyi aşağıdaki metinde korunmuştur.
+1 CONT [FİZİKSEL DOSYA] SHA-256: 91bcda4a8e091f4da8373859d783434a6bf8c5d4233d5853b770e32c0138a11d
+1 CONT ===== PDF SAYFA 1 =====
+1 CONT HOUSE OF YEGIN  |  TARİH VE SOY ARAŞTIRMASI  |  15.10.2026
+1 CONT 1
+1 CONT HOUSE OF YEGIN | TARİH VE GENEALOJİ ARAŞTIRMALARI
+1 CONT DOĞU İLLERİ VE VARTO TARİHİ
+1 CONT GENELKURMAY BELGELERİNDE KÜRT
+1 CONT İSYANLARI II
+1 CONT 343 PDF sayfasının tamamına yönelik dijital metin taraması, sayfa eşlemesi ve özgün sayfa
+1 CONT doğrulama raporu
+1 CONT Hazırlanma tarihi: 15 Ekim 2026
+1 CONT Araştırma konusu: Kureyşan/Koreşan, Kızılkilise-Nazımiye, Çevrecik/Sayrik, Temür/Timur, Hüseyin,
+1 CONT Şorik ve 1937–1938 dönemi.
+1 CONT Doğrudan soy zinciri: Hüseyin ve Sakine → Temür (1884) → Hasan Yegin (1928) → Cemal Yegin →
+1 CONT Doğukan Yegin.
+1 CONT Bu rapor, mevcut aile soyunu devlet kayıtlarıyla eşleştirebilecek bilgi ve belgeleri ayırır. Her tar
+1 CONC ihî
+1 CONT Timur veya Hüseyin, Yegin ailesinin atası sayılmamıştır.
+1 CONT KAPSAM
+1 CONT Kaynak
+1 CONT PDF
+1 CONT sayfası
+1 CONT İşlenen metin birimi
+1 CONT OCR kelime
+1 CONT M. Şerif Fırat, Doğu İlleri ve Varto Tarihi (2.
+1 CONT baskı, 1961)
+1 CONT 182
+1 CONT 182 tam sayfa
+1 CONT 64.305
+1 CONT Genelkurmay Belgelerinde Kürt İsyanları II
+1 CONT (1997)
+1 CONT 161
+1 CONT 321 görüntü (çift sayfalar
+1 CONT ayrıldı)
+1 CONT 70.433
+1 CONT TOPLAM
+1 CONT 343
+1 CONT 503
+1 CONT 134.738
+1 CONT Not: OCR kelime sayıları otomatik metin tanımanın ürettiği kelimelerdir. Düşük kaliteli taramalarda 
+1 CONC bazı kelimeler
+1 CONT yanlış okunmuş olabilir. Metin yoğunluğu düşük 48 görüntü çoğunlukla kapak, harita, görsel veya boş/
+1 CONC az metinli
+1 CONT sayfalardır.
+1 CONT
+1 CONT ===== PDF SAYFA 2 =====
+1 CONT HOUSE OF YEGIN  |  TARİH VE SOY ARAŞTIRMASI  |  15.10.2026
+1 CONT 2
+1 CONT 1. İncelemenin yöntemi ve tamamlama durumu
+1 CONT Her iki PDF’nin her fiziksel sayfası görüntüden çıkarılmış, görüntüler metin tanımaya elverişli
+1 CONT biçimde işlenmiş ve Türkçe OCR uygulanmıştır. Genelkurmay kitabında karşılıklı basılmış iki sayfa,
+1 CONT birbirinin metnine karışmaması için sol ve sağ olarak ayrılmıştır. 182 + 321 = 503 bağımsız görüntü
+1 CONT biriminin tamamı işlenmiştir.
+1 CONT Tüm görüntüler için özgün PDF sayfası, sağ/sol konumu, varsa basılı sayfa numarası, OCR kelime sayıs
+1 CONC ı
+1 CONT ve hedef terimlerin bulunduğu satırlar indekslenmiştir. Güncel çalışma tam kapsamlı dijital
+1 CONT taramadır; tüm sayfaların her satırının insan eliyle paleografik redaksiyondan geçirildiği
+1 CONT anlamına gelmez. Önemli eşleşmelerin belirli örnekleri ayrıca orijinal sayfa görüntülerinden
+1 CONT doğrulanmıştır.
+1 CONT Metin içi yer bildirimlerinde “PDF s.” elektronik dosyanın 1’den başlayan sayfası; “basılı s.” kitab
+1 CONC ın
+1 CONT görünen kendi sayfa numarasıdır. Genelkurmay kitabında PDF s. 82 sağ = basılı s. 163 örneğinde
+1 CONT olduğu gibi.
+1 CONT 2. En önemli sonuçlar
+1 CONT • Kureyşan adı iki kitapta da geçmektedir. Her iki eserdeki ilgili sayfalar saptandı, önemli kayıtla
+1 CONC r
+1 CONT görsel kaynağa karşı kontrol edildi.
+1 CONT • M. Şerif Fırat, Şorik köyündeki eski bir şecereden söz eder. Bu şecerenin anlatımında Hacı
+1 CONT Kureyş, Seyyid Mahmud, Temur/Tevmur ve Hüseyin adları geçer; ancak belge Yegin ailesinin soy
+1 CONT zincirini kanıtlamaz.
+1 CONT • Genelkurmay kitabı 1916’daki Kureyşan reisi Ali Ağa’dan ve 1938’de Şeyhan grubu
+1 CONT üyelerine ilişkin askerî rapordan bahseder.
+1 CONT • Taranan metinlerde 1884 doğumlu Hüseyin oğlu Temür ya da Yegin ailesi ile kesin eşleşme
+1 CONT saptanmadı. OCR kaybı ihtimali nedeniyle bu sonuç “kitapta kesinlikle yok” diye
+1 CONT değerlendirilmemelidir.
+1 CONT • Şorik, Sayrik ve Çevrecik isimleri otomatik eşitlenemez. Fırat’ın Şorik atıflarının en azından bir
+1 CONT bölümü Karlıova ve Hormek çevresindedir.
+1 CONT 3. Varto kitabındaki görsel olarak doğrulanan kayıtlar
+1 CONT PDF / basılı
+1 CONT Saptanan içerik
+1 CONT Soy bakımından yorum
+1 CONT 28 / 26
+1 CONT Küreyşanlı, bölgedeki aşiret isimleri arasında sayılır.
+1 CONT Coğrafi ve tarihî bağlam; aile
+1 CONT ferdinin kimliği yok.
+1 CONT 59 / 57
+1 CONT Lolanlıların Hacı Kureyş Ocağına bağlılık ve
+1 CONT çırak/lokma hakkı anlatımı.
+1 CONT Ocak-tâlip ilişkisi; doğrudan
+1 CONT Yegin şeceresi değil.
+1 CONT 63–65 / 61–63
+1 CONT Şorik/Şarik köyü şeceresi anlatımında Seyyid
+1 CONT Mahmud, Hacı Kureyş, Şah Mansur, Tevmur ve
+1 CONT Hüseyin adları.
+1 CONT Ad benzerliği tarihî akrabalık
+1 CONT göstermez; şecerenin özgün
+1 CONT sureti görülmeli.
+1 CONT 66 / 64
+1 CONT Şorik şeceresinin Hormek; Bağın, Civarik ve Balık
+1 CONT bağlamında tartışılması.
+1 CONT Şorik ile Çevrecik özdeşliği
+1 CONT kurulmadı.
+1 CONT
+1 CONT ===== PDF SAYFA 3 =====
+1 CONT HOUSE OF YEGIN  |  TARİH VE SOY ARAŞTIRMASI  |  15.10.2026
+1 CONT 3
+1 CONT PDF / basılı
+1 CONT Saptanan içerik
+1 CONT Soy bakımından yorum
+1 CONT 83 / 81
+1 CONT Kurişan, Hıran, İzol ve Şeyh Hasan adları Hormek’e
+1 CONT ilişkin tarihî anlatıda geçer.
+1 CONT Aşiretler arası ilişki kaydı;
+1 CONT kişisel soy ispatı yok.
+1 CONT 116 / 114
+1 CONT Fırat dipnotta Kureyşanlı Şah Haydar’ın 1916’daki
+1 CONT Rus cephesi olaylarında öldüğünü anlatır.
+1 CONT Devletle ilişkinin çeşitliliğine
+1 CONT tarihsel örnek; akrabalık
+1 CONT göstermez.
+1 CONT 147 / 145; 152 /
+1 CONT 150
+1 CONT Şorik ve eski şecereye yeniden atıf.
+1 CONT Yer adı ve kaynak eleştirisi
+1 CONT için takip edilecek kayıtlar.
+1 CONT 4. Şorik şeceresinde “Temur” ve “Hüseyin” problemi
+1 CONT Kitabın basılı 62. sayfasında (PDF 64) yazar, eski olduğunu ileri sürdüğü şecereden bir kabile liste
+1 CONC si
+1 CONT aktarır. Bu listede “Tevmur” ve “Hüseyin” adları farklı başlıklar hâlinde yer almaktadır. Bu kişiler
+1 CONC in
+1 CONT aile kayıtlarındaki Hüseyin ve 1884 doğumlu Temür olduğuna ilişkin hiçbir bilgi yoktur. Tarihî dönem
+1 CONC in
+1 CONT yüzlerce yıl daha eski olarak anlatılması, özdeşlik kurulamayacağını ayrıca gösterir.
+1 CONT Şecerenin Selçuklu ve erken Osmanlı hükümdarlarınca mühürlendiği iddiası yazarın aktardığı belge
+1 CONT anlatısıdır; eldeki kitap görüntüsü asıl şecerenin özgünlüğünü ve tarihini tek başına doğrulamaz. Bu
+1 CONT nedenle iddia, belgenin aslına veya güvenilir fotoğrafına ulaşılıncaya kadar “atıf yapılan gelenekse
+1 CONC l
+1 CONT şecere” şeklinde kaydedilmiştir.
+1 CONT 5. Genelkurmay kitabındaki görsel olarak doğrulanan kayıtlar
+1 CONT PDF / basılı
+1 CONT Tarihî kayıt
+1 CONT Kanıt düzeyi / dikkat
+1 CONT 82 sağ / 163
+1 CONT 1916 olayları anlatılırken “Kureyşan aşireti Reisi Ali
+1 CONT Ağa” anılır; Nazımiye ile ilişkili askerî olaylar
+1 CONT aktarılır.
+1 CONT Askerî tarih anlatısı; 1895 Ali
+1 CONT Çavuş ile aynı kişi olduğu ya da
+1 CONT Yegin akrabalığı bilinmiyor.
+1 CONT 85 sol / 168
+1 CONT 1937 harekâtı öncesi siyasi-askerî değerlendirmede
+1 CONT Kureyşan adı, diğer aşiretlerle birlikte geçer.
+1 CONT Raporda topluluk düzeyinde
+1 CONT nitelendirme; bütün üyeler için
+1 CONT hüküm kurulamaz.
+1 CONT 90 sol / 178
+1 CONT 1937 döneminde Kureyşan adı, birliklere ilişkin
+1 CONT harekât anlatımında yeniden geçer.
+1 CONT Olayın kayıtlardaki anlatımıdır;
+1 CONT Temür adına doğrudan eşleşme
+1 CONT yok.
+1 CONT 91 sol / 180
+1 CONT Kureyşan ve komşu aşiretler askerî gözlem
+1 CONT kapsamındadır.
+1 CONT Dönem bağlamı; soy hattı değil.
+1 CONT 118 sağ / 235
+1 CONT 19 Haziran 1938 raporunda “Kureyşan, Şeyhan
+1 CONT grubu” mensuplarının katılımından söz edilir.
+1 CONT Şeyhan kolu için belirli askerî
+1 CONT kaynak atfı; Yegin ailesinin
+1 CONT kolunu tespit etmiyor.
+1 CONT 46 sağ / 91; 59 sol
+1 CONT / 116
+1 CONT 1929–1930 olayları kapsamında “Şimikânlı Timur”
+1 CONT ve başka Timur atıfları.
+1 CONT 1884 Çevrecik Temür ile
+1 CONT özdeşleştirilemez.
+1 CONT 6. Kaynağın dili, siyasî bağlam ve aile aidiyeti
+1 CONT Genelkurmay kitabının kullandığı “tedip”, “eşkıya”, “itaatsizlik” gibi kavramlar, yayımlanan askerî
+1 CONT raporların ve derlemenin dönemsel resmî terminolojisi olarak değerlendirilmiştir. Bu ifadeler aile
+1 CONT
+1 CONT ===== PDF SAYFA 4 =====
+1 CONT HOUSE OF YEGIN  |  TARİH VE SOY ARAŞTIRMASI  |  15.10.2026
+1 CONT 4
+1 CONT üyelerinin hukuken suçlu olduğuna yönelik bağımsız kanıt sayılmamıştır.
+1 CONT Fırat’ın eseri Türk ve Türkmen kökeni görüşünü savunan bir tarih anlatısıdır. Yazarın etnik köken
+1 CONT hakkındaki değerlendirmeleri, ait oldukları kaynak ve dönem belirtilerek kullanılabilir. Buna karşıl
+1 CONC ık
+1 CONT Kureyşan topluluğunun veya Yegin ailesinin kesintisiz Oğuz/Beğdili soyunu gösteren nüfus ve şecere
+1 CONT belgeleri yerine geçmez.
+1 CONT Araştırmanın amacı Cumhuriyet, Atatürk veya devlet kurumları lehinde ya da aleyhinde bir polemik
+1 CONT yürütmek değildir. Esas amaç, belgelenebilir baba soyunun Kureyşan içindeki somut aile
+1 CONT kolunu tespit etmektir.
+1 CONT 7. Soy bağlantısında kanıt matrisi
+1 CONT İddia
+1 CONT Mevcut durum
+1 CONT Hüseyin + Sakine → Temür → Hasan →
+1 CONT Cemal → Doğukan
+1 CONT Nüfus kayıtlarıyla desteklenen doğrudan soy zinciri.
+1 CONT 1925 Çevrecik yersel nüfus yazımı
+1 CONT CİMER cevabında kurumun tespit ettiği aile kaydı.
+1 CONT Çevrecik Kureyşan yerleşimidir
+1 CONT Kibar Taş 2017 ve Veli Saltık 2009 ile desteklenen coğrafi
+1 CONT bağlantı.
+1 CONT Yeginlerin hangi Kureyşan kolundan geldiği
+1 CONT Henüz doğrudan belge yok.
+1 CONT Fırat’ın Temur/Hüseyin isimleri Yegin
+1 CONT ailesinin atalarıdır
+1 CONT Kanıt yok; aynı isimden özdeşlik kurulamaz.
+1 CONT Temür Ağa’nın ölüm yılı, yeri ve koşulları
+1 CONT Aile sözlü tarihi var; kişiye özgü arşiv belgesi bulunmadı.
+1 CONT 8. Sonraki resmî belge araştırması için hedefler
+1 CONT Öncelik 1 – Temür’ün gerçek hanesi: 1341 (1925) Çevrecik yersel nüfus yazımının özgün hane
+1 CONT kaydı; aile lakabı, önceki hane, baba Hüseyin, anne Sakine, eş Şehriban ve yazım gerekçesine ilişkin
+1 CONT açıklama.
+1 CONT Öncelik 2 – Kureyşan aile kolu: Çevrecik/Sayrik ile Kureyşan ocak şecereleriyle, 19. yüzyıl nüfus ve
+1 CONT arazi defterleriyle, köy ihtiyarları ve ocak kayıtlarıyla karşılaştırılması.
+1 CONT Öncelik 3 – Şorik şeceresinin aslı: Fırat’ın s. 61–64’te tasvir ettiği kaydın fiilî yeri, tarihlendi
+1 CONC rilmesi,
+1 CONT yazı dili, mühürleri ve yayınlanmış fotoğraflarının bulunması. Bu şecerenin öncelikle Hormek çevresi
+1 CONC yle
+1 CONT ilişkili olduğunu gözden kaçırmamak gerekir.
+1 CONT Öncelik 4 – Osmanlı/Cumhuriyet fonları: 1845 Kureyşan kaydı (BOA A.MKT. 52/15), Kızılkilise İdare
+1 CONT Meclisi azası Ali Çavuş (A.MKT.MHM. 657/32), Kureyşan reisleri ve idarî görevlendirmeler, ayrıca
+1 CONT 1937–1938 Tunceli dönemi şahıs listeleri.
+1 CONT 9. Kullanılacak dosya dizini
+1 CONT Araştırmayla birlikte sunulan ZIP paketinde şunlar bulunmaktadır:
+1 CONT • varto_sayfa_numarali_taranabilir_metin.txt — 182 PDF sayfasının OCR metni ve basılı sayfa
+1 CONT eşlemesi.
+1 CONT
+1 CONT ===== PDF SAYFA 5 =====
+1 CONT HOUSE OF YEGIN  |  TARİH VE SOY ARAŞTIRMASI  |  15.10.2026
+1 CONT 5
+1 CONT • genelkurmay_sayfa_numarali_taranabilir_metin.txt — 161 çift sayfa taramasından ayrılan 321
+1 CONT görüntünün OCR metni.
+1 CONT • 343_Sayfa_OCR_Kapsam_Envanteri.csv — bütün fiziksel PDF sayfalarının/kırpımların metin
+1 CONT durumu.
+1 CONT • Hedef_Kelime_Sayfa_Eslesmeleri.csv — kaynak, PDF sayfası, sağ/sol, basılı sayfa ve bağlam
+1 CONT içeren eşleşmeler.
+1 CONT • Tam_Tarama_Istatistikleri.json — sayısal kapsam ve düşük metin yoğunluklu sayfalar.
+1 CONT • Arastirma_Bulgulari_Raporu_2026.pdf — yöntem ve kaynak değerlendirmesi.
+1 CONT 10. Kaynaklar ve kullanım sınırları
+1 CONT 1. M. Şerif Fırat, Doğu İlleri ve Varto Tarihi, ikinci baskı, Ankara, Millî Eğitim Basımevi, 1961. İ
+1 CONC ncelenen
+1 CONT dosya: 182 PDF sayfası.
+1 CONT 2. Genelkurmay Belgelerinde Kürt İsyanları II, Kaynak Yayınları / Güney Yayıncılık, Şubat 1997 baskı
+1 CONC sı.
+1 CONT İncelenen dosya: 161 PDF sayfası, çoğunlukla çift sayfa.
+1 CONT 3. Kibar Taş, Dünü ve Bugünü ile Kureyşan Aşiretleri, Ankara Üniversitesi, doktora tezi, 2017, bilha
+1 CONC ssa
+1 CONT Çevrecik yerleşimi ve Kureyşan belgeleri.
+1 CONT 4. Veli Saltık, “Tunceli’de Alevî Ocakları”, Türk Kültürü ve Hacı Bektaş Velî Araştırma Dergisi, 200
+1 CONC 9,
+1 CONT Sayrik/Çevrecik yer adı.
+1 CONT 5. Doğukan Yegin’in bildirdiği nüfus soy zinciri ve CİMER üzerinden alınan 1925 Çevrecik yersel yazı
+1 CONC mı
+1 CONT cevabı; özgün kurum cevabının tarih ve sayısı bu rapora eklenmemiştir.
+1 CONT Son hüküm: İki eser dijital olarak bütün sayfaları kapsayacak biçimde taranmış, önemli Kureyşan
+1 CONT eşleşmeleri özgün görüntüyle kontrol edilmiştir. Hiçbirinde Yegin ailesinin Kureyşan koluna
+1 CONT bağlandığını kesinleştiren doğrudan bir soy belgesi tespit edilmemiştir. Mevcut sonuç aile
+1 CONT araştırmasına tarihî bağlam ve yeni kaynak izleri sunmaktadır.
+1 CONT
+0 @N8@ NOTE [KAYNAK TAM METNİ — Yegin_Atalar_Huseyin_Sakine_Ali_Seyran_Belge_Ozeti.md]
+1 CONT [KANIT DURUMU] Bu belge hem doğrulanmış olgular hem araştırma hipotezleri ve karşı argümanlar içerir
+1 CONC ; her cümlenin orijinal kaynak düzeyi aşağıdaki metinde korunmuştur.
+1 CONT [FİZİKSEL DOSYA] SHA-256: bccf56803dc903d25921b84d21563fa9d12efeb1183cd76516562461ec8917e8
+1 CONT # Yegin Ailesi — Dört Ata: Belgeye Dayalı Soy Araştırması
+1 CONT
+1 CONT **Kaynak:** Türkiye Cumhuriyeti İçişleri Bakanlığı, Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü, *Al
+1 CONC t-Üst Soy Belgesi*, e-Devlet üzerinden 9 Ekim 2026 tarihinde oluşturulmuş bilgilendirme belgesi (4 s
+1 CONC ayfa). Çalışma tarihi: 18 Ekim 2026.
+1 CONT
+1 CONT ## 1. Hüseyin
+1 CONT - **Temür'ün babası.** Temür'ün nüfus kaydı: sıra 10, doğum tarihi 01.07.1884, baba adı HÜSEYİN, ann
+1 CONC e adı SAKİNE.
+1 CONT - Doğum tarihi ve yeri: **belirtilmemiştir**.
+1 CONT - Ölüm tarihi ve yeri: **belirtilmemiştir**.
+1 CONT - Soyadı: **belirtilmemiştir**. Bu kişiyi belgeye dayalı olarak “Hüseyin Yegin” şeklinde kesinleştir
+1 CONC memek gerekir.
+1 CONT - Temür'ün kayıtlı olduğu yer: Tunceli / Nazımiye / Çevrecik Köyü. Bu, Hüseyin'in doğduğu veya öldüğ
+1 CONC ü yerin kanıtı değildir.
+1 CONT
+1 CONT ## 2. Sakine
+1 CONT - **Temür'ün annesi.** Temür'ün nüfus kaydında adı SAKİNE olarak geçer (sıra 10).
+1 CONT - Doğum tarihi ve yeri: **belirtilmemiştir**.
+1 CONT - Ölüm tarihi ve yeri: **belirtilmemiştir**.
+1 CONT - Soyadı: **belirtilmemiştir**.
+1 CONT - Temür'ün kayıt yeri ile Sakine'nin kişisel doğum/ölüm yeri birbirine karıştırılmamalıdır.
+1 CONT
+1 CONT ## 3. Ali Görgü
+1 CONT - Alt-Üst Soy Belgesi **sıra 17**; babanın annesinin babası.
+1 CONT - Adı ve soyadı: **Ali Görgü**.
+1 CONT - Cinsiyet: erkek.
+1 CONT - Baba adı: **Kali**; anne adı: **Zeynep**.
+1 CONT - Doğum tarihi: **01.07.1909** (belgede yazıldığı şekliyle).
+1 CONT - Doğum yeri: **Kiğı**.
+1 CONT - Nüfusa kayıtlı yer: **Elazığ / Karakoçan / Akarbaşı Köyü**.
+1 CONT - Ölüm tarihi: **16.08.1972**.
+1 CONT - Ölüm yeri: **belirtilmemiştir**.
+1 CONT - Medenî hâl: **Evli** (belgede yazıldığı şekliyle).
+1 CONT - Eşi: **Seyran Görgü**; kızları **Besime Yegin (03.02.1928–17.12.2008)**.
+1 CONT - Ali'nin babası **Kali Görgü** ayrıca sıra 4'te kayıtlıdır: doğum 01.07.1865, doğum yeri Kiği, ölüm
+1 CONC  19.03.1940, baba adı Ali, anne adı Elif, kayıt yeri Akarbaşı Köyü.
+1 CONT - Ali'nin annesi **Zeynep Görgü** ayrıca sıra 8'de kayıtlıdır: doğum 01.07.1878, doğum yeri Kiğı, öl
+1 CONC üm tarihi belirsiz, baba adı Ali Kali, anne adı Fatma, kayıt yeri Akarbaşı Köyü.
+1 CONT
+1 CONT ## 4. Seyran Görgü
+1 CONT - Alt-Üst Soy Belgesi **sıra 19**; babanın annesinin annesi.
+1 CONT - Adı ve soyadı: **Seyran Görgü**.
+1 CONT - Cinsiyet: kadın.
+1 CONT - Baba adı: **Ali**; anne adı: **Fatma**.
+1 CONT - Doğum tarihi: **01.07.1914** (belgede yazıldığı şekliyle).
+1 CONT - Doğum yeri: **Kiğı**.
+1 CONT - Nüfusa kayıtlı yer: **Elazığ / Karakoçan / Akarbaşı Köyü**.
+1 CONT - Ölüm tarihi: **05.03.2001**.
+1 CONT - Ölüm yeri: **belirtilmemiştir**.
+1 CONT - Medenî hâl: **Dul** (belgede yazıldığı şekliyle).
+1 CONT - Eşi: **Ali Görgü**; kızları **Besime Yegin**.
+1 CONT - **Ad ayrımı:** Seyran'ın babası Ali ile eşi Ali Görgü iki farklı kişidir; eşi olan Ali'nin babası 
+1 CONC Kali'dir.
+1 CONT
+1 CONT ## Bağlantılar
+1 CONT - **Hüseyin + Sakine → Temür** (01.07.1884; nüfus kaydı 10).
+1 CONT - **Temür + Şehriban Kuş → Hasan Yegin** (01.07.1928; kayıt 21).
+1 CONT - **Ali Görgü + Seyran Görgü → Besime Yegin** (03.02.1928; kayıt 20).
+1 CONT - **Hasan Yegin + Besime Yegin → Cemal Yegin** (14.04.1969; kayıt 24).
+1 CONT - **Cemal Yegin + Banu Alev → Doğukan Yegin** (11.05.1994; kayıt 26).
+1 CONT
+1 CONT ## Veri kalitesi ve GEDCOM düzenlemeleri
+1 CONT - Eski GEDCOM'da 7 kişi ve 3 aile vardı; güncellenen dosyada **11 kişi ve 5 aile** bulunuyor.
+1 CONT - Hüseyin, Sakine, Ali Görgü ve Seyran Görgü, ebeveyn-çocuk bağlarıyla eklenmiştir.
+1 CONT - Dosya, **GEDCOM 5.5.1 / UTF-8** biçiminde tutulmuştur.
+1 CONT - Temür ve Şehriban için yalnızca nüfusa kayıtlı köy bilgisinin doğum köyü gibi yazılması düzeltilmi
+1 CONC ştir.
+1 CONT - Besime'nin ölüm yeri olarak yanlış girilen Fikirtepe alanı kaldırılmış; nüfusa kayıtlı yer olarak 
+1 CONC not bırakılmıştır.
+1 CONT - Doğukan'ın doğum yeri Şişli/İstanbul; Banu'nun doğum yeri İstanbul olarak düzeltilmiştir.
+1 CONT - Orijinal GEDCOM'daki Temür hakkındaki ağalık ve 1925 nüfus yazımı anlatısı korunmuştur, ancak özel
+1 CONC  not olarak değerlendirilmiştir.
+1 CONT - **1 Temmuz tarihleri** nüfus kaydındaki şekliyle korunmuştur. Erken dönem kayıtlarda gün/ay standa
+1 CONC rdizasyonu olabileceği için özgün kayıtlar bulunursa tarih doğruluğu ayrıca sınanabilir.
+1 CONT - Seyran Görgü'nün kızlık soyadı ve diğer çocukları hakkında belge yoktur; hiçbir bilgi tahmin edilm
+1 CONC emiştir.
+1 CONT - Bu belge, e-Devlet soy belgesi kapsamındaki kayıtların özeti olup eksik olguları arşivden bulunmuş
+1 CONC  gibi göstermez.
+1 CONT
+0 @SUBM@ SUBM
+1 NAME Vestigee
+0 TRLR
